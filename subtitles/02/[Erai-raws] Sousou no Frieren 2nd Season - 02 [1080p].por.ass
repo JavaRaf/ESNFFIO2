@@ -1,0 +1,266 @@
+﻿[Script Info]
+Title: [Erai-raws] Português (Brasil)
+ScriptType: v4.00+
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: DefaultItalics,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,0
+Style: DefaultTop,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0015,0
+Style: DefaultOverlap,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00666666,&H00666666,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: Flashback,Trebuchet MS,22,&H00FBFBFE,&H000000FF,&H005C0718,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+Style: FlashbackItalics,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,1
+Style: Signs,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0030,0030,0010,0
+Style: Signs_WText,Times New Roman,12,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,9,0030,0030,0010,0
+Style: Signs_EpTitle,Times New Roman,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0030,0030,0010,0
+Style: Signs_NextEp,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,0030,0030,0010,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:25.25,0:00:32.21,Signs,SIGN,0000,0000,0000,,{\fad(2000,473)\blur0.25\fs25\fnGeorgia\fsp3.9\c&HFDC89E&\t(2589,5326,\c&HFFFFFF&)\pos(323,252)}e a Jornada para o Além
+Dialogue: 0,0:01:29.98,0:01:32.98,Signs_EpTitle,EPTITLE,0000,0000,0000,,{\blur0.2\c&HFAFFF7&\pos(395,271)}Episódio 30: O Herói do Sul
+Dialogue: 0,0:01:36.34,0:01:39.74,Default,VILLAGER,0000,0000,0000,,Poderiam polir a estátua do herói?
+Dialogue: 0,0:01:41.28,0:01:42.68,Default,FRIEREN,0000,0000,0000,,E qual seria a recompensa?
+Dialogue: 0,0:01:43.89,0:01:47.84,Default,VILLAGER,0000,0000,0000,,Um feitiço para coçar os lugares\Nque incomodam nas costas.
+Dialogue: 0,0:01:52.71,0:01:56.72,Signs_WText,SIGN,0000,0000,0000,,{\blur0.2\pos(588.5,16)}29 anos se passaram desde a morte do Herói Himmel.\NEstamos na Vila Fabel, localizada nas Terras do Norte.
+Dialogue: 0,0:01:59.44,0:02:01.47,Default,STARK,0000,0000,0000,,Faremos esse tipo de trabalho de novo?
+Dialogue: 0,0:02:02.28,0:02:05.60,Default,FERN,0000,0000,0000,,Parece que há estátuas\Ndo Sr. Himmel por toda parte.
+Dialogue: 0,0:02:06.11,0:02:10.04,Default,STARK,0000,0000,0000,,Bem, bicos como esses\Ntambém são divertidos.
+Dialogue: 0,0:02:10.48,0:02:13.09,Default,STARK,0000,0000,0000,,Vamos começar a polir.
+Dialogue: 0,0:02:13.09,0:02:15.58,Default,FRIEREN,0000,0000,0000,,É uma estátua de bronze,\Nentão podemos usar magia.
+Dialogue: 0,0:02:15.58,0:02:17.96,Default,FRIEREN,0000,0000,0000,,Você não terá nada para fazer, Stark.
+Dialogue: 0,0:02:17.96,0:02:18.67,Default,STARK,0000,0000,0000,,Hã?
+Dialogue: 0,0:02:26.50,0:02:28.37,Default,STARK,0000,0000,0000,,Espera, quem é esse cara?!
+Dialogue: 0,0:02:29.44,0:02:31.62,Default,FRIEREN,0000,0000,0000,,É a primeira vez que vocês o veem?
+Dialogue: 0,0:02:32.32,0:02:34.13,Default,FRIEREN,0000,0000,0000,,Esse é o Herói do Sul.
+Dialogue: 0,0:02:35.89,0:02:40.88,Default,FRIEREN,0000,0000,0000,,Himmel foi quem derrotou o Rei Demônio,\Nmas ele não foi o único herói.
+Dialogue: 0,0:02:41.80,0:02:45.11,Default,FRIEREN,0000,0000,0000,,Todo tipo de herói tentou.
+Dialogue: 0,0:02:45.63,0:02:51.05,Default,FRIEREN,0000,0000,0000,,Entre eles, dizia-se que o Herói do Sul\Nera o mais forte da humanidade.
+Dialogue: 0,0:02:51.05,0:02:53.31,Default,STARK,0000,0000,0000,,Isso parece um pouco exagerado.
+Dialogue: 0,0:02:53.31,0:02:54.36,Default,FRIEREN,0000,0000,0000,,Eu não diria isso.
+Dialogue: 0,0:02:54.91,0:02:57.61,Default,FRIEREN,0000,0000,0000,,Ele era digno desse título.
+Dialogue: 0,0:02:59.11,0:03:01.99,Default,FRIEREN,0000,0000,0000,,Na época, a maior ameaça à humanidade
+Dialogue: 0,0:03:03.00,0:03:05.36,Default,FRIEREN,0000,0000,0000,,eram os Sete Sábios da Destruição,
+Dialogue: 0,0:03:05.36,0:03:08.68,Default,FRIEREN,0000,0000,0000,,que controlavam as principais regiões\Nao redor das Terras do Norte.
+Dialogue: 0,0:03:09.71,0:03:14.73,Default,FRIEREN,0000,0000,0000,,Na verdade, nós só derrotamos dois deles.
+Dialogue: 0,0:03:16.11,0:03:21.33,Default,FRIEREN,0000,0000,0000,,Dos cinco restantes, dois\Nfugiram ou desapareceram.
+Dialogue: 0,0:03:21.60,0:03:23.87,Default,FERN,0000,0000,0000,,Como Aura, a Guilhotina.
+Dialogue: 0,0:03:24.46,0:03:28.31,Default,FRIEREN,0000,0000,0000,,O Herói do Sul derrotou\Nos três restantes.
+Dialogue: 0,0:03:32.10,0:03:35.24,Default,FRIEREN,0000,0000,0000,,O avanço rápido dele foi incrível.
+Dialogue: 0,0:03:36.14,0:03:40.23,Default,FRIEREN,0000,0000,0000,,Em apenas um ano, ele aniquilou as tropas\Nda linha de frente do Rei Demônio
+Dialogue: 0,0:03:41.19,0:03:44.77,Default,FRIEREN,0000,0000,0000,,e chegou ao ponto mais\Nao norte do Planalto Norte,
+Dialogue: 0,0:03:44.77,0:03:47.61,Default,FRIEREN,0000,0000,0000,,o coração da rota de suprimentos\Ndo Rei Demônio naquela época.
+Dialogue: 0,0:03:50.49,0:03:53.51,Default,FRIEREN,0000,0000,0000,,Foi ali que ele foi derrotado\Npor Schlacht, o Onisciente,
+Dialogue: 0,0:03:53.51,0:03:59.00,Default,FRIEREN,0000,0000,0000,,o confidente do Rei Demônio que podia\Nver mil anos no futuro com magia,
+Dialogue: 0,0:03:59.33,0:04:03.32,Default,FRIEREN,0000,0000,0000,,e pelas forças combinadas\Nde todos os Sete Sábios.
+Dialogue: 0,0:04:04.26,0:04:06.50,Default,FERN,0000,0000,0000,,Nossa, todos os Sete Sábios...
+Dialogue: 0,0:04:06.50,0:04:08.26,Default,STARK,0000,0000,0000,,Isso é insano até de imaginar.
+Dialogue: 0,0:04:08.93,0:04:13.78,Default,FRIEREN,0000,0000,0000,,Mesmo assim, o Herói do Sul\Nconseguiu derrotar três deles,
+Dialogue: 0,0:04:13.78,0:04:17.28,Default,FRIEREN,0000,0000,0000,,e ele e Schlacht, o Onisciente,\Nmataram um ao outro.
+Dialogue: 0,0:04:21.85,0:04:28.07,Default,FRIEREN,0000,0000,0000,,Essa batalha libertou muitas pessoas\Ndesta região dos Sete Sábios.
+Dialogue: 0,0:04:29.45,0:04:32.75,Default,FRIEREN,0000,0000,0000,,As pessoas daqui são\Ndevotas ao Herói do Sul.
+Dialogue: 0,0:04:34.00,0:04:37.43,Default,FRIEREN,0000,0000,0000,,Como o corpo dele nunca foi encontrado,
+Dialogue: 0,0:04:37.43,0:04:44.19,Default,FRIEREN,0000,0000,0000,,as lendas dizem que ele ainda luta\Ncontra Schlacht, o Onisciente, até hoje.
+Dialogue: 0,0:04:46.62,0:04:49.79,Default,FRIEREN,0000,0000,0000,,Mas, visto que os demônios que\Nenfrentou gostavam de carne humana,
+Dialogue: 0,0:04:49.79,0:04:52.72,Default,FRIEREN,0000,0000,0000,,acho que ele simplesmente foi devorado.
+Dialogue: 0,0:04:56.05,0:04:58.23,Default,FRIEREN,0000,0000,0000,,Vamos limpar isso?
+Dialogue: 0,0:05:04.56,0:05:05.54,Flashback,FRIEREN,0000,0000,0000,,Eu me recuso.
+Dialogue: 0,0:05:06.37,0:05:08.74,Flashback,FRIEREN,0000,0000,0000,,Não posso derrotar o Rei Demônio.
+Dialogue: 0,0:05:11.03,0:05:13.04,Flashback,HERO OF THE SOUTH,0000,0000,0000,,Então você realmente recusou.
+Dialogue: 0,0:05:13.52,0:05:18.03,Flashback,HERO OF THE SOUTH,0000,0000,0000,,Como imaginava, eu não sei as\Npalavras certas para te convencer.
+Dialogue: 0,0:05:21.21,0:05:24.54,Flashback,FRIEREN,0000,0000,0000,,Você fala como se já soubesse\Nque isso aconteceria.
+Dialogue: 0,0:05:25.84,0:05:28.54,Flashback,HERO OF THE SOUTH,0000,0000,0000,,É porque eu sabia.
+Dialogue: 0,0:05:32.27,0:05:35.05,Flashback,HERO OF THE SOUTH,0000,0000,0000,,Mas acho que posso lhe dizer o motivo.
+Dialogue: 0,0:05:37.46,0:05:43.16,Flashback,HERO OF THE SOUTH,0000,0000,0000,,Mesmo que você descubra meu\Nsegredo, nunca contará a ninguém.
+Dialogue: 0,0:05:44.42,0:05:47.19,Flashback,HERO OF THE SOUTH,0000,0000,0000,,Então eu vou contar, apenas a você...
+Dialogue: 0,0:05:47.69,0:05:51.55,Flashback,HERO OF THE SOUTH,0000,0000,0000,,o motivo de eu ser o herói\Nmais forte da humanidade.
+Dialogue: 0,0:05:54.43,0:05:57.13,Flashback,HERO OF THE SOUTH,0000,0000,0000,,Eu consigo ver o futuro.
+Dialogue: 0,0:05:59.00,0:06:01.84,Flashback,FRIEREN,0000,0000,0000,,Ah, é? Que impressionante.
+Dialogue: 0,0:06:04.03,0:06:06.10,Flashback,HERO OF THE SOUTH,0000,0000,0000,,Você não parece acreditar em mim.
+Dialogue: 0,0:06:07.49,0:06:11.75,Flashback,FRIEREN,0000,0000,0000,,Não é isso. Eu só não me importo.
+Dialogue: 0,0:06:14.43,0:06:19.07,Flashback,HERO OF THE SOUTH,0000,0000,0000,,Então talvez isto\Ndesperte seu interesse.
+Dialogue: 0,0:06:20.23,0:06:23.20,Flashback,HERO OF THE SOUTH,0000,0000,0000,,Você conhece os Sete\NSábios da Destruição, não?
+Dialogue: 0,0:06:29.13,0:06:34.56,Flashback,HERO OF THE SOUTH,0000,0000,0000,,Daqui a um ano,\Neu serei derrotado e morto
+Dialogue: 0,0:06:34.56,0:06:39.45,Flashback,HERO OF THE SOUTH,0000,0000,0000,,por Schlacht, o Onisciente,\Ne pelos Sete Sábios.
+Dialogue: 0,0:07:11.65,0:07:14.83,Flashback,HERO OF THE SOUTH,0000,0000,0000,,Vou morrer sem alcançar meu objetivo.
+Dialogue: 0,0:07:20.03,0:07:22.20,Flashback,HERO OF THE SOUTH,0000,0000,0000,,Não sinta pena de mim.
+Dialogue: 0,0:07:22.58,0:07:29.20,Flashback,HERO OF THE SOUTH,0000,0000,0000,,Mesmo que você me acompanhasse,\Nmeu destino não mudaria.
+Dialogue: 0,0:07:30.74,0:07:32.22,Flashback,HERO OF THE SOUTH,0000,0000,0000,,Mas, em breve,
+Dialogue: 0,0:07:33.03,0:07:36.32,Flashback,HERO OF THE SOUTH,0000,0000,0000,,um jovem herói virá visitá-la.
+Dialogue: 0,0:07:38.13,0:07:44.20,Flashback,HERO OF THE SOUTH,0000,0000,0000,,Odeio admitir, mas será ele\Nquem salvará o mundo, não eu.
+Dialogue: 0,0:07:45.35,0:07:50.81,Flashback,HERO OF THE SOUTH,0000,0000,0000,,Você viajará com o grupo desse\Njovem e derrotará o Rei Demônio.
+Dialogue: 0,0:07:51.52,0:07:53.75,Flashback,FRIEREN,0000,0000,0000,,Realmente não consigo\Nimaginar isso acontecendo.
+Dialogue: 0,0:07:54.61,0:07:56.62,Flashback,HERO OF THE SOUTH,0000,0000,0000,,Vai entender quando o conhecer.
+Dialogue: 0,0:07:57.27,0:08:00.03,Flashback,HERO OF THE SOUTH,0000,0000,0000,,Ele vai mudar a sua vida.
+Dialogue: 0,0:08:04.10,0:08:07.48,Flashback,HERO OF THE SOUTH,0000,0000,0000,,Bem, devo ir agora.
+Dialogue: 0,0:08:11.82,0:08:15.58,Flashback,HERO OF THE SOUTH,0000,0000,0000,,Posso lhe pedir uma coisa?
+Dialogue: 0,0:08:15.97,0:08:16.77,Flashback,FRIEREN,0000,0000,0000,,O que é?
+Dialogue: 0,0:08:18.77,0:08:21.93,Flashback,HERO OF THE SOUTH,0000,0000,0000,,Quando encontrar esse\Njovem, diga isto a ele.
+Dialogue: 0,0:08:38.35,0:08:40.03,FlashbackItalics,HERO OF THE SOUTH,0000,0000,0000,,Eu juro...
+Dialogue: 0,0:08:43.71,0:08:46.45,FlashbackItalics,HERO OF THE SOUTH,0000,0000,0000,,que abrirei um caminho para você.
+Dialogue: 0,0:08:53.64,0:08:57.42,Flashback,HERO OF THE SOUTH,0000,0000,0000,,Eu, o herói mais forte da\Nhumanidade: o Herói do Sul.
+Dialogue: 0,0:09:00.71,0:09:05.66,FlashbackItalics,HERO OF THE SOUTH,0000,0000,0000,,Mesmo que minhas conquistas sejam\Nenterradas nas sombras da história.
+Dialogue: 0,0:09:10.54,0:09:12.14,Default,CHILDREN,0000,0000,0000,,Espera aí!
+Dialogue: 0,0:09:12.14,0:09:13.52,Default,CHILDREN,0000,0000,0000,,Você não vai escapar!
+Dialogue: 0,0:09:19.39,0:09:21.69,DefaultItalics,FRIEREN/ID,0000,0000,0000,,Que belo futuro você viu.
+Dialogue: 0,0:09:23.51,0:09:26.09,DefaultItalics,FRIEREN/ID,0000,0000,0000,,As pessoas daqui se lembram de você.
+Dialogue: 0,0:09:26.66,0:09:29.15,DefaultItalics,FRIEREN/ID,0000,0000,0000,,A história não o esqueceu.
+Dialogue: 0,0:09:31.00,0:09:35.01,Signs_WText,SIGN,0000,0000,0000,,{\blur0.2\pos(588.5,16)}29 anos se passaram desde a morte do Herói Himmel.\NEstamos no domínio do Conde Dach, localizado nas Terras do Norte.
+Dialogue: 0,0:09:36.15,0:09:38.85,Default,STARK,0000,0000,0000,,Faz um tempo desde que\Nestivemos numa cidade grande.
+Dialogue: 0,0:09:39.24,0:09:41.50,Default,FRIEREN,0000,0000,0000,,Sairemos assim que\Nterminarmos de re-estocar.
+Dialogue: 0,0:09:42.08,0:09:43.53,Default,STARK,0000,0000,0000,,Sério?
+Dialogue: 0,0:09:43.53,0:09:45.72,Default,STARK,0000,0000,0000,,Não vamos aproveitar um pouco?
+Dialogue: 0,0:09:49.14,0:09:51.12,Default,STARK,0000,0000,0000,,Ei, eles têm lojas de magia.
+Dialogue: 0,0:09:51.66,0:09:55.84,Default,FRIEREN,0000,0000,0000,,Você não sabe, Stark? O tempo é finito.
+Dialogue: 0,0:09:55.84,0:09:56.66,Default,STARK,0000,0000,0000,,Sim, eu sei.
+Dialogue: 0,0:10:20.60,0:10:22.26,Default,FRIEREN,0000,0000,0000,,Isso é tudo.
+Dialogue: 0,0:10:22.80,0:10:27.14,Default,STARK,0000,0000,0000,,Ei, que tal comermos\Nalgo gostoso, pelo menos?
+Dialogue: 0,0:10:27.51,0:10:34.77,Default,FRIEREN,0000,0000,0000,,Você sabe que não temos dinheiro\Nsobrando para isso, Stark.
+Dialogue: 0,0:10:34.77,0:10:36.83,Default,STARK,0000,0000,0000,,Sim, mas...
+Dialogue: 0,0:10:36.83,0:10:38.23,Default,FRIEREN,0000,0000,0000,,Vamos nos apressar.
+Dialogue: 0,0:10:39.52,0:10:41.98,Default,FERN,0000,0000,0000,,Ela tem agido de forma\Nestranha faz um bom tempo.
+Dialogue: 0,0:10:43.95,0:10:49.61,Default,STARK,0000,0000,0000,,Normalmente, ela não vê problema em ficar\Nnuma cidade grande por alguns meses.
+Dialogue: 0,0:10:51.55,0:10:53.15,Default,FRIEREN,0000,0000,0000,,Chegamos tarde demais.
+Dialogue: 0,0:10:54.65,0:10:56.75,Default,SERVANT,0000,0000,0000,,Você deve ser a Srta. Frieren.
+Dialogue: 0,0:10:57.34,0:11:01.22,Default,SERVANT,0000,0000,0000,,Meu senhor gostaria\Nde convidá-la para jantar.
+Dialogue: 0,0:11:01.84,0:11:04.64,Default,FRIEREN,0000,0000,0000,,Estamos com pressa.
+Dialogue: 0,0:11:06.42,0:11:12.47,Default,SERVANT,0000,0000,0000,,A Srta. Frieren fez parte do grupo\Nde heróis que salvou esta terra.
+Dialogue: 0,0:11:13.30,0:11:15.82,Default,SERVANT,0000,0000,0000,,Meu senhor deseja\Nagradecer a todos vocês.
+Dialogue: 0,0:11:29.16,0:11:30.93,Default,STARK,0000,0000,0000,,Que comida gostosa!
+Dialogue: 0,0:11:32.17,0:11:35.92,Default,FRIEREN,0000,0000,0000,,Obrigada pelo convite, Conde Dach.
+Dialogue: 0,0:11:36.51,0:11:39.29,DefaultItalics,FERN/ID,0000,0000,0000,,Ela parece muito infeliz.
+Dialogue: 0,0:11:39.29,0:11:44.17,Default,DACH,0000,0000,0000,,Srta. Frieren, obrigado\Npor ajudar meu bisavô.
+Dialogue: 0,0:11:45.39,0:11:46.69,Default,FRIEREN,0000,0000,0000,,O que você quer?
+Dialogue: 0,0:11:47.76,0:11:50.46,Default,DACH,0000,0000,0000,,Direto ao ponto. Gosto disso.
+Dialogue: 0,0:11:50.46,0:11:55.75,Default,DACH,0000,0000,0000,,A espada relíquia da minha família\Nfoi roubada por um demônio.
+Dialogue: 0,0:11:56.12,0:11:58.13,Default,FRIEREN,0000,0000,0000,,Foi roubada de novo?
+Dialogue: 0,0:11:58.75,0:11:59.92,Default,STARK,0000,0000,0000,,"De novo"?
+Dialogue: 0,0:12:00.93,0:12:03.53,Default,FRIEREN,0000,0000,0000,,Ela também foi roubada do bisavô dele.
+Dialogue: 0,0:12:04.41,0:12:06.28,Default,STARK,0000,0000,0000,,Como isso continua acontecendo?
+Dialogue: 0,0:12:07.66,0:12:09.10,Default,FRIEREN,0000,0000,0000,,Muito bem.
+Dialogue: 0,0:12:10.56,0:12:12.53,Default,FRIEREN,0000,0000,0000,,Quero um grimório como recompensa.
+Dialogue: 0,0:12:16.16,0:12:17.91,Default,DACH,0000,0000,0000,,Então estarei contando com você.
+Dialogue: 0,0:12:20.60,0:12:26.23,Default,FRIEREN,0000,0000,0000,,Sinceramente, muitos nobres\Ndas Terras do Norte são insistentes,
+Dialogue: 0,0:12:26.87,0:12:31.15,Default,FRIEREN,0000,0000,0000,,mas esta família em particular\Nfaz exigências absurdas.
+Dialogue: 0,0:12:33.31,0:12:36.42,Flashback,GREAT-GRANDFATHER DACH,0000,0000,0000,,Se não recuperarem minha espada,\Nvou jogá-los na masmorra!
+Dialogue: 0,0:12:36.42,0:12:37.59,Flashback,HIMMEL,0000,0000,0000,,O quê?
+Dialogue: 0,0:12:37.59,0:12:39.36,Flashback,EISEN,0000,0000,0000,,Que atitude tirânica.
+Dialogue: 0,0:12:40.58,0:12:44.86,Default,FRIEREN,0000,0000,0000,,Pelo menos desta vez, eles sabem\Npara onde o demônio fugiu.
+Dialogue: 0,0:12:44.86,0:12:46.87,Default,FRIEREN,0000,0000,0000,,Isso já é melhor do que antes.
+Dialogue: 0,0:12:49.31,0:12:53.37,Default,FRIEREN,0000,0000,0000,,Da última vez, foi uma verdadeira provação\Nprocurá-la sem pista nenhuma.
+Dialogue: 0,0:12:55.07,0:13:00.43,Default,FRIEREN,0000,0000,0000,,No fim, encontramos a espada\Nno topo da Cordilheira Schwer.
+Dialogue: 0,0:13:02.03,0:13:03.76,Default,STARK,0000,0000,0000,,Isso é ridículo.
+Dialogue: 0,0:13:04.14,0:13:07.91,Default,FERN,0000,0000,0000,,Mas por que os demônios\Ncontinuariam roubando essa espada?
+Dialogue: 0,0:13:09.26,0:13:14.48,Default,FRIEREN,0000,0000,0000,,A espada de herança da família Dach\Noriginalmente pertencia a um demônio famoso.
+Dialogue: 0,0:13:15.37,0:13:18.91,Default,FRIEREN,0000,0000,0000,,Deve ter algum tipo de atrativo que\Nsó os demônios conseguem entender.
+Dialogue: 0,0:13:20.13,0:13:23.04,Default,FERN,0000,0000,0000,,De todo modo, estou surpresa\Nque tenha aceitado o trabalho.
+Dialogue: 0,0:13:23.39,0:13:25.23,Default,FERN,0000,0000,0000,,Achei que você recusaria.
+Dialogue: 0,0:13:27.24,0:13:28.73,Default,FRIEREN,0000,0000,0000,,Eu não tinha escolha.
+Dialogue: 0,0:13:29.27,0:13:32.65,Default,FRIEREN,0000,0000,0000,,O Himmel já havia recuperado\Nessa espada de família uma vez.
+Dialogue: 0,0:13:33.69,0:13:37.51,Default,FRIEREN,0000,0000,0000,,Se eu recusasse, todo o esforço\Ndele teria sido em vão.
+Dialogue: 0,0:13:38.62,0:13:42.27,Default,FRIEREN,0000,0000,0000,,Além disso, o Himmel não abandonaria\Nalguém que precisa de ajuda.
+Dialogue: 0,0:14:31.43,0:14:32.64,Default,FERN,0000,0000,0000,,Esta vila...
+Dialogue: 0,0:14:33.48,0:14:35.35,Default,FERN,0000,0000,0000,,Está em ruínas.
+Dialogue: 0,0:14:38.16,0:14:39.77,Default,STARK,0000,0000,0000,,Não tem ninguém aqui.
+Dialogue: 0,0:14:44.56,0:14:47.29,Default,FRIEREN,0000,0000,0000,,Não. {\i1}Tem{\i0} alguém aqui.
+Dialogue: 0,0:14:57.73,0:14:59.21,Default,FRIEREN,0000,0000,0000,,Você é desta vila?
+Dialogue: 0,0:14:59.60,0:15:02.86,Default,PRIEST,0000,0000,0000,,Não. Sou uma sacerdote viajante.
+Dialogue: 0,0:15:02.86,0:15:04.23,Default,PRIEST,0000,0000,0000,,E vocês, quem são?
+Dialogue: 0,0:15:04.96,0:15:06.72,Default,STARK,0000,0000,0000,,Somos aventureiros de passagem.
+Dialogue: 0,0:15:10.51,0:15:14.61,Default,PRIEST,0000,0000,0000,,Esta vila foi destruída\Npelo demônio da espada.
+Dialogue: 0,0:15:16.46,0:15:19.56,Default,PRIEST,0000,0000,0000,,Eu estava lamentando pelos aldeões.
+Dialogue: 0,0:15:20.98,0:15:22.71,Default,FERN,0000,0000,0000,,O demônio da espada...
+Dialogue: 0,0:15:23.79,0:15:26.66,Default,FRIEREN,0000,0000,0000,,Provavelmente é o demônio\Nque estamos procurando.
+Dialogue: 0,0:15:27.63,0:15:31.23,Default,PRIEST,0000,0000,0000,,Inúmeras vilas foram destruídas\Npelo demônio da espada.
+Dialogue: 0,0:15:32.13,0:15:35.05,Default,PRIEST,0000,0000,0000,,Não houve sobreviventes.
+Dialogue: 0,0:15:36.13,0:15:37.27,Default,FERN,0000,0000,0000,,Que horrível.
+Dialogue: 0,0:15:38.23,0:15:40.25,Default,PRIEST,0000,0000,0000,,Aventureiros,
+Dialogue: 0,0:15:41.64,0:15:44.07,Default,PRIEST,0000,0000,0000,,vocês poderiam fazer uma oração?
+Dialogue: 0,0:15:52.34,0:15:53.59,Default,FERN,0000,0000,0000,,Srta. Frieren?
+Dialogue: 0,0:15:54.60,0:15:57.58,Default,FRIEREN,0000,0000,0000,,Eu sabia. Não há corpos enterrados aqui.
+Dialogue: 0,0:15:58.07,0:15:59.19,Default,FERN,0000,0000,0000,,Mas por quê?
+Dialogue: 0,0:16:00.59,0:16:03.22,Default,FRIEREN,0000,0000,0000,,Porque essa sacerdote\Né o demônio da espada.
+Dialogue: 0,0:16:03.80,0:16:06.23,Default,FRIEREN,0000,0000,0000,,Não restou nenhum corpo, não é mesmo?
+Dialogue: 0,0:16:07.32,0:16:09.81,Default,SWORD DEMON,0000,0000,0000,,Eu os matei para poder comê-los.
+Dialogue: 0,0:16:11.56,0:16:15.22,Default,SWORD DEMON,0000,0000,0000,,Eu precisava fazer isso\Npara sobreviver.
+Dialogue: 0,0:16:17.76,0:16:20.20,Default,FRIEREN,0000,0000,0000,,Mesmo podendo comer\Ncoisas além dos humanos?
+Dialogue: 0,0:16:21.97,0:16:25.95,Default,SWORD DEMON,0000,0000,0000,,Por que isso seria um motivo\Npara não comer humanos?
+Dialogue: 0,0:16:27.14,0:16:29.40,Default,FRIEREN,0000,0000,0000,,Falar com isso é perda de tempo.
+Dialogue: 0,0:16:33.59,0:16:34.58,Default,FRIEREN,0000,0000,0000,,Vamos derrubá-la.
+Dialogue: 0,0:16:49.11,0:16:49.88,DefaultItalics,FERN/ID,0000,0000,0000,,Que veloz!
+Dialogue: 0,0:17:00.62,0:17:01.87,Default,FERN,0000,0000,0000,,Sr. Stark.
+Dialogue: 0,0:17:02.29,0:17:04.79,Default,STARK,0000,0000,0000,,É para isso que serve a vanguarda.
+Dialogue: 0,0:17:27.84,0:17:29.64,Flashback,FRIEREN,0000,0000,0000,,Que frio...
+Dialogue: 0,0:17:29.64,0:17:31.73,Flashback,FRIEREN,0000,0000,0000,,Esse foi um trabalho horrível.
+Dialogue: 0,0:17:31.73,0:17:34.62,Flashback,HIMMEL,0000,0000,0000,,Mas conseguimos derrotar um demônio.
+Dialogue: 0,0:17:42.18,0:17:47.70,Flashback,HIMMEL,0000,0000,0000,,Às vezes, trabalhos difíceis como esse\Nacabam ajudando muitas pessoas.
+Dialogue: 0,0:17:50.82,0:17:54.92,Flashback,HIMMEL,0000,0000,0000,,É por isso que eu nunca abandono\Nalguém que precisa de ajuda.
+Dialogue: 0,0:17:58.92,0:18:01.96,Flashback,HEITER,0000,0000,0000,,Você só gosta de aceitar\Ntrabalhos difíceis.
+Dialogue: 0,0:18:02.25,0:18:04.55,Flashback,HIMMEL,0000,0000,0000,,O desafio é o que torna tudo empolgante.
+Dialogue: 0,0:18:05.16,0:18:07.00,Flashback,FRIEREN,0000,0000,0000,,Ah, é mesmo?
+Dialogue: 0,0:18:11.61,0:18:13.54,Default,FRIEREN,0000,0000,0000,,Bom trabalho, vocês dois.
+Dialogue: 0,0:18:20.75,0:18:26.37,Default,FERN,0000,0000,0000,,Por que você ficou violenta de repente?
+Dialogue: 0,0:18:26.93,0:18:29.46,Default,FRIEREN,0000,0000,0000,,Porque você estava prestes a rezar.
+Dialogue: 0,0:18:30.70,0:18:33.08,Default,FRIEREN,0000,0000,0000,,Foi tudo o que consegui\Nfazer naquele momento.
+Dialogue: 0,0:18:40.95,0:18:44.59,Default,FRIEREN,0000,0000,0000,,As pessoas fecham os olhos para rezar.
+Dialogue: 0,0:18:45.66,0:18:50.74,Default,FRIEREN,0000,0000,0000,,Aquele demônio deve ter se aproveitado\Ndisso para matar viajantes.
+Dialogue: 0,0:19:06.13,0:19:11.87,Default,DACH,0000,0000,0000,,Obrigado por devolver minha preciosa\Nespada de família, Srta. Frieren.
+Dialogue: 0,0:19:13.20,0:19:15.87,Default,DACH,0000,0000,0000,,Agora esta cidade está\Nsegura novamente.
+Dialogue: 0,0:19:21.63,0:19:24.72,Default,FRIEREN,0000,0000,0000,,Quero ir às compras. Poderia\Nnos deixar no mercado?
+Dialogue: 0,0:19:24.72,0:19:26.25,Default,SERVANT,0000,0000,0000,,Certamente.
+Dialogue: 0,0:19:31.25,0:19:35.31,Default,FERN,0000,0000,0000,,O conde parecia bem satisfeito.
+Dialogue: 0,0:19:35.31,0:19:37.71,Default,STARK,0000,0000,0000,,Só espero que não seja roubada de novo.
+Dialogue: 0,0:19:38.63,0:19:43.69,Default,FERN,0000,0000,0000,,Se os demônios acham ela tão atraente,\Nprovavelmente continuarão tentando.
+Dialogue: 0,0:19:43.69,0:19:44.86,Default,FRIEREN,0000,0000,0000,,Estou certa que sim.
+Dialogue: 0,0:19:45.33,0:19:47.79,Default,FRIEREN,0000,0000,0000,,Essa foi apenas a segunda\Nvez que ela foi roubada,
+Dialogue: 0,0:19:47.79,0:19:50.03,Default,FRIEREN,0000,0000,0000,,mas eles já foram atacados várias vezes.
+Dialogue: 0,0:19:51.25,0:19:55.56,Default,STARK,0000,0000,0000,,Então os demônios vão continuar vindo\Nenquanto eles tiverem essa espada?
+Dialogue: 0,0:19:56.06,0:19:57.83,Default,STARK,0000,0000,0000,,Pode ser uma herança preciosa,
+Dialogue: 0,0:19:57.83,0:20:00.55,Default,STARK,0000,0000,0000,,mas não seria melhor se\Nlivrarem de algo tão perigoso?
+Dialogue: 0,0:20:01.00,0:20:03.26,Default,FRIEREN,0000,0000,0000,,Não é tão simples assim.
+Dialogue: 0,0:20:04.64,0:20:06.39,Default,STARK,0000,0000,0000,,Imagino que não.
+Dialogue: 0,0:20:06.68,0:20:11.27,Default,STARK,0000,0000,0000,,Nobres costumam ser teimosos\Npara se desfazer de tesouros assim.
+Dialogue: 0,0:20:12.08,0:20:18.52,Default,FRIEREN,0000,0000,0000,,Além disso, deixá-la cair nas mãos\Nde um demônio seria pior.
+Dialogue: 0,0:20:20.35,0:20:24.52,Default,FRIEREN,0000,0000,0000,,Demônios não conseguem resistir\Na exibir o poder que adquiriram.
+Dialogue: 0,0:20:29.81,0:20:31.86,Default,FERN,0000,0000,0000,,Essa é a natureza dos demônios?
+Dialogue: 0,0:20:32.55,0:20:36.59,Default,FRIEREN,0000,0000,0000,,Da última vez que foi roubada,\Num demônio também saiu destruindo tudo.
+Dialogue: 0,0:20:37.87,0:20:41.79,Default,FRIEREN,0000,0000,0000,,Ele destruiu uma cidade\Ne três vilarejos.
+Dialogue: 0,0:20:42.27,0:20:43.60,Default,STARK,0000,0000,0000,,Sério?
+Dialogue: 0,0:20:44.73,0:20:49.26,Default,FRIEREN,0000,0000,0000,,Além disso, dizem que o demônio enganou
+Dialogue: 0,0:20:49.26,0:20:53.27,Default,FRIEREN,0000,0000,0000,,um dos servos do conde para ajudá-lo.
+Dialogue: 0,0:21:00.40,0:21:02.01,Default,FRIEREN,0000,0000,0000,,Mas, desde então,
+Dialogue: 0,0:21:02.01,0:21:06.99,Default,FRIEREN,0000,0000,0000,,a família do conde Dach passou a priorizar\Na proteção da espada da família.
+Dialogue: 0,0:21:09.52,0:21:12.01,Default,FRIEREN,0000,0000,0000,,Talvez, agora, essa seja\Na missão da cidade inteira,
+Dialogue: 0,0:21:13.03,0:21:14.80,DefaultTop,BOY,0000,0000,0000,,Eu também vou crescer e ficar forte?
+Dialogue: 0,0:21:13.03,0:21:15.94,Default,FRIEREN,0000,0000,0000,,e não apenas da família dele.
+Dialogue: 0,0:21:14.80,0:21:15.89,DefaultTop,SOLDIER,0000,0000,0000,,Claro que vai.
+Dialogue: 0,0:21:19.47,0:21:23.53,Default,STARK,0000,0000,0000,,O demônio teve ajuda para roubar\Na espada desta vez também?
+Dialogue: 0,0:21:23.92,0:21:25.17,Default,FRIEREN,0000,0000,0000,,Não sei ao certo.
+Dialogue: 0,0:21:25.17,0:21:32.01,Default,FRIEREN,0000,0000,0000,,Mas, enquanto os humanos conhecerem o desejo,\Nos demônios vão se aproveitar disso.
+Dialogue: 0,0:21:34.61,0:21:39.40,Default,FRIEREN,0000,0000,0000,,Os humanos também não conseguem\Nresistir aos próprios impulsos.
+Dialogue: 0,0:21:42.50,0:21:46.81,Default,FERN,0000,0000,0000,,Se isso acontecer, espero que você\Najude novamente, Srta. Frieren.
+Dialogue: 0,0:21:47.44,0:21:49.40,Default,FRIEREN,0000,0000,0000,,Vai depender da recompensa.
+Dialogue: 0,0:21:50.89,0:21:54.32,Default,STARK,0000,0000,0000,,Você faria isso por um\Ngrimório, não faria?
+Dialogue: 0,0:21:54.58,0:21:55.64,Default,FRIEREN,0000,0000,0000,,Talvez.
+Dialogue: 0,0:21:56.56,0:22:00.03,Default,FRIEREN,0000,0000,0000,,Desta vez, consegui um bom também.
+Dialogue: 0,0:22:02.32,0:22:04.85,Default,FERN,0000,0000,0000,,Que ótimo, Srta. Frieren.
+Dialogue: 0,0:22:05.24,0:22:06.85,Default,STARK,0000,0000,0000,,Que tipo de feitiço é?
+Dialogue: 0,0:22:09.47,0:22:13.09,Default,FRIEREN,0000,0000,0000,,Um feitiço para transformar uma maçã\Nvermelha em uma maçã verde.
+Dialogue: 0,0:22:14.12,0:22:15.59,Default,STARK,0000,0000,0000,,Que coisa inútil.
+Dialogue: 0,0:22:29.57,0:22:34.14,Signs,sign,0000,0000,0000,,{\fs14\i0\shad0\fnTimes New Roman\fad(500,500)\\c&H000000&\pos(123.395,85.923)}Legenda Brasileira\N\N{\b1}tradução{\b0}\NMarianna Brito\N\N{\b1}edição{\b0}\NMarcelo Gouvêa\N\N{\b1}revisão{\b0}\NJacques Junior\N\N{\b1}produção{\b0}\NGustavo Hoffmann
+Dialogue: 0,0:23:50.09,0:23:52.13,Default,OWNER,0000,0000,0000,,Isso traz tantas lembranças.
+Dialogue: 0,0:23:50.70,0:23:52.12,DefaultOverlap,STARK,0000,0000,0000,,Acho que eu gostaria de visitar.
+Dialogue: 0,0:23:51.60,0:23:52.86,DefaultTop,FRIEREN,0000,0000,0000,,Você acabou de me chamar de "vovó".
+Dialogue: 0,0:23:52.38,0:23:55.46,Default,FERN,0000,0000,0000,,Que falta de consideração.
+Dialogue: 0,0:23:52.88,0:23:57.18,DefaultTop,OLD WOMAN,0000,0000,0000,,Você realmente gosta de fontes termais\Npara alguém tão jovem.
+Dialogue: 0,0:23:53.55,0:23:55.74,DefaultOverlap,EISEN,0000,0000,0000,,Foi uma aventura realmente ridícula.
+Dialogue: 0,0:23:55.74,0:23:58.81,Default,HEITER,0000,0000,0000,,Você disse que seria rápido!
+Dialogue: 0,0:23:56.36,0:23:58.81,DefaultOverlap,HIMMEL,0000,0000,0000,,Estou te dizendo, tem algo aqui.
+Dialogue: 0,0:23:57.58,0:24:00.03,Signs_NextEp,SIGN,0000,0000,0000,,{\fad(229,1)\blur3\t(20,312,\blur0.2)\pos(320,113.5)\c&H000000&\t(312,646,\c&HF6F6F6&)\fsp1.6\t(\fsp1)}Episódio 31\N\N\N\N\N\N\N\NAlgum lugar de que ela gostaria
+Dialogue: 0,0:23:58.81,0:23:59.98,Default,FRIEREN,0000,0000,0000,,Algum lugar de que ela gostaria.

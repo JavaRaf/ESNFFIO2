@@ -1,0 +1,278 @@
+﻿[Script Info]
+Title: [Erai-raws] Espanol (America Latina)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_A_Tim,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:25.25,0:00:32.21,Cart_A_Tim,CARTEL,0,0,0,,{\c&HE6B78D&\fad(1779,500)\blur1\bord.1\fs26\fsp2.3\t(3000,6000,\c&HFCFBFD&)\pos(320,258.667)\3c&H000000&\3a&H89&}Más allá del final del viaje
+Dialogue: 0,0:01:33.68,0:01:36.23,Gen_Main,Stark,0,0,0,,Qué profundo es este cañón.
+Dialogue: 0,0:01:36.50,0:01:38.24,Gen_Main,Stark,0,0,0,,Ni siquiera se ve el fondo.
+Dialogue: 0,0:01:38.24,0:01:45.13,Cart_A_Tim,CARTEL,0,0,0,,{\an9\fs16\bord0\shad.1\pos(588.667,142.667)}30 años después\Nde la muerte del héroe Himmel\NGran Cañón de Tor\NAltiplanicie norte
+Dialogue: 0,0:01:39.04,0:01:41.95,Gen_Main,Frieren,0,0,0,,Es una caída de 3000 metros.
+Dialogue: 0,0:01:42.03,0:01:44.88,Gen_Main,Frieren,0,0,0,,Es el cañón más profundo del continente.
+Dialogue: 0,0:01:45.47,0:01:48.85,Gen_Main,Frieren,0,0,0,,Solo es posible\Ngracias a la altitud de la altiplanicie.
+Dialogue: 0,0:01:49.23,0:01:51.59,Gen_Main,Stark,0,0,0,,¿Y cómo vamos a cruzarlo?
+Dialogue: 0,0:01:54.20,0:01:56.05,Gen_Main,Fern,0,0,0,,Hay mucho viento.
+Dialogue: 0,0:01:56.13,0:01:58.82,Gen_Main,Fern,0,0,0,,No podremos cruzarlo volando con magia.
+Dialogue: 0,0:01:58.90,0:02:02.34,Gen_Main,Stark,0,0,0,,Esto me recuerda\Na una situación similar.
+Dialogue: 0,0:02:03.92,0:02:07.47,Gen_Main,Frieren,0,0,0,,Deberíamos poder\Ncruzar el río más arriba,
+Dialogue: 0,0:02:07.55,0:02:10.62,Gen_Main,Frieren,0,0,0,,pero tendríamos que atravesar\Nuna cordillera traicionera.
+Dialogue: 0,0:02:10.70,0:02:12.65,Gen_Main,Frieren,0,0,0,,Es un desvío bastante grande.
+Dialogue: 0,0:02:13.13,0:02:15.14,Gen_Main,Fern,0,0,0,,¿Y río abajo?
+Dialogue: 0,0:02:15.61,0:02:19.90,Gen_Main,Frieren,0,0,0,,Junto al mar también hay\Nun acantilado de 3000 metros.
+Dialogue: 0,0:02:20.60,0:02:23.69,Gen_Main,Frieren,0,0,0,,Dicen que es precioso.\N¿Quieren ir a verlo?
+Dialogue: 0,0:02:23.77,0:02:24.78,Gen_Main,Fern,0,0,0,,No, gracias.
+Dialogue: 0,0:02:25.16,0:02:30.51,Gen_Main,Frieren,0,0,0,,Hagamos lo que hagamos,\Nnos tomará dos semanas cruzar el cañón.
+Dialogue: 0,0:02:31.05,0:02:32.89,Gen_Main,Fern,0,0,0,,Es mucho tiempo.
+Dialogue: 0,0:02:32.97,0:02:35.05,Gen_Main,Stark,0,0,0,,Tampoco tenemos opción.
+Dialogue: 0,0:02:35.66,0:02:39.81,Gen_Main,Frieren,0,0,0,,Aunque puede que ya lo haya terminado…
+Dialogue: 0,0:02:39.89,0:02:41.39,Gen_Main,Fern,0,0,0,,¿De qué habla?
+Dialogue: 0,0:02:42.79,0:02:45.06,Gen_Main,Frieren,0,0,0,,Vayamos río arriba.
+Dialogue: 0,0:02:45.54,0:02:48.95,Gen_Main,Frieren,0,0,0,,Con algo de suerte,\Ntal vez podamos cruzar de camino allá.
+Dialogue: 0,0:02:55.42,0:02:56.68,Gen_Main,Fern,0,0,0,,Señorita Frieren.
+Dialogue: 0,0:02:57.14,0:02:58.56,Gen_Main,Frieren,0,0,0,,Ya se puede ver.
+Dialogue: 0,0:02:58.64,0:03:02.86,Gen_Main,Stark,0,0,0,,Vaya, ¿eso es un puente?
+Dialogue: 0,0:03:02.94,0:03:05.57,Gen_Main,Frieren,0,0,0,,Sí. Parece que lo terminó.
+Dialogue: 0,0:03:06.80,0:03:07.92,Gen_Main,Frieren,0,0,0,,Gehen.
+Dialogue: 0,0:03:08.85,0:03:11.06,Gen_Main,Gehen,0,0,0,,Cuánto tiempo, Frieren.
+Dialogue: 0,0:03:11.14,0:03:13.34,Gen_Main,Frieren,0,0,0,,Veo que completaste tu puente.
+Dialogue: 0,0:03:13.70,0:03:14.91,Gen_Main,Gehen,0,0,0,,Sí.
+Dialogue: 0,0:03:14.96,0:03:15.96,Gen_Main,Fern,0,0,0,,¿Quién es?
+Dialogue: 0,0:03:16.37,0:03:21.56,Gen_Main,Frieren,0,0,0,,Gehen, el enano que llevaba 200 años\Nconstruyendo este puente.
+Dialogue: 0,0:03:21.64,0:03:22.96,Gen_Main,Stark,0,0,0,,Es increíble.
+Dialogue: 0,0:03:23.34,0:03:25.19,Gen_Main,Frieren,0,0,0,,Aun así, me extraña.
+Dialogue: 0,0:03:25.27,0:03:30.60,Gen_Main,Frieren,0,0,0,,Un puente tan bien construido\Ndebería ser un cruce importante.
+Dialogue: 0,0:03:31.12,0:03:33.47,Gen_Main,Frieren,0,0,0,,Pero no había oído nada al respecto.
+Dialogue: 0,0:03:34.05,0:03:36.74,Gen_Main,Frieren,0,0,0,,Creía que aún no lo habías terminado.
+Dialogue: 0,0:03:37.47,0:03:41.25,Gen_Main,Gehen,0,0,0,,A decir verdad,\Nhay un problema, Frieren.
+Dialogue: 0,0:03:51.49,0:03:56.87,Gen_Main,Gehen,0,0,0,,Como puedes ver, unas aves monstruosas\Nhan estado provocando fuertes ráfagas.
+Dialogue: 0,0:03:56.95,0:03:59.56,Gen_Main,Gehen,0,0,0,,Unos mercaderes\Nque iban a la Tierra Dorada
+Dialogue: 0,0:03:59.64,0:04:03.46,Gen_Main,Gehen,0,0,0,,salieron volando el otro día\Ncon carruaje y todo.
+Dialogue: 0,0:04:03.54,0:04:07.01,Gen_Main,Gehen,0,0,0,,Y por si fuera poco,\Nlos monstruos no dejan de venir.
+Dialogue: 0,0:04:07.49,0:04:10.52,Gen_Main,Gehen,0,0,0,,Anidaron cerca de aquí.
+Dialogue: 0,0:04:10.97,0:04:14.25,Gen_Main,Gehen,0,0,0,,Nadie puede usar mi puente por su culpa.
+Dialogue: 0,0:04:14.77,0:04:19.07,Gen_Main,Gehen,0,0,0,,Afortunadamente,\Nlos nidos quedan de este lado.
+Dialogue: 0,0:04:19.59,0:04:22.15,Gen_Main,Gehen,0,0,0,,¿Podrían hacer algo al respecto?
+Dialogue: 0,0:04:22.62,0:04:26.12,Gen_Main,Gehen,0,0,0,,Me tomó 200 años construir este puente.
+Dialogue: 0,0:04:26.49,0:04:27.50,Gen_Main,Frieren,0,0,0,,¿Y el pago?
+Dialogue: 0,0:04:27.82,0:04:31.24,Gen_Main,Gehen,0,0,0,,Un hechizo para voltear panqueques\Na la perfección.
+Dialogue: 0,0:04:31.95,0:04:33.57,Gen_Main,Gehen,0,0,0,,También tengo ingredientes.
+Dialogue: 0,0:04:33.65,0:04:36.78,Gen_Main,Gehen,0,0,0,,Mañana podríamos desayunar como reyes.
+Dialogue: 0,0:04:38.07,0:04:39.35,Gen_Main,Frieren,0,0,0,,Trato hecho.
+Dialogue: 0,0:04:49.05,0:04:52.08,Gen_Main,Frieren,0,0,0,,Según Gehen, debería estar por aquí.
+Dialogue: 0,0:04:52.16,0:04:54.18,Gen_Main,Fern,0,0,0,,Es un camino bastante empinado.
+Dialogue: 0,0:04:54.61,0:04:58.68,Gen_Main,Frieren,0,0,0,,Tengan cuidado.\NSi se caen, se acabó.
+Dialogue: 0,0:05:12.35,0:05:16.80,Gen_Main,Stark,0,0,0,,Por cierto, ¿qué llevó a Gehen\Na construir un puente sobre este cañón?
+Dialogue: 0,0:05:18.16,0:05:20.35,Gen_Main,Frieren,0,0,0,,Tal vez el arrepentimiento.
+Dialogue: 0,0:05:21.38,0:05:25.73,Gen_Main,Himmel,0,0,0,,Conque sigue en construcción.\NQué lástima.
+Dialogue: 0,0:05:26.38,0:05:28.31,Gen_Main,Frieren,0,0,0,,¿Cuándo estará listo?
+Dialogue: 0,0:05:28.72,0:05:31.23,Gen_Main,Gehen,0,0,0,,No sé si llegue a terminarlo.
+Dialogue: 0,0:05:31.31,0:05:33.74,Gen_Main,Gehen,0,0,0,,Me quedé sin dinero.
+Dialogue: 0,0:05:34.79,0:05:40.41,Gen_Main,Gehen,0,0,0,,Es una pena,\Npues tengo todo el tiempo del mundo…
+Dialogue: 0,0:05:40.99,0:05:45.11,Gen_Main,Himmel,0,0,0,,Gehen, ¿por qué construyes\Nun puente aquí?
+Dialogue: 0,0:05:46.58,0:05:51.98,Gen_Main,Gehen,0,0,0,,Mi aldea solía estar por aquí,\Npero fue atacada por demonios.
+Dialogue: 0,0:05:52.47,0:05:57.58,Gen_Main,Gehen,0,0,0,,El ejército más cercano estaba apostado\Nen una ciudad al otro lado del cañón.
+Dialogue: 0,0:06:00.02,0:06:05.62,Gen_Main,Gehen,0,0,0,,Si ese puente hubiera existido,\Ntodos se habrían salvado.
+Dialogue: 0,0:06:09.59,0:06:11.13,Gen_Main,Himmel,0,0,0,,Usa esto.
+Dialogue: 0,0:06:11.47,0:06:16.60,Gen_Main,Himmel,0,0,0,,Es lo que nos pagó un noble por\Nrecuperar su espada de unos demonios.
+Dialogue: 0,0:06:17.97,0:06:19.89,Gen_Main,Gehen,0,0,0,,Es mucho dinero.
+Dialogue: 0,0:06:20.79,0:06:22.18,Gen_Main,Gehen,0,0,0,,No puedo aceptarlo.
+Dialogue: 0,0:06:22.26,0:06:26.83,Gen_Main,Gehen,0,0,0,,No puedo ofrecerles nada a cambio.
+Dialogue: 0,0:06:28.41,0:06:30.03,Gen_Main,Himmel,0,0,0,,Tienes este puente.
+Dialogue: 0,0:06:31.62,0:06:36.67,Gen_Main,Gehen,0,0,0,,Para cuando lo termine,\Nya habrás muerto de viejo.
+Dialogue: 0,0:06:39.20,0:06:41.67,Gen_Main,Himmel,0,0,0,,Pues Frieren vendrá a usarlo.
+Dialogue: 0,0:06:43.46,0:06:46.93,Gen_Main,Himmel,0,0,0,,Hazlo tan sólido\Ncomo para que dure unos mil años.
+Dialogue: 0,0:06:49.04,0:06:52.03,Gen_Main,Gehen,0,0,0,,De acuerdo. Cuenta conmigo.
+Dialogue: 0,0:07:47.23,0:07:48.32,Gen_Main,Frieren,0,0,0,,Allí están.
+Dialogue: 0,0:07:48.84,0:07:49.84,Gen_Main,Frieren,0,0,0,,Acabemos con ellos.
+Dialogue: 0,0:08:15.30,0:08:16.48,Gen_Main,Frieren,0,0,0,,Gehen.
+Dialogue: 0,0:08:17.50,0:08:19.31,Gen_Main,Frieren,0,0,0,,Nos encargamos de los monstruos.
+Dialogue: 0,0:08:19.39,0:08:21.52,Gen_Main,Gehen,0,0,0,,Gracias, Frieren.
+Dialogue: 0,0:08:21.60,0:08:26.53,Gen_Main,Gehen,0,0,0,,Ahora todos podrán\Ncruzar el cañón sin problemas.
+Dialogue: 0,0:08:26.96,0:08:29.65,Gen_Main,Frieren,0,0,0,,¿Qué harás a partir de ahora?
+Dialogue: 0,0:08:33.04,0:08:36.68,Gen_Main,Gehen,0,0,0,,Tengo pensado pasar en paz\Nmis últimos años en mi aldea.
+Dialogue: 0,0:08:43.75,0:08:45.79,Gen_Main,Villager,0,0,0,,Miren, regresó.
+Dialogue: 0,0:08:45.87,0:08:47.68,Gen_Main,Villager,0,0,0,,Justo a tiempo.
+Dialogue: 0,0:08:48.02,0:08:50.91,Gen_Main,Villager,0,0,0,,Qué bien, Gehen.\NEsta noche hay que celebrar.
+Dialogue: 0,0:08:52.49,0:08:53.67,Gen_Main,Gehen,0,0,0,,Frieren.
+Dialogue: 0,0:08:54.76,0:08:59.31,Gen_Main,Gehen,0,0,0,,Doscientos años son más que suficientes\Npara reconstruir una aldea.
+Dialogue: 0,0:09:00.41,0:09:01.57,Gen_Main,Frieren,0,0,0,,Ya veo.
+Dialogue: 0,0:09:08.66,0:09:10.66,Gen_Main,Frieren,0,0,0,,Bueno, ¿nos vamos?
+Dialogue: 0,0:09:16.08,0:09:19.08,Cart_A_Tim,CARTEL,0,0,0,,{\an9\bord0\c&HFAFFF7&\b0\pos(562.667,243.667)}Episodio 38\NUn bello espectáculo
+Dialogue: 0,0:09:19.08,0:09:23.08,Cart_A_Tim,SIGN,0,0,0,,{\an9\fs16\bord0\shad.1\pos(588.667,142.667)}30 años después\Nde la muerte del héroe Himmel\NCampos de nieve de Schmal\NAltiplanicie norte
+Dialogue: 0,0:09:26.75,0:09:28.16,Gen_Main,Stark,0,0,0,,¿Qué pasa?
+Dialogue: 0,0:09:28.74,0:09:32.06,Gen_Main,Frieren,0,0,0,,Estamos a punto\Nde quedarnos sin fondos otra vez.
+Dialogue: 0,0:09:32.52,0:09:33.52,Gen_Main,Stark,0,0,0,,¿Sí?
+Dialogue: 0,0:09:33.92,0:09:36.82,Gen_Main,Fern,0,0,0,,Esto no nos durará ni una semana.
+Dialogue: 0,0:09:39.33,0:09:42.78,Gen_Main,Fern,0,0,0,,Todo porque siempre malgasta el dinero.
+Dialogue: 0,0:09:43.24,0:09:48.12,Gen_Main,Stark,0,0,0,,Tampoco es que podamos hacer gran cosa\Nen este campo nevado.
+Dialogue: 0,0:09:49.19,0:09:53.45,Gen_Main,Frieren,0,0,0,,Un momento. Creo que por aquí…
+Dialogue: 0,0:09:56.36,0:09:59.85,Gen_Main,Frieren,0,0,0,,Cambio de planes.\NCreo que sé dónde ganar algo de dinero.
+Dialogue: 0,0:10:03.95,0:10:05.37,Gen_Main,Fern,0,0,0,,¿Y esto?
+Dialogue: 0,0:10:05.60,0:10:09.88,Gen_Main,Stark,0,0,0,,Más que una aldea,\Nparece un campamento, ¿no?
+Dialogue: 0,0:10:09.96,0:10:13.51,Gen_Main,Adventurer,0,0,0,,¡Muchachos!\N¡Hoy también hay que darlo todo!
+Dialogue: 0,0:10:13.59,0:10:15.21,Gen_Main,All,0,0,0,,¡Sí!
+Dialogue: 0,0:10:15.29,0:10:17.38,Gen_Main,Fern,0,0,0,,¿Qué es este lugar?
+Dialogue: 0,0:10:17.67,0:10:22.51,Gen_Main,Frieren,0,0,0,,Un campamento para aventureros\Nen busca de cristales de nieve sagrada.
+Dialogue: 0,0:10:23.31,0:10:25.21,Gen_Main,Stark,0,0,0,,¿Cristales de nieve sagrada?
+Dialogue: 0,0:10:25.98,0:10:29.89,Gen_Main,Frieren,0,0,0,,Un mineral que surge\Nen los campos nevados de esta región.
+Dialogue: 0,0:10:29.97,0:10:32.14,Gen_Main,Frieren,0,0,0,,Se usa en pociones mágicas.
+Dialogue: 0,0:10:32.48,0:10:36.88,Gen_Main,Frieren,0,0,0,,Es un recurso valioso que solo se puede\Nextraer aquí, por lo que se vende caro.
+Dialogue: 0,0:10:36.96,0:10:38.37,Gen_Main,Stark,0,0,0,,Ya veo.
+Dialogue: 0,0:10:38.45,0:10:42.94,Gen_Main,Stark,0,0,0,,Así que ganaremos dinero buscando\Nesos cristales de nieve sagrada.
+Dialogue: 0,0:10:43.02,0:10:45.66,Gen_Main,Frieren,0,0,0,,Qué ingenuo eres, Stark.
+Dialogue: 0,0:10:46.02,0:10:49.27,Gen_Main,Frieren,0,0,0,,Los cristales no son algo\Nque te encuentres por casualidad.
+Dialogue: 0,0:10:49.35,0:10:50.67,Gen_Main,Frieren,0,0,0,,Por eso son tan caros.
+Dialogue: 0,0:10:51.07,0:10:53.29,Gen_Main,Stark,0,0,0,,¿Y cómo vamos a ganar dinero?
+Dialogue: 0,0:10:53.87,0:10:57.80,Gen_Main,Frieren,0,0,0,,Iremos a un mercado\Ndirigido a los aventureros.
+Dialogue: 0,0:10:58.24,0:11:00.40,Gen_Main,Frieren,0,0,0,,Allí verás algo interesante.
+Dialogue: 0,0:11:04.42,0:11:07.96,Gen_Main,Stark,0,0,0,,Pues a mí me parece\Nun mercado como cualquier otro.
+Dialogue: 0,0:11:08.92,0:11:10.43,Gen_Main,Frieren,0,0,0,,Mira los precios.
+Dialogue: 0,0:11:11.65,0:11:13.99,Gen_Main,Fern,0,0,0,,Una moneda de plata\Npor una hogaza de pan.
+Dialogue: 0,0:11:14.50,0:11:16.81,Gen_Main,Fern,0,0,0,,Es diez veces más caro de lo normal.
+Dialogue: 0,0:11:17.42,0:11:23.42,Gen_Main,Frieren,0,0,0,,Sus clientes son aventureros ricos\Nque ganan una fortuna con los cristales.
+Dialogue: 0,0:11:23.83,0:11:26.54,Gen_Main,Frieren,0,0,0,,Así que los precios son mucho más altos.
+Dialogue: 0,0:11:28.17,0:11:30.04,Gen_Main,Stark,0,0,0,,Ya veo.
+Dialogue: 0,0:11:30.50,0:11:34.17,Gen_Main,Frieren,0,0,0,,Los cristales son caros por dos motivos.
+Dialogue: 0,0:11:34.68,0:11:36.70,Gen_Main,Frieren,0,0,0,,El primero es su rareza.
+Dialogue: 0,0:11:37.28,0:11:42.03,Gen_Main,Frieren,0,0,0,,El segundo es que se hallan en una zona\Npeligrosa llena de monstruos feroces.
+Dialogue: 0,0:11:42.83,0:11:44.87,Gen_Main,Frieren,0,0,0,,¿Ya ven adónde quiero llegar?
+Dialogue: 0,0:11:45.42,0:11:51.24,Gen_Main,Fern,0,0,0,,Si los precios son altos, la recompensa\Npor matar monstruos también debe serlo.
+Dialogue: 0,0:11:51.32,0:11:52.85,Gen_Main,Frieren,0,0,0,,No esperaba menos, Fern.
+Dialogue: 0,0:11:54.28,0:11:59.06,Gen_Main,Man,0,0,0,,Aquí hay una gran veta mineral\Nque solo conocen los lugareños.
+Dialogue: 0,0:11:59.72,0:12:02.66,Gen_Main,Man,0,0,0,,Quiero que derroten\Nal monstruo que vive allí.
+Dialogue: 0,0:12:03.34,0:12:09.07,Gen_Main,Man,0,0,0,,Por último, quiero que coloquen\Nuna barrera antipersonal antes de irse.
+Dialogue: 0,0:12:09.42,0:12:11.08,Gen_Main,Fern,0,0,0,,¿Una barrera antipersonal?
+Dialogue: 0,0:12:11.16,0:12:14.66,Gen_Main,Man,0,0,0,,Sí, para que nadie entre.
+Dialogue: 0,0:12:15.95,0:12:18.72,Gen_Main,Frieren,0,0,0,,De acuerdo. Aceptamos el encargo.
+Dialogue: 0,0:12:19.48,0:12:24.93,Gen_Main,Fern,0,0,0,,Una barrera antipersonal\Nes una solicitud poco habitual.
+Dialogue: 0,0:12:25.10,0:12:29.46,Gen_Main,Frieren,0,0,0,,Toma tiempo reunir la mano de obra\Ny los fondos necesarios para la minería.
+Dialogue: 0,0:12:29.93,0:12:36.23,Gen_Main,Frieren,0,0,0,,No es raro que la gente se apropie\Nde ciertos lugares utilizando barreras.
+Dialogue: 0,0:12:37.93,0:12:40.37,Gen_Main,Frieren,0,0,0,,De momento, acabemos con el monstruo.
+Dialogue: 0,0:12:56.96,0:12:58.07,Gen_Main,Frieren,0,0,0,,Allí está.
+Dialogue: 0,0:12:58.84,0:13:00.73,Gen_Main,Stark,0,0,0,,Es enorme.
+Dialogue: 0,0:13:00.81,0:13:02.64,Gen_Main,Frieren,0,0,0,,No bajen la guardia.
+Dialogue: 0,0:13:02.72,0:13:05.24,Gen_Main,Frieren,0,0,0,,Que este encargo estuviera disponible
+Dialogue: 0,0:13:05.32,0:13:08.38,Gen_Main,Frieren,0,0,0,,significa que nadie en el campamento\Npodía realizarlo.
+Dialogue: 0,0:13:08.73,0:13:10.32,Gen_Main,Frieren,0,0,0,,Si no tienen cuidado, morirán.
+Dialogue: 0,0:13:11.27,0:13:14.37,Gen_Main,Stark,0,0,0,,Un riesgo a la altura\Nde la recompensa, ¿eh?
+Dialogue: 0,0:13:15.67,0:13:17.10,Gen_Main,Frieren,0,0,0,,Acabemos con él.
+Dialogue: 0,0:13:53.37,0:13:56.27,Gen_Main,Fern,0,0,0,,Reacciona a nuestro poder mágico.
+Dialogue: 0,0:13:56.35,0:13:57.70,Gen_Main,Frieren,0,0,0,,Qué molesto.
+Dialogue: 0,0:14:01.65,0:14:03.66,Gen_Italics,Stark/Id,0,0,0,,Es muy rápido.
+Dialogue: 0,0:14:07.37,0:14:08.57,Gen_Main,Frieren,0,0,0,,Stark.
+Dialogue: 0,0:14:08.88,0:14:09.94,Gen_Main,Frieren,0,0,0,,Corre.
+Dialogue: 0,0:14:10.60,0:14:12.45,Gen_Main,Frieren,0,0,0,,Tengo un plan.
+Dialogue: 0,0:14:13.58,0:14:14.95,Gen_Main,Stark,0,0,0,,Cuenta conmigo.
+Dialogue: 0,0:14:18.06,0:14:19.47,Gen_Italics,Fern/Id,0,0,0,,Más alto.
+Dialogue: 0,0:15:26.98,0:15:29.72,Gen_Main,Stark,0,0,0,,Sí que era fuerte.
+Dialogue: 0,0:15:34.77,0:15:36.21,Gen_Main,Fern,0,0,0,,¿Señorita Frieren?
+Dialogue: 0,0:15:36.29,0:15:37.29,Gen_Main,Frieren,0,0,0,,Silencio.
+Dialogue: 0,0:15:39.81,0:15:41.36,Gen_Main,Stark,0,0,0,,¿Qué está pasando?
+Dialogue: 0,0:15:41.88,0:15:45.38,Gen_Main,Frieren,0,0,0,,Ese monstruo era el señor de esta zona.
+Dialogue: 0,0:15:45.79,0:15:50.43,Gen_Main,Frieren,0,0,0,,Al ver que su poder mágico se debilitó,\Nse reunieron los demás monstruos.
+Dialogue: 0,0:15:50.51,0:15:52.60,Gen_Main,Stark,0,0,0,,¿Qué hacemos, Frieren?
+Dialogue: 0,0:15:52.68,0:15:55.94,Gen_Main,Stark,0,0,0,,Aún me quedan fuerzas\Npara huir con ustedes dos.
+Dialogue: 0,0:15:56.34,0:15:57.68,Gen_Main,Frieren,0,0,0,,Ya es muy tarde.
+Dialogue: 0,0:15:58.54,0:16:00.02,Gen_Main,Stark,0,0,0,,Nos rodearon.
+Dialogue: 0,0:16:01.28,0:16:06.65,Gen_Main,Frieren,0,0,0,,Parece que tendremos que acabar con\Ntodos ellos para completar el encargo.
+Dialogue: 0,0:16:07.40,0:16:09.44,Gen_Main,Stark,0,0,0,,¿Les queda poder mágico?
+Dialogue: 0,0:16:09.82,0:16:11.54,Gen_Main,Fern,0,0,0,,Yo estoy bien.
+Dialogue: 0,0:16:13.01,0:16:14.54,Gen_Main,Frieren,0,0,0,,No tenemos opción.
+Dialogue: 0,0:16:29.28,0:16:30.78,Gen_Main,Frieren,0,0,0,,Los caballeros de Norm.
+Dialogue: 0,0:16:33.59,0:16:37.72,Gen_Main,Captain,0,0,0,,Perseguimos a esos monstruos hasta aquí\Ndebido a su comportamiento extraño.
+Dialogue: 0,0:16:38.09,0:16:40.04,Gen_Main,Captain,0,0,0,,No sabíamos que era por ustedes.
+Dialogue: 0,0:16:40.12,0:16:42.74,Gen_Main,Frieren,0,0,0,,Gracias, les debemos una.
+Dialogue: 0,0:16:43.13,0:16:45.18,Gen_Main,Captain,0,0,0,,Los agradecidos somos nosotros.
+Dialogue: 0,0:16:46.91,0:16:49.26,Gen_Main,Captain,0,0,0,,Recibimos noticias del señor Norm.
+Dialogue: 0,0:16:49.82,0:16:51.94,Gen_Main,Captain,0,0,0,,Les debemos mucho.
+Dialogue: 0,0:16:53.16,0:16:55.46,Gen_Main,Frieren,0,0,0,,Pues ahora estamos a mano.
+Dialogue: 0,0:16:59.29,0:17:00.29,Gen_Main,Captain,0,0,0,,Adiós.
+Dialogue: 0,0:17:03.04,0:17:06.31,Gen_Main,Stark,0,0,0,,¿Cabalgaron hasta aquí? Qué locura.
+Dialogue: 0,0:17:06.77,0:17:11.79,Gen_Main,Frieren,0,0,0,,Ese escuadrón recorre\Ntodo su territorio.
+Dialogue: 0,0:17:14.43,0:17:18.03,Gen_Main,Frieren,0,0,0,,La altiplanicie norte\Nestá cambiando poco a poco.
+Dialogue: 0,0:17:19.83,0:17:21.92,Gen_Main,Fern,0,0,0,,El sol se puso hace mucho.
+Dialogue: 0,0:17:22.35,0:17:24.47,Gen_Main,Frieren,0,0,0,,Esta noche acamparemos aquí.
+Dialogue: 0,0:17:32.47,0:17:34.92,Gen_Main,Fern,0,0,0,,Señorita Frieren, ya amaneció.
+Dialogue: 0,0:17:35.12,0:17:36.13,Gen_Main,Fern,0,0,0,,Despierte.
+Dialogue: 0,0:17:38.60,0:17:40.45,Gen_Main,Frieren,0,0,0,,Cinco horitas más…
+Dialogue: 0,0:17:41.26,0:17:42.74,Gen_Main,Fern,0,0,0,,Morirá congelada.
+Dialogue: 0,0:17:47.15,0:17:48.92,Gen_Main,Fern,0,0,0,,Mire eso.
+Dialogue: 0,0:17:50.61,0:17:54.81,Gen_Main,Fern,0,0,0,,La veta de cristales luce preciosa\Na la luz del sol de la mañana.
+Dialogue: 0,0:17:58.00,0:17:59.30,Gen_Main,Frieren,0,0,0,,Es verdad.
+Dialogue: 0,0:18:02.23,0:18:06.39,Gen_Main,Himmel,0,0,0,,Nuestro único objetivo esta vez\Nera reunir dinero para el viaje.
+Dialogue: 0,0:18:06.82,0:18:09.69,Gen_Main,Himmel,0,0,0,,No esperaba encontrarme\Ncon semejante vista.
+Dialogue: 0,0:18:10.02,0:18:12.03,Gen_Main,Eisen,0,0,0,,Es hermoso.
+Dialogue: 0,0:18:12.36,0:18:16.11,Gen_Main,Himmel,0,0,0,,Hace que valga la pena\Nvencer al Rey Demonio.
+Dialogue: 0,0:18:19.82,0:18:22.28,Gen_Main,Himmel,0,0,0,,Si derrotamos al Rey Demonio,
+Dialogue: 0,0:18:22.36,0:18:26.82,Gen_Main,Himmel,0,0,0,,llegará el día en el que todos puedan\Ndisfrutar de este bello espectáculo.
+Dialogue: 0,0:18:29.99,0:18:32.92,Gen_Main,Frieren,0,0,0,,Aunque no está al alcance de todos,
+Dialogue: 0,0:18:33.00,0:18:37.65,Gen_Main,Frieren,0,0,0,,llegamos a una era en la que mucha gente\Npuede contemplar este espectáculo.
+Dialogue: 0,0:18:38.60,0:18:40.13,Gen_Main,Frieren,0,0,0,,Se siente extraño.
+Dialogue: 0,0:18:42.74,0:18:44.99,Gen_Main,Fern,0,0,0,,Es precioso.
+Dialogue: 0,0:18:45.07,0:18:46.31,Gen_Main,Stark,0,0,0,,Sí.
+Dialogue: 0,0:18:47.12,0:18:50.81,Gen_Main,Frieren,0,0,0,,Sin embargo,\Npronto será derribado por manos humanas.
+Dialogue: 0,0:18:51.25,0:18:55.60,Gen_Main,Frieren,0,0,0,,Aunque es algo triste,\Nasí es el paso del tiempo.
+Dialogue: 0,0:18:57.21,0:19:01.53,Gen_Main,Frieren,0,0,0,,Coloquemos la barrera y regresemos.
+Dialogue: 0,0:19:03.57,0:19:05.82,Gen_Main,Man,0,0,0,,Muchas gracias por la ayuda.
+Dialogue: 0,0:19:06.31,0:19:08.14,Gen_Main,Man,0,0,0,,Aquí está lo acordado.
+Dialogue: 0,0:19:09.68,0:19:12.21,Gen_Main,Man,0,0,0,,Ahora podemos conservar esa veta.
+Dialogue: 0,0:19:12.66,0:19:16.21,Gen_Main,Frieren,0,0,0,,¿Conservarla?\N¿No van a minarla después?
+Dialogue: 0,0:19:16.58,0:19:19.54,Gen_Main,Man,0,0,0,,Soy un aventurero de esta región.
+Dialogue: 0,0:19:20.52,0:19:24.56,Gen_Main,Man,0,0,0,,Fue precisamente ese bello espectáculo\Nel que me inspiró a convertirme en uno.
+Dialogue: 0,0:19:27.40,0:19:31.51,Gen_Main,Man,0,0,0,,Gracias. Ahora podré proteger\Nlos paisajes de mi tierra natal.
+Dialogue: 0,0:19:33.24,0:19:34.24,Gen_Main,Frieren,0,0,0,,Ya veo.
+Dialogue: 0,0:19:39.65,0:19:42.91,Gen_Main,Stark,0,0,0,,Qué bueno es proteger\Nlos hogares de otros, ¿no?
+Dialogue: 0,0:19:43.69,0:19:45.11,Gen_Main,Fern,0,0,0,,Es verdad.
+Dialogue: 0,0:19:46.88,0:19:52.62,Gen_Main,Fern,0,0,0,,En retrospectiva, el señor Heiter\Ntambién protegió el mío en un sentido.
+Dialogue: 0,0:19:54.74,0:19:57.96,Gen_Main,Fern,0,0,0,,Aunque perdí mi hogar\Na causa de la guerra,
+Dialogue: 0,0:19:58.68,0:20:02.77,Gen_Main,Fern,0,0,0,,gracias a él, puedo conservar\Nmis recuerdos más preciados.
+Dialogue: 0,0:20:10.63,0:20:11.82,Gen_Main,Stark,0,0,0,,Yo también…
+Dialogue: 0,0:20:12.66,0:20:15.72,Gen_Main,Stark,0,0,0,,Cuando te dije\Nque había abandonado mi pueblo,
+Dialogue: 0,0:20:16.33,0:20:20.94,Gen_Main,Stark,0,0,0,,me dijiste que eso no influía\Nen la confianza que me tenías.
+Dialogue: 0,0:20:22.73,0:20:27.42,Gen_Main,Stark,0,0,0,,Ahora que lo pienso,\Nsiempre me estás apoyando.
+Dialogue: 0,0:20:27.50,0:20:28.50,Gen_Main,Stark,0,0,0,,¿Por qué?
+Dialogue: 0,0:20:35.72,0:20:38.22,Gen_Main,Fern,0,0,0,,Porque es lo que haría\Nla señorita Frieren.
+Dialogue: 0,0:20:58.77,0:21:03.40,Gen_Main,Fern,0,0,0,,Señorita Frieren, ¿por qué compró\Nun objeto mágico si todo es tan caro?
+Dialogue: 0,0:21:04.11,0:21:06.66,Gen_Main,Frieren,0,0,0,,Es que no se encuentra fácilmente.
+Dialogue: 0,0:21:06.94,0:21:10.00,Gen_Main,Stark,0,0,0,,Estaremos justos de dinero\Ndurante un tiempo, ¿eh?
+Dialogue: 0,0:21:11.36,0:21:15.28,Gen_Main,Fern,0,0,0,,Como me temía que pasara algo así,\Noculté la mitad de nuestros fondos.
+Dialogue: 0,0:21:15.36,0:21:16.54,Gen_Main,Stark,0,0,0,,¿En serio?
+Dialogue: 0,0:21:17.13,0:21:18.79,Gen_Main,Frieren,0,0,0,,No esperaba menos, Fern.
+Dialogue: 0,0:21:20.04,0:21:22.44,Gen_Main,Frieren,0,0,0,,Por eso eres mi discípula.
+Dialogue: 0,0:21:24.13,0:21:25.42,Gen_Main,Stark,0,0,0,,¿Te parece bien?
+Dialogue: 0,0:21:48.56,0:21:51.44,Cart_A_Tre,CARTEL,0,0,0,,{\c&H5A5A5F&\fad(499,0)\3c&HFFFFFF&\be2\fs16}Traducción: Abraham Gayuvas y Nicolás Sepúlveda\NEdición: Álvaro Jimeno\NControl de calidad: Gekokujou
+Dialogue: 0,0:21:57.76,0:21:59.40,Gen_Main,Frieren,0,0,0,,Bueno, ¿nos vamos?
+Dialogue: 0,0:22:05.31,0:22:08.40,Gen_Main,Lernen,0,0,0,,Ella es Edel,\Nuna hechicera de segundo grado.
+Dialogue: 0,0:22:09.07,0:22:11.52,Gen_Main,Lernen,0,0,0,,Es especialista en magia mental.
+Dialogue: 0,0:22:12.17,0:22:15.90,Gen_Main,Lernen,0,0,0,,La traje para reexaminar este sitio.
+Dialogue: 0,0:22:16.39,0:22:21.74,Gen_Main,Lernen,0,0,0,,Creo que la información que obtuvo\Nte va a ser de mucha utilidad.
+Dialogue: 0,0:22:23.29,0:22:25.03,Gen_Main,Edel,0,0,0,,Denken, dame la mano.
+Dialogue: 0,0:22:25.54,0:22:27.85,Gen_Main,Edel,0,0,0,,Te voy a transferir mis recuerdos.
+Dialogue: 0,0:22:30.21,0:22:31.27,Gen_Main,Denken,0,0,0,,Bien.
+Dialogue: 0,0:22:40.65,0:22:43.12,Gen_Main,Lernen,0,0,0,,Ahora podrás continuar nuestra labor.
+Dialogue: 0,0:22:45.02,0:22:50.88,Gen_Main,Lernen,0,0,0,,Tu misión es mantener y controlar\Nla barrera que sella la Tierra Dorada.
+Dialogue: 0,0:22:50.96,0:22:54.70,Gen_Main,Lernen,0,0,0,,Procura no hacer nada innecesario.
+Dialogue: 0,0:23:01.38,0:23:02.56,Gen_Main,Edel,0,0,0,,Denken.
+Dialogue: 0,0:23:04.00,0:23:06.01,Gen_Main,Edel,0,0,0,,Olvida la idea de visitar su tumba.
+Dialogue: 0,0:23:07.46,0:23:09.29,Gen_Main,Denken,0,0,0,,Ya lo sé.
+Dialogue: 0,0:23:13.94,0:23:15.73,Gen_Main,Edel,0,0,0,,Está decidido a morir.
+Dialogue: 0,0:23:17.33,0:23:19.59,Gen_Main,Lernen,0,0,0,,Me da un poco de envidia.
+Dialogue: 0,0:23:20.10,0:23:23.97,Gen_Main,Lernen,0,0,0,,Yo nunca podría desobedecer\Nuna orden de la señorita Serie.
+Dialogue: 0,0:23:27.58,0:23:31.66,Gen_Main,Lernen,0,0,0,,Su oponente es el último y el más fuerte\Nde los Siete Sabios de la Destrucción:
+Dialogue: 0,0:23:32.66,0:23:35.11,Gen_Main,Lernen,0,0,0,,Macht, de la Tierra Dorada.
+Dialogue: 0,0:23:37.27,0:23:41.84,Gen_Main,Lernen,0,0,0,,Le hará frente para salvar su hogar,\Nque fue convertido en oro,
+Dialogue: 0,0:23:42.99,0:23:47.71,Gen_Main,Lernen,0,0,0,,como si fuera el héroe\Nde algún cuento de hadas.

@@ -1,0 +1,304 @@
+﻿[Script Info]
+Title: [Erai-raws] Português (Brasil)
+ScriptType: v4.00+
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: DefaultTop,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0015,0
+Style: DefaultOverlap,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00666666,&H00666666,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: DefaultOverlapTop,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00666666,&H00666666,-1,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0015,0
+Style: Flashback,Trebuchet MS,22,&H00FBFBFE,&H000000FF,&H005C0718,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+Style: FlashbackItalics,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,1
+Style: FlashbackTop,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0015,0
+Style: Signs,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0030,0030,0010,0
+Style: Signs_WText,Times New Roman,12,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,9,0030,0030,0010,0
+Style: Signs_EpTitle,Times New Roman,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0030,0030,0010,0
+Style: Signs_NextEp,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,0030,0030,0010,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:25.25,0:00:32.21,Signs,SIGN,0000,0000,0000,,{\fad(1528,188)\blur0.25\fs33\fnGeorgia\fsp3.0\c&HF8CC9E&\t(2529,5824,\c&HFAFBFA&)\pos(326,245)}e a Jornada para o Além
+Dialogue: 0,0:01:29.97,0:01:33.97,Signs_WText,SIGN,0000,0000,0000,,{\blur0.2\pos(588.5,16)}29 anos se passaram desde a morte do Herói Himmel.\NEstamos na região de Bier, no Planalto Norte.
+Dialogue: 0,0:01:40.04,0:01:43.11,Default,STARK,0000,0000,0000,,Quem diria que existem\Ncidades no Planalto Norte.
+Dialogue: 0,0:01:43.11,0:01:45.01,Default,FERN,0000,0000,0000,,Há muitos bares aqui.
+Dialogue: 0,0:01:45.45,0:01:49.57,Default,FRIEREN,0000,0000,0000,,Esta área é a única região produtora\Nde grãos no Planalto Norte.
+Dialogue: 0,0:01:49.93,0:01:52.40,Default,FRIEREN,0000,0000,0000,,Sempre houve muitas cervejarias.
+Dialogue: 0,0:01:52.92,0:01:54.67,Default,STARK,0000,0000,0000,,Hm...
+Dialogue: 0,0:01:54.67,0:01:56.80,Default,CUSTOMER A,0000,0000,0000,,Eu estava conversando com o Velho Fass.
+Dialogue: 0,0:01:57.10,0:01:59.60,Default,CUSTOMER A,0000,0000,0000,,Ele disse que está quase\Nencontrando o Boshaft.
+Dialogue: 0,0:02:00.06,0:02:01.42,Default,CUSTOMER B,0000,0000,0000,,Sério?
+Dialogue: 0,0:02:01.42,0:02:04.38,DefaultTop,CUSTOMER B,0000,0000,0000,,Ele fala isso desde quando\Nmeu avô era criança.
+Dialogue: 0,0:02:02.26,0:02:04.76,Default,STARK,0000,0000,0000,,O que é Boshaft?
+Dialogue: 0,0:02:04.76,0:02:07.23,Default,FERN,0000,0000,0000,,Já ouvi falar disso pelo Sr. Heiter.
+Dialogue: 0,0:02:07.46,0:02:11.87,Default,FERN,0000,0000,0000,,Há muito tempo, a maior parte do continente\Nera governada por um único grande império.
+Dialogue: 0,0:02:11.87,0:02:15.53,Default,FERN,0000,0000,0000,,Era um licor requintado\Noferecido ao imperador.
+Dialogue: 0,0:02:15.53,0:02:16.74,Default,STARK,0000,0000,0000,,Uau...
+Dialogue: 0,0:02:17.05,0:02:20.63,Default,FERN,0000,0000,0000,,Ele lamentava que, por causa da\NSrta. Frieren, nunca chegou a bebê-lo.
+Dialogue: 0,0:02:23.70,0:02:25.63,Default,FRIEREN,0000,0000,0000,,Havia uma razão para isso.
+Dialogue: 0,0:02:31.24,0:02:33.70,Default,FRIEREN,0000,0000,0000,,Não quero ficar aqui por muito tempo.
+Dialogue: 0,0:02:33.70,0:02:34.86,Default,FRIEREN,0000,0000,0000,,Assim que terminarmos as compras—
+Dialogue: 0,0:02:34.86,0:02:35.64,Default,FASS,0000,0000,0000,,Frieren!
+Dialogue: 0,0:02:36.36,0:02:38.75,Default,FASS,0000,0000,0000,,É você, Frieren!
+Dialogue: 0,0:02:41.98,0:02:44.08,Default,FASS,0000,0000,0000,,Não te vejo há um século.
+Dialogue: 0,0:02:44.08,0:02:46.53,Default,FRIEREN,0000,0000,0000,,Faz oitenta anos, Fass.
+Dialogue: 0,0:02:46.53,0:02:50.23,Default,FASS,0000,0000,0000,,Agora você se apega a detalhes?\NQue incomum para você.
+Dialogue: 0,0:02:52.20,0:02:54.27,Default,FASS,0000,0000,0000,,Seu grupo mudou.
+Dialogue: 0,0:02:54.27,0:02:57.62,Default,FASS,0000,0000,0000,,Aquele jovem que gostava\Nde beber não está com você?
+Dialogue: 0,0:02:57.92,0:02:59.71,Default,FRIEREN,0000,0000,0000,,Heiter morreu.
+Dialogue: 0,0:03:00.29,0:03:01.86,Default,FRIEREN,0000,0000,0000,,Ele partiu em paz.
+Dialogue: 0,0:03:04.16,0:03:07.33,Default,FASS,0000,0000,0000,,Entendo. Cheguei tarde demais.
+Dialogue: 0,0:03:09.98,0:03:13.73,Default,FASS,0000,0000,0000,,Localizei o Boshaft, o Licor Imperial.
+Dialogue: 0,0:03:13.73,0:03:15.28,Default,FASS,0000,0000,0000,,Você vai me ajudar?
+Dialogue: 0,0:03:15.28,0:03:17.73,Default,FASS,0000,0000,0000,,Você pode usar magia, não pode?
+Dialogue: 0,0:03:18.43,0:03:21.84,Default,FRIEREN,0000,0000,0000,,O que a magia tem a ver com Boshaft?
+Dialogue: 0,0:03:22.36,0:03:24.03,Default,FASS,0000,0000,0000,,Venha comigo e verá.
+Dialogue: 0,0:03:31.56,0:03:33.07,Default,FASS,0000,0000,0000,,É aqui dentro.
+Dialogue: 0,0:03:33.07,0:03:36.18,Default,FERN,0000,0000,0000,,Isso é... uma mina?
+Dialogue: 0,0:03:36.18,0:03:38.93,Default,FASS,0000,0000,0000,,Eu mesmo cavei tudo.
+Dialogue: 0,0:03:40.71,0:03:45.31,Default,FASS,0000,0000,0000,,A maioria das pessoas acha\Nque todo anão é minerador,
+Dialogue: 0,0:03:45.83,0:03:48.33,Default,FASS,0000,0000,0000,,mas eu cresci na cidade.
+Dialogue: 0,0:03:48.33,0:03:50.28,Default,FASS,0000,0000,0000,,Tive que aprender mineração do zero.
+Dialogue: 0,0:03:52.08,0:03:55.34,Default,FASS,0000,0000,0000,,Eu fiz isso por aquela bebida lendária.
+Dialogue: 0,0:03:56.32,0:03:58.83,Default,STARK,0000,0000,0000,,Quem é esse velho?
+Dialogue: 0,0:03:58.83,0:04:01.72,Default,FRIEREN,0000,0000,0000,,Fass. Ninguém ama\Nbebidas tanto quanto ele.
+Dialogue: 0,0:04:02.22,0:04:06.23,Default,FRIEREN,0000,0000,0000,,Ele passou mais de duzentos\Nanos procurando o Boshaft.
+Dialogue: 0,0:04:06.77,0:04:10.09,Default,FRIEREN,0000,0000,0000,,Ele nos pediu ajuda da última\Nvez que nos encontramos,
+Dialogue: 0,0:04:10.47,0:04:15.35,Default,FRIEREN,0000,0000,0000,,mas estávamos ocupados com\No Rei Demônio, então recusamos.
+Dialogue: 0,0:04:15.35,0:04:18.36,Flashback,HEITER,0000,0000,0000,,Mas o Boshaft...!
+Dialogue: 0,0:04:16.69,0:04:18.36,FlashbackTop,HIMMEL,0000,0000,0000,,Solta o chão!
+Dialogue: 0,0:04:21.85,0:04:24.95,Default,FRIEREN,0000,0000,0000,,Arrastar o Heiter para longe\Nnão foi nada fácil.
+Dialogue: 0,0:04:25.82,0:04:29.67,Default,FERN,0000,0000,0000,,Por que cavar uma mina\Npara encontrar bebida?
+Dialogue: 0,0:04:30.23,0:04:36.38,Default,FASS,0000,0000,0000,,Segundo a lenda, há Boshaft guardado\Nnas ruínas subterrâneas daqui.
+Dialogue: 0,0:04:39.05,0:04:41.38,Default,FASS,0000,0000,0000,,E, duzentos anos atrás,
+Dialogue: 0,0:04:41.38,0:04:46.14,Default,FASS,0000,0000,0000,,quando encontrei esse monumento\Nde pedra, soube que era verdade.
+Dialogue: 0,0:04:46.83,0:04:48.76,Default,FERN,0000,0000,0000,,Isto é élfico antigo.
+Dialogue: 0,0:04:49.74,0:04:53.58,Default,FERN,0000,0000,0000,,A inscrição diz que o Boshaft\Né o melhor licor que já existiu.
+Dialogue: 0,0:04:55.01,0:04:56.27,Default,FERN,0000,0000,0000,,"Milliarde."
+Dialogue: 0,0:04:57.44,0:04:59.99,Default,FERN,0000,0000,0000,,Talvez tenha sido ela\Nquem escreveu isto.
+Dialogue: 0,0:05:01.55,0:05:06.48,Default,FASS,0000,0000,0000,,Para ler élfico antigo nessa idade,\Nvocê deve ter sido bem instruída.
+Dialogue: 0,0:05:07.25,0:05:10.99,Default,FERN,0000,0000,0000,,A Srta. Frieren me fez\Naprender quando eu era jovem.
+Dialogue: 0,0:05:11.50,0:05:15.13,Flashback,FRIEREN,0000,0000,0000,,A maioria dos grimórios\Né escrita em élfico antigo.
+Dialogue: 0,0:05:15.13,0:05:17.38,Flashback,FRIEREN,0000,0000,0000,,Você terá que aprender a ler.
+Dialogue: 0,0:05:22.34,0:05:24.41,Default,FRIEREN,0000,0000,0000,,Então foi a Milliarde.
+Dialogue: 0,0:05:25.76,0:05:31.26,Default,FASS,0000,0000,0000,,Desde que descobri essa inscrição,\Ndediquei minha vida ao Boshaft.
+Dialogue: 0,0:05:31.64,0:05:35.26,Default,FASS,0000,0000,0000,,E, agora, está quase ao meu alcance.
+Dialogue: 0,0:05:35.84,0:05:37.71,Default,FRIEREN,0000,0000,0000,,Você encontrou as ruínas?
+Dialogue: 0,0:05:38.16,0:05:41.62,Default,FASS,0000,0000,0000,,As ruínas, sim.
+Dialogue: 0,0:05:43.33,0:05:47.14,Default,FASS,0000,0000,0000,,Mas, como pode ver, as portas não abrem.
+Dialogue: 0,0:05:47.14,0:05:51.28,Default,FASS,0000,0000,0000,,Uma poderosa barreira protege o licor.
+Dialogue: 0,0:05:51.59,0:05:54.85,Default,FASS,0000,0000,0000,,Você deve conseguir quebrá-la.
+Dialogue: 0,0:05:58.26,0:05:59.58,Default,FRIEREN,0000,0000,0000,,Não posso.
+Dialogue: 0,0:05:59.58,0:06:01.89,Default,FASS,0000,0000,0000,,Claro que pode.
+Dialogue: 0,0:06:01.89,0:06:04.22,Default,FRIEREN,0000,0000,0000,,Vai levar tempo para removê-la.
+Dialogue: 0,0:06:04.75,0:06:06.93,Default,FRIEREN,0000,0000,0000,,Aquelas crianças não vão gostar disso.
+Dialogue: 0,0:06:06.93,0:06:09.25,Default,FASS,0000,0000,0000,,Eu compensarei vocês.
+Dialogue: 0,0:06:09.69,0:06:10.79,Default,FRIEREN,0000,0000,0000,,Com um grimório?
+Dialogue: 0,0:06:10.79,0:06:14.18,Default,FASS,0000,0000,0000,,Dinheiro! Pagarei vinte\Nmoedas de ouro Reich.
+Dialogue: 0,0:06:16.65,0:06:18.48,Default,FRIEREN,0000,0000,0000,,Então não tem conversa.
+Dialogue: 0,0:06:19.02,0:06:20.69,Default,FASS,0000,0000,0000,,Por favor, Frieren!
+Dialogue: 0,0:06:20.97,0:06:24.20,Default,FASS,0000,0000,0000,,É meu sonho beber Boshaft!
+Dialogue: 0,0:06:24.20,0:06:26.70,Default,FASS,0000,0000,0000,,Procuro por isso há\Nmais de duzentos anos!
+Dialogue: 0,0:06:29.50,0:06:30.70,Default,FRIEREN,0000,0000,0000,,Não.
+Dialogue: 0,0:06:34.36,0:06:37.70,Default,FERN,0000,0000,0000,,Srta. Frieren, talvez devêssemos ajudar.
+Dialogue: 0,0:06:37.70,0:06:40.84,Default,STARK,0000,0000,0000,,É. Fico com pena do Velho Fass.
+Dialogue: 0,0:06:41.13,0:06:43.43,Default,FRIEREN,0000,0000,0000,,O que deu em vocês? Isso é assustador.
+Dialogue: 0,0:06:43.43,0:06:45.59,Default,FRIEREN,0000,0000,0000,,Normalmente, vocês seriam contra.
+Dialogue: 0,0:06:45.59,0:06:49.34,Default,FERN,0000,0000,0000,,Srta. Frieren, são vinte moedas\Nde ouro. Podemos usar na jornada.
+Dialogue: 0,0:06:49.34,0:06:50.31,Default,STARK,0000,0000,0000,,É muito dinheiro.
+Dialogue: 0,0:06:50.31,0:06:52.73,Default,STARK,0000,0000,0000,,Não teremos que nos\Npreocupar por um bom tempo.
+Dialogue: 0,0:06:52.73,0:06:54.22,Default,FRIEREN,0000,0000,0000,,Ai...
+Dialogue: 0,0:06:54.22,0:06:57.97,Default,FRIEREN,0000,0000,0000,,Mas levará três meses\Npara remover a barreira.
+Dialogue: 0,0:06:57.97,0:06:59.31,Default,FERN,0000,0000,0000,,Isso não é quase nada.
+Dialogue: 0,0:06:59.31,0:07:00.23,Default,FRIEREN,0000,0000,0000,,O quê?
+Dialogue: 0,0:07:01.65,0:07:03.23,Default,STARK,0000,0000,0000,,Deixe conosco.
+Dialogue: 0,0:07:03.97,0:07:06.35,Default,FRIEREN,0000,0000,0000,,Não venham reclamar depois.
+Dialogue: 0,0:07:24.65,0:07:27.17,Default,FERN,0000,0000,0000,,Estamos nos estágios finais da remoção.
+Dialogue: 0,0:07:27.62,0:07:30.13,Default,FRIEREN,0000,0000,0000,,Devemos terminar amanhã.
+Dialogue: 0,0:07:34.15,0:07:35.67,Default,FERN,0000,0000,0000,,Você não parece feliz.
+Dialogue: 0,0:07:41.14,0:07:42.60,Default,FRIEREN,0000,0000,0000,,Acho que não.
+Dialogue: 0,0:07:43.46,0:07:46.52,Default,FRIEREN,0000,0000,0000,,Boshaft não tem gosto bom.
+Dialogue: 0,0:07:47.02,0:07:50.06,Default,FRIEREN,0000,0000,0000,,Não vale dedicar a vida a isso.
+Dialogue: 0,0:07:50.06,0:07:52.04,Default,FERN,0000,0000,0000,,Mas a inscrição dizia...
+Dialogue: 0,0:07:53.95,0:07:59.94,Default,FRIEREN,0000,0000,0000,,Alguns elfos passam o tempo\Nde formas inimagináveis.
+Dialogue: 0,0:08:13.82,0:08:17.85,Flashback,FRIEREN,0000,0000,0000,,Milliarde, você nunca faz nada.\NSó fica olhando para o vazio.
+Dialogue: 0,0:08:18.31,0:08:24.50,Flashback,MILLIARDE,0000,0000,0000,,Muitos elfos passam suas longas\Nvidas em busca de algo.
+Dialogue: 0,0:08:24.50,0:08:26.06,Flashback,MILLIARDE,0000,0000,0000,,Por que você acha que isso acontece?
+Dialogue: 0,0:08:26.50,0:08:27.58,Flashback,FRIEREN,0000,0000,0000,,Por quê?
+Dialogue: 0,0:08:28.34,0:08:30.85,Flashback,MILLIARDE,0000,0000,0000,,Para que não acabem como eu.
+Dialogue: 0,0:08:32.32,0:08:36.64,Flashback,MILLIARDE,0000,0000,0000,,Frieren, consegue imaginar\Npassar a vida buscando algo
+Dialogue: 0,0:08:36.64,0:08:40.33,Flashback,MILLIARDE,0000,0000,0000,,que, no fim, é um lixo sem valor?
+Dialogue: 0,0:08:40.82,0:08:43.83,Flashback,FRIEREN,0000,0000,0000,,De jeito nenhum.\NDo que você está falando?
+Dialogue: 0,0:08:44.20,0:08:48.09,Flashback,MILLIARDE,0000,0000,0000,,Do meu passado distante.
+Dialogue: 0,0:08:51.91,0:08:55.09,Flashback,MILLIARDE,0000,0000,0000,,Este licor é, de fato, horrível.
+Dialogue: 0,0:08:55.61,0:08:57.32,Flashback,FRIEREN,0000,0000,0000,,Boshaft.
+Dialogue: 0,0:08:57.32,0:09:01.09,Flashback,FRIEREN,0000,0000,0000,,É aquela bebida barata\Ne terrível da coroação.
+Dialogue: 0,0:09:01.80,0:09:07.11,Flashback,MILLIARDE,0000,0000,0000,,Antes de vir para esta vila, esculpi\Numa inscrição para passar o tempo.
+Dialogue: 0,0:09:07.52,0:09:11.26,Flashback,MILLIARDE,0000,0000,0000,,Ela diz: "Boshaft é o melhor\Nlicor que já existiu."
+Dialogue: 0,0:09:12.16,0:09:14.23,Flashback,FRIEREN,0000,0000,0000,,Qual foi o propósito disso?
+Dialogue: 0,0:09:15.97,0:09:18.17,Flashback,MILLIARDE,0000,0000,0000,,Não tinha propósito algum.
+Dialogue: 0,0:09:22.71,0:09:24.35,Default,FASS,0000,0000,0000,,Finalmente chegou a hora.
+Dialogue: 0,0:09:45.29,0:09:47.49,Default,FASS,0000,0000,0000,,Está bem preservado.
+Dialogue: 0,0:09:47.49,0:09:51.49,Default,FASS,0000,0000,0000,,Nunca pensei que provaria isto!
+Dialogue: 0,0:09:51.72,0:09:55.14,Default,FASS,0000,0000,0000,,Vamos brindar. Bebam comigo.
+Dialogue: 0,0:10:05.77,0:10:07.20,Default,FASS,0000,0000,0000,,Isto é...
+Dialogue: 0,0:10:11.02,0:10:16.00,FlashbackItalics,HEITER,0000,0000,0000,,Frieren, por que você recusou\Nprocurar pelo Boshaft?
+Dialogue: 0,0:10:18.59,0:10:21.02,Flashback,FRIEREN,0000,0000,0000,,Heiter, você gosta de bebida, não gosta?
+Dialogue: 0,0:10:21.02,0:10:22.51,Flashback,HEITER,0000,0000,0000,,Claro que gosto.
+Dialogue: 0,0:10:22.51,0:10:24.94,Flashback,HIMMEL,0000,0000,0000,,Mas é um sacerdote degenerado.
+Dialogue: 0,0:10:25.50,0:10:28.78,Flashback,FRIEREN,0000,0000,0000,,O que você faria se a bebida\Nque buscou a vida inteira
+Dialogue: 0,0:10:28.78,0:10:31.24,Flashback,FRIEREN,0000,0000,0000,,fosse absurdamente horrível?
+Dialogue: 0,0:10:34.87,0:10:39.36,Flashback,HEITER,0000,0000,0000,,Bem... acho que eu daria risada.
+Dialogue: 0,0:10:39.74,0:10:44.23,Flashback,HEITER,0000,0000,0000,,Se for ruim, o melhor\Nseria beber com amigos.
+Dialogue: 0,0:10:48.87,0:10:50.72,Default,FASS,0000,0000,0000,,É tão...
+Dialogue: 0,0:10:52.83,0:10:54.08,Default,FRIEREN,0000,0000,0000,,É terrível.
+Dialogue: 0,0:10:54.71,0:10:57.75,Default,FRIEREN,0000,0000,0000,,A pior bebida que já provei.
+Dialogue: 0,0:11:00.66,0:11:04.08,Default,FRIEREN,0000,0000,0000,,Por que está só olhando? Prove, Stark.
+Dialogue: 0,0:11:04.08,0:11:07.19,Default,STARK,0000,0000,0000,,O quê? Nem pensar. É horrível, não é?
+Dialogue: 0,0:11:07.19,0:11:08.69,Default,FRIEREN,0000,0000,0000,,Só prove.
+Dialogue: 0,0:11:12.72,0:11:14.86,Default,STARK,0000,0000,0000,,Que troço ruim!
+Dialogue: 0,0:11:17.86,0:11:20.50,Default,STARK,0000,0000,0000,,Por que é tão ruim?
+Dialogue: 0,0:11:21.20,0:11:23.15,Default,FASS,0000,0000,0000,,Realmente é horrível.
+Dialogue: 0,0:11:23.15,0:11:24.14,Default,STARK,0000,0000,0000,,Experimenta.
+Dialogue: 0,0:11:26.28,0:11:28.20,Default,FASS,0000,0000,0000,,Tem para todo mundo!
+Dialogue: 0,0:11:28.20,0:11:30.86,Default,FASS,0000,0000,0000,,Farei a cidade inteira sofrer comigo!
+Dialogue: 0,0:11:34.63,0:11:35.87,Default,FASS,0000,0000,0000,,Frieren.
+Dialogue: 0,0:11:35.87,0:11:41.26,Default,FASS,0000,0000,0000,,Minha busca terminou em decepção,\Nmas nunca me diverti tanto.
+Dialogue: 0,0:11:41.52,0:11:44.63,Default,FASS,0000,0000,0000,,Fico feliz que vocês estavam aqui.
+Dialogue: 0,0:11:47.21,0:11:50.56,Default,FASS,0000,0000,0000,,Bebidas foram feitas\Npara bons momentos.
+Dialogue: 0,0:12:03.02,0:12:06.03,Signs_EpTitle,EPTITLE,0000,0000,0000,,{\blur0.2\c&HFAFFF7&\pos(344,269.5)}Episódio 33: Logística no Planalto Norte
+Dialogue: 0,0:12:06.03,0:12:10.03,Signs_WText,SIGN,0000,0000,0000,,{\blur0.2\pos(588.5,16)}30 anos se passaram desde a morte do Herói Himmel.\NEstamos no território da Companhia Norm, no Planalto Norte.
+Dialogue: 0,0:12:12.72,0:12:15.67,Default,FERN,0000,0000,0000,,Aqui está sua parte do pão, Sr. Stark.
+Dialogue: 0,0:12:18.97,0:12:23.04,Default,STARK,0000,0000,0000,,Você ouviu isso? O pão fez "toc".
+Dialogue: 0,0:12:23.62,0:12:26.05,Default,STARK,0000,0000,0000,,Comida não deveria fazer esse som.
+Dialogue: 0,0:12:26.31,0:12:30.28,Default,FERN,0000,0000,0000,,Estamos comendo pão duro\Ncomo pedra já há uma semana.
+Dialogue: 0,0:12:30.85,0:12:32.80,Default,FRIEREN,0000,0000,0000,,Não reclamem.
+Dialogue: 0,0:12:33.37,0:12:38.32,Default,FRIEREN,0000,0000,0000,,O Planalto Norte é árido\Nfora da região de Bier,
+Dialogue: 0,0:12:39.20,0:12:42.10,Default,FRIEREN,0000,0000,0000,,e as mercadorias nem circulam direito.
+Dialogue: 0,0:12:42.67,0:12:46.06,Default,FRIEREN,0000,0000,0000,,No mínimo, teremos que\Nnos contentar com isso.
+Dialogue: 0,0:12:47.12,0:12:48.62,Default,STARK,0000,0000,0000,,Que tristeza.
+Dialogue: 0,0:12:48.62,0:12:53.52,Default,FRIEREN,0000,0000,0000,,Se caminharmos mais meio dia,\Nteremos uma refeição decente.
+Dialogue: 0,0:13:07.21,0:13:09.64,Default,STARK,0000,0000,0000,,Que cidade-fortaleza impressionante.
+Dialogue: 0,0:13:10.23,0:13:12.54,Default,FRIEREN,0000,0000,0000,,É o território da Companhia Norm.
+Dialogue: 0,0:13:12.54,0:13:14.77,Default,FRIEREN,0000,0000,0000,,A estrutura central é a sede.
+Dialogue: 0,0:13:15.84,0:13:20.32,Default,FRIEREN,0000,0000,0000,,Eles negociam vários bens,\Nprincipalmente trigo de Bier.
+Dialogue: 0,0:13:20.75,0:13:23.58,Default,FRIEREN,0000,0000,0000,,São uma companhia mercante armada\Ncom rede logística e força militar
+Dialogue: 0,0:13:23.58,0:13:28.76,Default,FRIEREN,0000,0000,0000,,capaz de abastecer\Nas vilas do Planalto Norte.
+Dialogue: 0,0:13:29.57,0:13:31.69,Default,FRIEREN,0000,0000,0000,,Nem o Estado pode enfrentá-los.
+Dialogue: 0,0:13:31.69,0:13:36.08,Default,FRIEREN,0000,0000,0000,,Na prática, governam a humanidade aqui.
+Dialogue: 0,0:13:36.08,0:13:40.32,Default,FERN,0000,0000,0000,,Mas você disse que as\Nmercadorias não circulam.
+Dialogue: 0,0:13:40.87,0:13:42.54,Default,FRIEREN,0000,0000,0000,,Esse é o problema.
+Dialogue: 0,0:13:42.95,0:13:46.80,Default,FRIEREN,0000,0000,0000,,Não sei a causa exata, mas as coisas mudam.
+Dialogue: 0,0:13:47.41,0:13:51.08,Default,FRIEREN,0000,0000,0000,,Talvez a Companhia Norm\Nnão seja mais tão forte.
+Dialogue: 0,0:13:51.94,0:13:57.69,Default,FRIEREN,0000,0000,0000,,Ainda assim, devem\Ndeter grande influência.
+Dialogue: 0,0:13:57.69,0:14:00.40,Default,FRIEREN,0000,0000,0000,,É melhor evitar problemas.
+Dialogue: 0,0:14:09.09,0:14:10.09,Default,RECEPTIONIST,0000,0000,0000,,Entendo.
+Dialogue: 0,0:14:10.81,0:14:13.33,Default,RECEPTIONIST,0000,0000,0000,,Então você é a Srta. Fern, maga de nível um.
+Dialogue: 0,0:14:13.94,0:14:15.59,Default,RECEPTIONIST,0000,0000,0000,,Pode passar.
+Dialogue: 0,0:14:17.82,0:14:19.13,Default,RECEPTIONIST,0000,0000,0000,,Aquela pessoa...
+Dialogue: 0,0:14:28.86,0:14:30.49,Default,RECEPTIONIST,0000,0000,0000,,Um momento, por favor.
+Dialogue: 0,0:14:32.24,0:14:33.92,Default,FERN,0000,0000,0000,,O que será que está acontecendo?
+Dialogue: 0,0:14:40.10,0:14:42.56,Default,NORM,0000,0000,0000,,Sou Norm, o presidente da companhia.
+Dialogue: 0,0:14:43.00,0:14:46.17,Default,NORM,0000,0000,0000,,Srta. Frieren, maga do grupo de heróis,
+Dialogue: 0,0:14:46.17,0:14:51.63,Default,NORM,0000,0000,0000,,você pagará integralmente\Na dívida de oitenta anos.
+Dialogue: 0,0:14:52.44,0:14:55.95,Default,FERN,0000,0000,0000,,Srta. Frieren, você tem dívidas?
+Dialogue: 0,0:14:56.27,0:14:57.47,Default,FRIEREN,0000,0000,0000,,Algumas.
+Dialogue: 0,0:14:57.47,0:14:58.70,Default,STARK,0000,0000,0000,,Sério?
+Dialogue: 0,0:14:58.70,0:15:01.96,Default,FRIEREN,0000,0000,0000,,Disseram-me que eu poderia\Npagar a qualquer momento.
+Dialogue: 0,0:15:02.17,0:15:04.78,Default,NORM,0000,0000,0000,,Não é o que dizem os documentos.
+Dialogue: 0,0:15:05.46,0:15:07.76,Default,NORM,0000,0000,0000,,Acordos verbais não valem.
+Dialogue: 0,0:15:07.76,0:15:14.00,Default,NORM,0000,0000,0000,,Meu predecessor foi\Nnegligente, mas eu não sou.
+Dialogue: 0,0:15:16.16,0:15:22.30,Default,NORM,0000,0000,0000,,Três ouros Strahl, vinte ouros\NReich e várias pratas e cobres.
+Dialogue: 0,0:15:23.15,0:15:25.72,Default,NORM,0000,0000,0000,,Você é tão rica quanto um pequeno nobre.
+Dialogue: 0,0:15:25.72,0:15:26.56,Default,FRIEREN,0000,0000,0000,,Viu só?
+Dialogue: 0,0:15:26.56,0:15:32.32,Default,FRIEREN,0000,0000,0000,,Seu avô nos ajudou. Pode ficar com o troco.
+Dialogue: 0,0:15:34.54,0:15:35.32,Default,NORM,0000,0000,0000,,Entendo.
+Dialogue: 0,0:15:37.10,0:15:39.13,Default,NORM,0000,0000,0000,,Isso não é nem de longe suficiente.
+Dialogue: 0,0:15:41.01,0:15:44.94,Default,FRIEREN,0000,0000,0000,,É, vou ter que trabalhar\Ntrezentos anos na mina.
+Dialogue: 0,0:15:44.94,0:15:48.08,Default,FRIEREN,0000,0000,0000,,Minha jornada termina aqui.
+Dialogue: 0,0:15:50.55,0:15:53.84,Default,FERN,0000,0000,0000,,Do que está falando, Srta. Frieren?
+Dialogue: 0,0:15:53.84,0:15:56.59,Default,FERN,0000,0000,0000,,Por que está vestida assim?\NOnde está sua bolsa?
+Dialogue: 0,0:15:57.03,0:16:00.10,Default,FRIEREN,0000,0000,0000,,Tomaram tudo como garantia.
+Dialogue: 0,0:16:17.55,0:16:20.23,Default,FRIEREN,0000,0000,0000,,Adeus, Fern e Stark.
+Dialogue: 0,0:16:20.49,0:16:21.74,Default,FRIEREN,0000,0000,0000,,Cuidem-se.
+Dialogue: 0,0:16:24.61,0:16:25.75,Default,STARK,0000,0000,0000,,O quê?
+Dialogue: 0,0:16:26.99,0:16:28.68,Default,STARK,0000,0000,0000,,O que vamos fazer?
+Dialogue: 0,0:16:29.67,0:16:32.71,Default,FERN,0000,0000,0000,,Tudo o que podemos fazer é\Ncomprar a Srta. Frieren de volta.
+Dialogue: 0,0:16:32.71,0:16:34.86,Default,STARK,0000,0000,0000,,Ela não é um objeto.
+Dialogue: 0,0:16:35.38,0:16:39.38,Default,NORM,0000,0000,0000,,Infelizmente, não há\Nnada que possam fazer.
+Dialogue: 0,0:16:39.67,0:16:40.84,Default,NORM,0000,0000,0000,,Vejam.
+Dialogue: 0,0:16:43.89,0:16:46.37,Default,FERN,0000,0000,0000,,Segundo os documentos,
+Dialogue: 0,0:16:46.37,0:16:48.89,Default,FERN,0000,0000,0000,,ela deve mais de quinhentas moedas\Nde ouro Strahl com juros.
+Dialogue: 0,0:16:48.89,0:16:51.26,Default,NORM,0000,0000,0000,,Mesmo convertendo para ouro Reich,
+Dialogue: 0,0:16:51.26,0:16:54.40,Default,NORM,0000,0000,0000,,ela deve mais de trezentas.
+Dialogue: 0,0:16:54.40,0:16:57.90,Default,NORM,0000,0000,0000,,Acreditam conseguir tal quantia?
+Dialogue: 0,0:16:58.61,0:17:00.42,Default,FERN,0000,0000,0000,,Não, é impossível.
+Dialogue: 0,0:17:00.42,0:17:02.37,Default,STARK,0000,0000,0000,,O que vamos fazer?
+Dialogue: 0,0:17:03.05,0:17:05.80,Default,STARK,0000,0000,0000,,Não podemos esperar trezentos anos.
+Dialogue: 0,0:17:11.61,0:17:14.91,Default,FRIEREN,0000,0000,0000,,Não gosto muito de minas.
+Dialogue: 0,0:17:14.91,0:17:17.26,Default,FRIEREN,0000,0000,0000,,São quentes e empoeiradas.
+Dialogue: 0,0:17:27.38,0:17:31.40,Default,MINER,0000,0000,0000,,O presidente nos falou\Nsobre você, Srta. Frieren.
+Dialogue: 0,0:17:33.29,0:17:34.39,Default,FRIEREN,0000,0000,0000,,Entendo.
+Dialogue: 0,0:17:34.77,0:17:36.73,Default,FRIEREN,0000,0000,0000,,Vamos começar, então?
+Dialogue: 0,0:18:28.39,0:18:30.28,Default,FRIEREN,0000,0000,0000,,Seguiremos direto por aqui.
+Dialogue: 0,0:18:31.03,0:18:32.66,Default,MINER,0000,0000,0000,,Tem certeza?
+Dialogue: 0,0:18:33.21,0:18:35.54,Default,FRIEREN,0000,0000,0000,,Quem você acha que eu sou?
+Dialogue: 0,0:18:37.35,0:18:40.73,Default,MINER,0000,0000,0000,,Tudo bem, rapazes! Comecem a cavar!
+Dialogue: 0,0:18:40.73,0:18:41.94,Default,ALL,0000,0000,0000,,Sim!
+Dialogue: 0,0:18:56.39,0:18:58.56,Default,FRIEREN,0000,0000,0000,,O presidente da Companhia Norm
+Dialogue: 0,0:18:58.92,0:19:02.58,Default,FRIEREN,0000,0000,0000,,de duas gerações atrás era um nobre\Nexilado no Planalto do Norte.
+Dialogue: 0,0:19:03.20,0:19:09.77,Default,FRIEREN,0000,0000,0000,,Ele foi um grande homem que investiu nesta\Nterra árida e construiu uma rede logística,
+Dialogue: 0,0:19:09.77,0:19:13.38,Default,FRIEREN,0000,0000,0000,,trazendo estabilidade\Nà vida das pessoas.
+Dialogue: 0,0:19:14.90,0:19:19.34,Default,FRIEREN,0000,0000,0000,,Naquela época, ninguém esperava\Nmuito do nosso grupo de heróis,
+Dialogue: 0,0:19:19.34,0:19:22.60,Default,FRIEREN,0000,0000,0000,,mas ele nos forneceu fundos\Nsem prazo de reembolso.
+Dialogue: 0,0:19:25.35,0:19:30.08,Default,FRIEREN,0000,0000,0000,,Nunca imaginei que seria\Ntratada assim pelo neto dele.
+Dialogue: 0,0:19:31.23,0:19:37.19,Default,FRIEREN,0000,0000,0000,,Mas deve haver um motivo para você\Nter vindo até esta mina, certo?
+Dialogue: 0,0:19:38.45,0:19:42.26,Default,NORM,0000,0000,0000,,A logística no Planalto Norte\Nestá em péssimo estado, não é?
+Dialogue: 0,0:19:42.69,0:19:44.07,Default,FRIEREN,0000,0000,0000,,Aparentemente, sim.
+Dialogue: 0,0:19:44.07,0:19:48.57,Default,FRIEREN,0000,0000,0000,,Até mesmo meus companheiros reclamaram\Nque nunca tinham comido um pão tão duro.
+Dialogue: 0,0:19:48.57,0:19:51.95,Default,NORM,0000,0000,0000,,Assim imagino. Também não gosto disso.
+Dialogue: 0,0:19:52.97,0:19:55.70,Default,NORM,0000,0000,0000,,Como as condições pioraram aqui,
+Dialogue: 0,0:19:56.29,0:20:01.96,Default,NORM,0000,0000,0000,,perdemos um terço das nossas caravanas armadas\Ne do exército lutando contra demônios.
+Dialogue: 0,0:20:05.36,0:20:07.97,Default,NORM,0000,0000,0000,,Nossa rede logística\Ntambém está em ruínas.
+Dialogue: 0,0:20:08.66,0:20:12.80,Default,NORM,0000,0000,0000,,Se a Companhia Norm fosse\Numa nação, já teríamos caído.
+Dialogue: 0,0:20:17.36,0:20:20.59,Default,NORM,0000,0000,0000,,No entanto, somos\Numa companhia comercial.
+Dialogue: 0,0:20:21.54,0:20:26.18,Default,NORM,0000,0000,0000,,Enquanto tivermos fundos,\Nsempre poderemos reconstruir.
+Dialogue: 0,0:20:27.54,0:20:32.74,Default,NORM,0000,0000,0000,,Quando você chegou a esta região, senti\Nque a Deusa devia tê-la trazido até aqui.
+Dialogue: 0,0:20:33.49,0:20:39.32,Default,NORM,0000,0000,0000,,Aquele pedaço de papel que representa a dívida\Ndo seu grupo ganhou um valor tremendo.
+Dialogue: 0,0:20:40.39,0:20:43.57,Default,NORM,0000,0000,0000,,Esta mina ainda está\Nem desenvolvimento.
+Dialogue: 0,0:20:43.57,0:20:46.62,Default,NORM,0000,0000,0000,,Se encontrarmos minério de prata,\Nteremos um lucro enorme.
+Dialogue: 0,0:20:46.62,0:20:50.74,Default,NORM,0000,0000,0000,,O suficiente para perdoar a dívida\Ndo grupo de heróis e ainda mais.
+Dialogue: 0,0:20:52.18,0:20:55.76,Default,NROM,0000,0000,0000,,Deve ser fácil para você\Nencontrar, Srta. Frieren.
+Dialogue: 0,0:20:56.32,0:21:01.93,Default,FRIEREN,0000,0000,0000,,Entendo. Então você está usando aquele\Npedaço de papel para me coagir.
+Dialogue: 0,0:21:02.96,0:21:07.81,Default,NORM,0000,0000,0000,,Se nossa rede logística entrar em colapso por\Ncompleto, muitas pessoas morrerão de fome.
+Dialogue: 0,0:21:08.26,0:21:13.13,Default,NORM,0000,0000,0000,,Por favor, salve o povo\Ndo Planalto Norte, Srta. Frieren.
+Dialogue: 0,0:21:15.88,0:21:18.94,Default,NORM,0000,0000,0000,,Além disso, se nos ajudar,\Npoderá comer pão macio,
+Dialogue: 0,0:21:18.94,0:21:22.96,Default,NORM,0000,0000,0000,,mesmo nos pontos mais\Ndistantes do Planalto Norte.
+Dialogue: 0,0:21:23.81,0:21:27.10,Default,FRIEREN,0000,0000,0000,,Você é tão astuto quanto seu avô.
+Dialogue: 0,0:21:27.50,0:21:30.18,Default,FRIEREN,0000,0000,0000,,É por isso que não suporto mercadores.
+Dialogue: 0,0:21:30.77,0:21:33.57,Default,FRIEREN,0000,0000,0000,,Tudo bem. Negócio fechado.
+Dialogue: 0,0:21:34.16,0:21:38.26,Default,FRIEREN,0000,0000,0000,,De qualquer forma, eu pretendia pagar\Na dívida que tinha com seu avô.
+Dialogue: 0,0:21:43.28,0:21:47.62,Default,MINER,0000,0000,0000,,Não acredito que realmente\Nencontramos prata.
+Dialogue: 0,0:21:55.62,0:21:58.20,Default,FRIEREN,0000,0000,0000,,Voltei. Vamos?
+Dialogue: 0,0:21:58.99,0:22:03.66,Default,STARK,0000,0000,0000,,Ah, que bom. Estávamos\Ndiscutindo como salvar você.
+Dialogue: 0,0:22:03.66,0:22:06.60,Default,FERN,0000,0000,0000,,Planejávamos invadir a mina esta noite.
+Dialogue: 0,0:22:07.12,0:22:10.15,Default,FRIEREN,0000,0000,0000,,Nossa. Como vocês são impulsivos.
+Dialogue: 0,0:22:10.82,0:22:15.59,Default,FRIEREN,0000,0000,0000,,O importante é que, de agora em diante,\Nvamos poder comer pão macio.
+Dialogue: 0,0:22:16.38,0:22:19.21,Default,STARK,0000,0000,0000,,Hã? O que quer dizer com isso?
+Dialogue: 0,0:22:29.62,0:22:34.21,Signs,sign,0000,0000,0000,,{\fs14\i0\shad0\fnTimes New Roman\fad(500,500)\\c&H000000&\pos(123.395,85.923)}Legenda Brasileira\N\N{\b1}tradução{\b0}\NMarianna Brito\N\N{\b1}edição{\b0}\NMarcelo Gouvêa\N\N{\b1}revisão{\b0}\NJacques Junior\N\N{\b1}produção{\b0}\NGustavo Hoffmann
+Dialogue: 0,0:23:50.07,0:23:52.53,Default,METHODE,0000,0000,0000,,Eu estava extremamente preocupada.
+Dialogue: 0,0:23:50.62,0:23:52.52,DefaultOverlap,STARK,0000,0000,0000,,Eu te ajudo a enterrá-los.
+Dialogue: 0,0:23:51.68,0:23:53.31,DefaultTop,CAPTAIN,0000,0000,0000,,Protejam os aldeões!
+Dialogue: 0,0:23:52.55,0:23:54.81,Default,GENAU,0000,0000,0000,,Alguém assim não pode ser salvo.
+Dialogue: 0,0:23:53.09,0:23:55.41,DefaultOverlap,FRIEREN,0000,0000,0000,,Chegamos um pouco tarde demais.
+Dialogue: 0,0:23:53.50,0:23:55.51,DefaultTop,CHILDHOOD FRIEND,0000,0000,0000,,Os demônios... destruíram a vila...
+Dialogue: 0,0:23:54.97,0:23:57.23,DefaultOverlapTop,FERN,0000,0000,0000,,Há tão poucos deles.
+Dialogue: 0,0:23:55.80,0:23:57.12,DefaultTop,GENAU,0000,0000,0000,,Você está rezando?
+Dialogue: 0,0:23:56.40,0:24:00.11,Default,METHODE,0000,0000,0000,,Então a Srta. Fern também recebeu\Num pedido de extermínio de demônios.
+Dialogue: 0,0:23:57.66,0:24:00.07,Signs_NextEp,SIGN,0000,0000,0000,,{\fad(229,1)\blur3\t(20,312,\blur0.2)\pos(320,113.5)\c&H000000&\t(312,646,\c&HF6F6F6&)\fsp1.6\t(\fsp1)}Episódio 34\N\N\N\N\N\N\N\NPedido de extermínio de demônios

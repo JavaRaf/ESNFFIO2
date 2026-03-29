@@ -1,0 +1,292 @@
+﻿[Script Info]
+Title: [Erai-raws] Espanol (America Latina)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: Cart_A_Tim,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_C_Tim,Times New Roman,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:25.25,0:00:32.21,Cart_A_Tim,CARTEL,0,0,0,,{\c&HE6B78D&\fad(1779,500)\blur1\bord.1\fs26\fsp2.3\t(3000,6000,\c&HFCFBFD&)\pos(320,258.667)\3c&H000000&\3a&H89&}Más allá del final del viaje
+Dialogue: 0,0:01:29.99,0:01:32.99,Cart_A_Tim,CARTEL,0,0,0,,{\an9\bord0\c&HFAFFF7&\b0\pos(562.667,243.667)}Episodio 35\NRevolte, el Divino
+Dialogue: 0,0:01:37.85,0:01:41.49,Gen_Main,SERIE,0,0,0,,El compañero de Genau\Nmurió en combate el otro día.
+Dialogue: 0,0:01:42.21,0:01:47.37,Gen_Main,SERIE,0,0,0,,Así que exterminarán demonios juntos\Npor un tiempo en la altiplanicie norte.
+Dialogue: 0,0:01:49.41,0:01:52.20,Gen_Main,METHODE,0,0,0,,Será un placer trabajar juntos, Genau.
+Dialogue: 0,0:01:54.13,0:01:56.02,Gen_Main,GENAU,0,0,0,,La altiplanicie norte es peligrosa.
+Dialogue: 0,0:01:56.10,0:01:59.54,Gen_Main,GENAU,0,0,0,,Tanto como se esperaría\Nde los confines del norte.
+Dialogue: 0,0:01:59.62,0:02:01.02,Gen_Main,GENAU,0,0,0,,No me estorbes.
+Dialogue: 0,0:02:05.76,0:02:06.90,Gen_Main,SERIE,0,0,0,,Dale la mano.
+Dialogue: 0,0:02:20.65,0:02:24.84,Gen_Main,GENAU,0,0,0,,Methode, ¿te consideras\Nuna buena persona?
+Dialogue: 0,0:02:26.42,0:02:28.93,Gen_Main,METHODE,0,0,0,,No sé adónde quieres llegar.
+Dialogue: 0,0:02:30.78,0:02:33.41,Gen_Main,GENAU,0,0,0,,Mi último compañero era un buen sujeto.
+Dialogue: 0,0:02:34.00,0:02:36.16,Gen_Main,GENAU,0,0,0,,Todo lo contrario a mí.
+Dialogue: 0,0:02:37.06,0:02:41.37,Gen_Main,GENAU,0,0,0,,Hacía hasta lo imposible\Npor completos desconocidos.
+Dialogue: 0,0:02:46.62,0:02:49.31,Gen_Main,GENAU,0,0,0,,Siempre sonreía y armaba alboroto.
+Dialogue: 0,0:02:50.03,0:02:52.88,Gen_Main,GENAU,0,0,0,,Me trataba como\Nsi fuéramos viejos amigos
+Dialogue: 0,0:02:54.12,0:02:59.56,Gen_Main,GENAU,0,0,0,,y su personalidad atraía\Nnaturalmente a la gente hacia él.
+Dialogue: 0,0:03:06.04,0:03:07.48,Gen_Main,GENAU,0,0,0,,Era un necio.
+Dialogue: 0,0:03:20.50,0:03:22.91,Gen_Main,GENAU,0,0,0,,Murió protegiendo a un niño.
+Dialogue: 0,0:03:25.49,0:03:28.26,Gen_Main,GENAU,0,0,0,,Por ello, se nos escapó el demonio.
+Dialogue: 0,0:03:30.67,0:03:34.21,Gen_Main,GENAU,0,0,0,,Yo nunca haría semejante idiotez.
+Dialogue: 0,0:03:36.65,0:03:38.89,Gen_Main,GENAU,0,0,0,,He abandonado a mucha gente.
+Dialogue: 0,0:03:40.22,0:03:42.65,Gen_Main,METHODE,0,0,0,,¿Por qué yo?
+Dialogue: 0,0:03:44.05,0:03:45.17,Gen_Main,GENAU,0,0,0,,¿Cómo dices?
+Dialogue: 0,0:03:45.50,0:03:47.73,Gen_Main,METHODE,0,0,0,,¿Por qué seré tu compañera?
+Dialogue: 0,0:03:48.77,0:03:52.50,Gen_Main,GENAU,0,0,0,,Ni idea.\NFue decisión de la señorita Serie.
+Dialogue: 0,0:03:55.82,0:04:01.69,Gen_Main,GENAU,0,0,0,,Pero, por lo que sé, los hechiceros\Nde primer grado que envían al norte
+Dialogue: 0,0:04:02.30,0:04:05.62,Gen_Main,GENAU,0,0,0,,siempre son aquellos\Na los que les gusta pelear.
+Dialogue: 0,0:04:08.09,0:04:09.90,Gen_Main,GENAU,0,0,0,,Es bastante extraño.
+Dialogue: 0,0:04:10.50,0:04:13.61,Gen_Main,GENAU,0,0,0,,¿Por qué tú y no Übel?
+Dialogue: 0,0:04:15.20,0:04:19.78,Gen_Main,GENAU,0,0,0,,Sea como sea, a la gente decente\Nno suele gustarle pelear.
+Dialogue: 0,0:04:21.03,0:04:24.03,Gen_Main,GENAU,0,0,0,,No acabes como yo.
+Dialogue: 0,0:04:30.69,0:04:35.56,Gen_Main,FRIEREN,0,0,0,,Repasemos una última vez la información\Nantes de que comencemos la búsqueda.
+Dialogue: 0,0:04:35.64,0:04:36.64,Gen_Main,METHODE,0,0,0,,Claro.
+Dialogue: 0,0:04:36.98,0:04:40.40,Gen_Main,METHODE,0,0,0,,Basándome en los rastros mágicos\Ny otra evidencia,
+Dialogue: 0,0:04:40.48,0:04:43.68,Gen_Main,METHODE,0,0,0,,el grupo principal\Nconstaba de cuatro demonios
+Dialogue: 0,0:04:43.76,0:04:46.43,Gen_Main,METHODE,0,0,0,,que abandonaron la aldea tras el ataque.
+Dialogue: 0,0:04:46.51,0:04:48.36,Gen_Main,STARK,0,0,0,,¿Cuatro? Son muchos.
+Dialogue: 0,0:04:49.87,0:04:52.74,Gen_Main,METHODE,0,0,0,,Uno de ellos era un general.
+Dialogue: 0,0:04:52.82,0:04:55.91,Gen_Main,METHODE,0,0,0,,Mató a los caballeros\Ncon cuatro espadas.
+Dialogue: 0,0:05:00.23,0:05:02.46,Gen_Main,STARK,0,0,0,,¿Qué es un general?
+Dialogue: 0,0:05:02.54,0:05:05.51,Gen_Main,FRIEREN,0,0,0,,Un guerrero especialmente hábil.
+Dialogue: 0,0:05:05.59,0:05:09.91,Gen_Main,FRIEREN,0,0,0,,Pelea potenciando sus aptitudes\Nfísicas con magia poderosa.
+Dialogue: 0,0:05:10.39,0:05:15.79,Gen_Main,FRIEREN,0,0,0,,Algunos pasan varios siglos\Nperfeccionando sus estilos de combate.
+Dialogue: 0,0:05:16.18,0:05:20.04,Gen_Main,FRIEREN,0,0,0,,Varios generales del Rey Demonio\Neran mucho más fuertes que Eisen.
+Dialogue: 0,0:05:20.33,0:05:21.83,Gen_Main,STARK,0,0,0,,¿En serio?
+Dialogue: 0,0:05:21.91,0:05:27.58,Gen_Main,FRIEREN,0,0,0,,También es muy probable\Nque no tenga aspecto humano.
+Dialogue: 0,0:05:27.66,0:05:30.05,Gen_Main,STARK,0,0,0,,¿Y eso es malo?
+Dialogue: 0,0:05:30.73,0:05:35.43,Gen_Main,FRIEREN,0,0,0,,¿Tienes experiencia combatiendo\Noponentes que usen cuatro espadas?
+Dialogue: 0,0:05:35.89,0:05:37.55,Gen_Main,STARK,0,0,0,,Claro que no.
+Dialogue: 0,0:05:37.63,0:05:39.18,Gen_Main,FRIEREN,0,0,0,,Yo tampoco.
+Dialogue: 0,0:05:39.58,0:05:42.42,Gen_Main,FRIEREN,0,0,0,,Puede que los caballeros\Nperdieran por eso mismo.
+Dialogue: 0,0:05:49.81,0:05:51.48,Gen_Main,JUNG,0,0,0,,Señor Revolte.
+Dialogue: 0,0:05:52.80,0:05:55.51,Gen_Main,JUNG,0,0,0,,Varias presas cayeron en la red.
+Dialogue: 0,0:05:55.59,0:05:57.71,Gen_Main,JUNG,0,0,0,,¡Son ricas en poder mágico!
+Dialogue: 0,0:05:58.04,0:06:00.58,Gen_Main,JUNG,0,0,0,,Un guerrero y cuatro hechiceros.
+Dialogue: 0,0:06:00.66,0:06:02.65,Gen_Main,JUNG,0,0,0,,Tres son de primer grado.
+Dialogue: 0,0:06:04.45,0:06:07.31,Gen_Main,JUNG,0,0,0,,Deberíamos poder con todos.
+Dialogue: 0,0:06:07.39,0:06:08.79,Gen_Main,JUNG,0,0,0,,¿Los atacamos?
+Dialogue: 0,0:06:09.34,0:06:10.60,Gen_Main,REVOLTE,0,0,0,,No.
+Dialogue: 0,0:06:11.31,0:06:13.62,Gen_Main,REVOLTE,0,0,0,,Tengo un mal presentimiento.
+Dialogue: 0,0:06:13.70,0:06:15.97,Gen_Main,REVOLTE,0,0,0,,Esperaremos a que se separen.
+Dialogue: 0,0:06:16.05,0:06:22.51,Gen_Main,JUNG,0,0,0,,¿De verdad cree que lo hagan?\NParecen ser bastante cautos.
+Dialogue: 0,0:06:23.46,0:06:25.60,Gen_Main,REVOLTE,0,0,0,,Lo harán.
+Dialogue: 0,0:06:30.47,0:06:34.29,Gen_Main,REVOLTE,0,0,0,,Por algo los provoqué\Nmatando a toda esa gente.
+Dialogue: 0,0:06:35.74,0:06:41.28,Gen_Main,REVOLTE,0,0,0,,Me di cuenta de algo\Ntras destruir tantas aldeas
+Dialogue: 0,0:06:41.36,0:06:43.42,Gen_Main,REVOLTE,0,0,0,,en la altiplanicie norte.
+Dialogue: 0,0:06:43.50,0:06:45.41,Gen_Main,JUNG,0,0,0,,¿De qué? ¿De qué?
+Dialogue: 0,0:06:49.31,0:06:52.73,Gen_Main,FRIEREN,0,0,0,,Bueno, es hora de salir\Na buscar a los demonios.
+Dialogue: 0,0:06:53.36,0:06:56.72,Gen_Main,FRIEREN,0,0,0,,Partiremos por el fuerte\Nabandonado más al norte.
+Dialogue: 0,0:06:57.26,0:07:01.71,Gen_Main,FRIEREN,0,0,0,,Los demonios suelen esconderse\Nen ese tipo de lugares.
+Dialogue: 0,0:07:04.12,0:07:05.12,Gen_Main,GENAU,0,0,0,,Esperen.
+Dialogue: 0,0:07:06.54,0:07:11.46,Gen_Main,GENAU,0,0,0,,Alguien debe quedarse hasta que\Nlos caballeros vengan por los cadáveres.
+Dialogue: 0,0:07:13.64,0:07:15.02,Gen_Main,GENAU,0,0,0,,Yo lo haré.
+Dialogue: 0,0:07:15.60,0:07:20.46,Gen_Main,REVOLTE,0,0,0,,Siempre se queda alguien\Na proteger los cadáveres.
+Dialogue: 0,0:07:21.64,0:07:24.71,Gen_Main,JUNG,0,0,0,,¡Qué interesante! ¿Y por qué?
+Dialogue: 0,0:07:25.24,0:07:27.71,Gen_Main,REVOLTE,0,0,0,,No hace falta saber la razón.
+Dialogue: 0,0:07:27.79,0:07:32.38,Gen_Main,JUNG,0,0,0,,¿Qué? ¡Quiero saber! ¡Es muy curioso!
+Dialogue: 0,0:07:32.84,0:07:37.84,Gen_Main,REVOLTE,0,0,0,,¿Te interesan los humanos?\NQué rara eres.
+Dialogue: 0,0:07:38.48,0:07:43.22,Gen_Main,JUNG,0,0,0,,A veces, los humanos se comportan\Nde manera ilógica e irracional.
+Dialogue: 0,0:07:43.30,0:07:45.86,Gen_Main,JUNG,0,0,0,,¡Quiero saber el porqué!
+Dialogue: 0,0:07:46.16,0:07:49.95,Gen_Main,REVOLTE,0,0,0,,Así son ellos. Es así de sencillo.
+Dialogue: 0,0:07:50.03,0:07:52.18,Gen_Main,REVOLTE,0,0,0,,No tienes que saber el porqué.
+Dialogue: 0,0:07:54.50,0:07:56.01,Gen_Main,REVOLTE,0,0,0,,Ahora que lo pienso,
+Dialogue: 0,0:07:56.24,0:08:01.51,Gen_Main,REVOLTE,0,0,0,,he oído de un demonio excéntrico\Nque estudia a los humanos.
+Dialogue: 0,0:08:01.80,0:08:06.38,Gen_Main,JUNG,0,0,0,,¿De verdad?\N¿Podría hablarme más al respecto?
+Dialogue: 0,0:08:06.95,0:08:09.88,Gen_Main,REVOLTE,0,0,0,,Lo haré si te resulta útil.
+Dialogue: 0,0:08:10.47,0:08:14.85,Gen_Main,JUNG,0,0,0,,¿De verdad?\N¿Me lo promete, señor Revolte?
+Dialogue: 0,0:08:16.14,0:08:18.39,Gen_Main,METHODE,0,0,0,,¿Te quedarás tú solo?
+Dialogue: 0,0:08:18.47,0:08:21.40,Gen_Main,GENAU,0,0,0,,Deberían llegar dentro de poco.
+Dialogue: 0,0:08:21.71,0:08:26.15,Gen_Main,GENAU,0,0,0,,Los alcanzaré en cuanto\Nlos caballeros se lleven los cadáveres.
+Dialogue: 0,0:08:26.82,0:08:27.99,Gen_Main,FRIEREN,0,0,0,,De acuerdo.
+Dialogue: 0,0:08:35.18,0:08:36.95,Gen_Main,STARK,0,0,0,,Yo también me quedo.
+Dialogue: 0,0:08:37.59,0:08:39.41,Gen_Main,GENAU,0,0,0,,¿Eres tonto o qué?
+Dialogue: 0,0:08:39.83,0:08:44.67,Gen_Main,GENAU,0,0,0,,Tu grupo irá a pelear contra demonios.\N¿Qué harán sin nadie a la vanguardia?
+Dialogue: 0,0:08:44.75,0:08:49.42,Gen_Main,STARK,0,0,0,,Puedo preguntarte lo mismo.\N¿Qué harás si los demonios regresan?
+Dialogue: 0,0:08:49.69,0:08:51.06,Gen_Main,GENAU,0,0,0,,No habría problema.
+Dialogue: 0,0:08:51.14,0:08:54.57,Gen_Main,GENAU,0,0,0,,Puedo pelear bien\Nsin nadie a la vanguardia.
+Dialogue: 0,0:08:54.65,0:08:57.44,Gen_Main,STARK,0,0,0,,Pues ellas también pueden.
+Dialogue: 0,0:08:57.52,0:08:59.34,Gen_Main,FRIEREN,0,0,0,,Aunque solo un rato.
+Dialogue: 0,0:08:59.42,0:09:02.68,Gen_Main,STARK,0,0,0,,Pero siempre podrían huir, ¿verdad?
+Dialogue: 0,0:09:02.76,0:09:03.80,Gen_Main,FRIEREN,0,0,0,,Eso sí.
+Dialogue: 0,0:09:04.36,0:09:07.51,Gen_Main,STARK,0,0,0,,Pero tú no podrías.\NImplicaría abandonar la aldea.
+Dialogue: 0,0:09:10.21,0:09:13.78,Gen_Main,GENAU,0,0,0,,Stark, aquí no quedan más que cadáveres.
+Dialogue: 0,0:09:14.10,0:09:17.28,Gen_Main,STARK,0,0,0,,Y son lo que quieres proteger, ¿no?
+Dialogue: 0,0:09:20.23,0:09:21.58,Gen_Main,GENAU,0,0,0,,Haz lo que quieras.
+Dialogue: 0,0:09:36.34,0:09:39.34,Gen_Main,GENAU,0,0,0,,Stark, eres muy buena persona.
+Dialogue: 0,0:09:40.64,0:09:43.72,Gen_Main,GENAU,0,0,0,,Conocí a muchos como tú.
+Dialogue: 0,0:09:43.80,0:09:45.56,Gen_Main,GENAU,0,0,0,,Nunca vivieron mucho.
+Dialogue: 0,0:09:47.96,0:09:51.34,Gen_Main,STARK,0,0,0,,Tú también me pareces una buena persona.
+Dialogue: 0,0:09:54.14,0:09:57.57,Gen_Main,STARK,0,0,0,,Sigues protegiendo\Nuna aldea que ya cayó.
+Dialogue: 0,0:09:58.91,0:10:00.84,Gen_Main,STARK,0,0,0,,Yo nunca podría.
+Dialogue: 0,0:10:07.33,0:10:09.69,Gen_Main,GENAU,0,0,0,,No soy una buena persona.
+Dialogue: 0,0:10:10.25,0:10:12.66,Gen_Main,GENAU,0,0,0,,Soy todo lo contrario.
+Dialogue: 0,0:10:14.12,0:10:18.17,Gen_Main,GENAU,0,0,0,,He hecho todo lo necesario para\Ntraer la paz a los Países del Norte.
+Dialogue: 0,0:10:18.88,0:10:23.45,Gen_Main,GENAU,0,0,0,,He matado y abandonado a muchos.
+Dialogue: 0,0:10:24.77,0:10:26.80,Gen_Main,GENAU,0,0,0,,Tal vez sea mi castigo.
+Dialogue: 0,0:10:27.35,0:10:29.87,Gen_Main,GENAU,0,0,0,,Uno se acostumbra a la muerte.
+Dialogue: 0,0:10:32.91,0:10:35.05,Gen_Main,GENAU,0,0,0,,Ya no siento ni tristeza.
+Dialogue: 0,0:10:35.66,0:10:38.62,Gen_Main,GENAU,0,0,0,,No siento nada ahora\Nque perdí mi tierra natal.
+Dialogue: 0,0:10:39.68,0:10:44.69,Gen_Main,GENAU,0,0,0,,Solo decidí quedarme en la aldea\Nporque sentí que era mi deber.
+Dialogue: 0,0:10:46.51,0:10:48.99,Gen_Main,GENAU,0,0,0,,Tras todo lo que abandoné,
+Dialogue: 0,0:10:49.85,0:10:52.90,Gen_Main,GENAU,0,0,0,,ya no sé ni qué hago a estas alturas.
+Dialogue: 0,0:10:57.92,0:11:03.71,Gen_Main,FRIEREN,0,0,0,,Stark, la altiplanicie norte\Nes el hogar de muchas personas.
+Dialogue: 0,0:11:13.96,0:11:17.62,Gen_Main,FRIEREN,0,0,0,,A partir de aquí, eviten usar\Nla detección de largo alcance.
+Dialogue: 0,0:11:18.18,0:11:20.82,Gen_Main,FRIEREN,0,0,0,,Si son hábiles,\Nnos rastrearán de vuelta.
+Dialogue: 0,0:11:20.90,0:11:21.90,Gen_Main,FERN,0,0,0,,Bien.
+Dialogue: 0,0:11:22.16,0:11:26.51,Gen_Main,FRIEREN,0,0,0,,Dicho esto, aún falta bastante\Npara alcanzar el fuerte.
+Dialogue: 0,0:11:26.59,0:11:28.53,Gen_Main,FRIEREN,0,0,0,,Hablemos de camino.
+Dialogue: 0,0:11:29.57,0:11:31.39,Gen_Main,FERN,0,0,0,,¿De verdad podemos?
+Dialogue: 0,0:11:31.47,0:11:34.20,Gen_Main,FRIEREN,0,0,0,,Es importante aliviar la tensión.
+Dialogue: 0,0:11:36.98,0:11:38.59,Gen_Main,FERN,0,0,0,,Qué despreocupada.
+Dialogue: 0,0:11:41.67,0:11:45.58,Gen_Main,FRIEREN,0,0,0,,Además, la comunicación\Nmejora el trabajo en equipo.
+Dialogue: 0,0:11:45.66,0:11:47.41,Gen_Main,FRIEREN,0,0,0,,A que no lo sabías.
+Dialogue: 0,0:11:47.49,0:11:48.49,Gen_Main,FERN,0,0,0,,Ya veo…
+Dialogue: 0,0:11:49.18,0:11:53.54,Gen_Main,METHODE,0,0,0,,En ese caso, Frieren,\N¿puedo acariciarte la cabeza?
+Dialogue: 0,0:11:53.62,0:11:56.29,Gen_Main,FERN,0,0,0,,¿Qué cosas dice sin inmutarse?
+Dialogue: 0,0:11:56.37,0:12:01.32,Gen_Main,METHODE,0,0,0,,Me encanta acariciar\Na los niños pequeños,
+Dialogue: 0,0:12:01.40,0:12:04.73,Gen_Main,METHODE,0,0,0,,pero la señorita Serie\Nno me deja hacérselo muy seguido.
+Dialogue: 0,0:12:05.45,0:12:09.17,Gen_Main,METHODE,0,0,0,,También pone cara\Nde disgusto cuando lo hago.
+Dialogue: 0,0:12:09.25,0:12:11.53,Gen_Main,FRIEREN,0,0,0,,Yo también lo haría.
+Dialogue: 0,0:12:12.48,0:12:16.36,Gen_Main,FRIEREN,0,0,0,,Además, soy mucho mayor que tú.
+Dialogue: 0,0:12:16.44,0:12:18.43,Gen_Main,FRIEREN,0,0,0,,No me veo recibiendo caricias tuyas.
+Dialogue: 0,0:12:18.51,0:12:21.62,Gen_Main,FERN,0,0,0,,Sí. La señorita Frieren\Nes toda una dama.
+Dialogue: 0,0:12:21.70,0:12:23.59,Gen_Main,FERN,0,0,0,,No puede tocarla así como así.
+Dialogue: 0,0:12:25.00,0:12:26.41,Gen_Main,METHODE,0,0,0,,Frieren.
+Dialogue: 0,0:12:28.89,0:12:30.10,Gen_Main,METHODE,0,0,0,,Esto contiene
+Dialogue: 0,0:12:30.18,0:12:34.37,Gen_Main,METHODE,0,0,0,,un hechizo que te deja romper huevos\Nsin que caigan restos de cáscara.
+Dialogue: 0,0:12:35.50,0:12:37.38,Gen_Main,FRIEREN,0,0,0,,Acaríciame cuanto quieras.
+Dialogue: 0,0:12:37.46,0:12:38.74,Gen_Main,FERN,0,0,0,,¿Señorita Frieren?
+Dialogue: 0,0:12:45.83,0:12:49.43,Gen_Main,METHODE,0,0,0,,No puedo creer que pueda\Nhacerlo por tanto tiempo.
+Dialogue: 0,0:12:49.99,0:12:52.73,Gen_Main,GENAU,0,0,0,,No más de diez minutos al día.
+Dialogue: 0,0:12:52.81,0:12:53.86,Gen_Main,METHODE,0,0,0,,Pero…
+Dialogue: 0,0:13:01.89,0:13:07.01,Gen_Main,METHODE,0,0,0,,Oye, Frieren, ¿puedo darte un abracito?
+Dialogue: 0,0:13:07.09,0:13:09.67,Gen_Main,METHODE,0,0,0,,La señorita Serie nunca me deja.
+Dialogue: 0,0:13:10.14,0:13:11.83,Gen_Main,FRIEREN,0,0,0,,Lo que tú quieras.
+Dialogue: 0,0:13:11.91,0:13:13.43,Gen_Main,METHODE,0,0,0,,¡¿Lo que quiera?!
+Dialogue: 0,0:13:22.29,0:13:24.26,Gen_Main,FRIEREN,0,0,0,,¿Eh? ¿Qué?
+Dialogue: 0,0:13:26.59,0:13:29.45,Gen_Main,FRIEREN,0,0,0,,Oigan, paren…
+Dialogue: 0,0:13:30.92,0:13:33.95,Gen_Main,FRIEREN,0,0,0,,Me partirán en dos…
+Dialogue: 0,0:13:38.93,0:13:40.00,Gen_Main,FERN,0,0,0,,¿Esto es…?
+Dialogue: 0,0:13:40.58,0:13:45.20,Gen_Main,METHODE,0,0,0,,Nos detectaron. Ya saben dónde estamos.
+Dialogue: 0,0:13:45.80,0:13:47.28,Gen_Main,FRIEREN,0,0,0,,Típico de los demonios.
+Dialogue: 0,0:13:47.96,0:13:50.02,Gen_Main,FRIEREN,0,0,0,,Tienen ganas de pelear.
+Dialogue: 0,0:13:50.54,0:13:55.76,Gen_Main,FRIEREN,0,0,0,,Aunque ya deben saber que somos\Nhechiceras expertas, les dio igual.
+Dialogue: 0,0:13:59.27,0:14:00.65,Gen_Main,SOLIDE,0,0,0,,Se dieron cuenta.
+Dialogue: 0,0:14:01.44,0:14:03.83,Gen_Main,HEMMUNG,0,0,0,,Sí. ¿Empezamos?
+Dialogue: 0,0:14:07.43,0:14:08.93,Gen_Main,HEMMUNG,0,0,0,,Nebeladora.
+Dialogue: 0,0:14:14.63,0:14:16.66,Gen_Main,FRIEREN,0,0,0,,Es niebla hecha de poder mágico.
+Dialogue: 0,0:14:16.74,0:14:19.27,Gen_Main,FRIEREN,0,0,0,,Bloquea nuestra visión\Ny detección de magia.
+Dialogue: 0,0:14:33.30,0:14:35.65,Gen_Main,FRIEREN,0,0,0,,Nos separaron de Methode.
+Dialogue: 0,0:14:36.21,0:14:37.51,Gen_Main,FRIEREN,0,0,0,,Son buenos.
+Dialogue: 0,0:14:42.06,0:14:43.39,Gen_Main,HEMMUNG,0,0,0,,¿A quién prefieres?
+Dialogue: 0,0:14:43.47,0:14:47.84,Gen_Main,SOLIDE,0,0,0,,La alta tiene un aura inusual.
+Dialogue: 0,0:14:47.92,0:14:49.83,Gen_Main,SOLIDE,0,0,0,,Podría entretenerme.
+Dialogue: 0,0:14:51.64,0:14:53.70,Gen_Main,HEMMUNG,0,0,0,,Pues me encargaré de las otras dos.
+Dialogue: 0,0:14:56.53,0:14:59.17,Gen_Main,FRIEREN,0,0,0,,Atenta a los ataques desde arriba.
+Dialogue: 0,0:14:59.57,0:15:00.66,Gen_Main,FERN,0,0,0,,Señorita Frieren.
+Dialogue: 0,0:15:01.24,0:15:02.30,Gen_Main,FRIEREN,0,0,0,,¿Sí?
+Dialogue: 0,0:15:02.80,0:15:05.06,Gen_Main,FERN,0,0,0,,Los demonios estaban volando.
+Dialogue: 0,0:15:05.77,0:15:08.26,Gen_Main,FERN,0,0,0,,Los de la otra vez también podían.
+Dialogue: 0,0:15:08.72,0:15:10.81,Gen_Main,FERN,0,0,0,,Es magia de vuelo, ¿verdad?
+Dialogue: 0,0:15:11.22,0:15:12.93,Gen_Main,FRIEREN,0,0,0,,Ya te lo dije, ¿no?
+Dialogue: 0,0:15:13.27,0:15:17.44,Gen_Main,FRIEREN,0,0,0,,Hasta hace 40 años,\Nlos demonios dominaban los cielos.
+Dialogue: 0,0:15:17.98,0:15:20.17,Gen_Main,FRIEREN,0,0,0,,Nada ha cambiado para ellos.
+Dialogue: 0,0:15:20.67,0:15:24.82,Gen_Main,FERN,0,0,0,,Pero dijo que los demonios\Nsolo estudiaban un tipo de magia.
+Dialogue: 0,0:15:25.78,0:15:29.39,Gen_Main,FRIEREN,0,0,0,,¿Tú consideras que caminar\Nes una habilidad especial?
+Dialogue: 0,0:15:30.52,0:15:32.25,Gen_Main,FRIEREN,0,0,0,,Para ellos es lo mismo.
+Dialogue: 0,0:15:32.67,0:15:36.58,Gen_Main,FRIEREN,0,0,0,,Ni siquiera ven el vuelo\Ncomo un tipo de magia.
+Dialogue: 0,0:15:37.18,0:15:40.50,Gen_Main,FRIEREN,0,0,0,,Por eso es algo habitual\Ncuando se lucha contra ellos.
+Dialogue: 0,0:15:42.91,0:15:45.83,Gen_Main,FRIEREN,0,0,0,,Como pensaba,\Nestán acostumbrados al combate.
+Dialogue: 0,0:15:46.34,0:15:49.38,Gen_Main,FRIEREN,0,0,0,,Pelean como miembros\Ndel Ejército del Rey Demonio.
+Dialogue: 0,0:16:01.00,0:16:03.47,Gen_Main,FRIEREN,0,0,0,,Methode ya empezó a pelear.
+Dialogue: 0,0:16:03.73,0:16:06.69,Gen_Main,FRIEREN,0,0,0,,Fern, dejo este combate en tus manos.
+Dialogue: 0,0:16:06.77,0:16:08.22,Gen_Main,FERN,0,0,0,,¿Por qué?
+Dialogue: 0,0:16:08.48,0:16:11.68,Gen_Main,FRIEREN,0,0,0,,Esta es una misión\Npara hechiceros de primer grado.
+Dialogue: 0,0:16:12.18,0:16:14.66,Gen_Main,FRIEREN,0,0,0,,Y eso es lo que eres, ¿no?
+Dialogue: 0,0:16:15.34,0:16:17.61,Gen_Main,FERN,0,0,0,,No creo que sea momento para…
+Dialogue: 0,0:16:18.09,0:16:21.73,Gen_Main,FRIEREN,0,0,0,,No le veo el problema. Puedes vencerlo.
+Dialogue: 0,0:16:30.31,0:16:31.43,Gen_Main,FRIEREN,0,0,0,,¿Lo ves?
+Dialogue: 0,0:16:32.23,0:16:33.30,Gen_Main,HEMMUNG,0,0,0,,Vaya…
+Dialogue: 0,0:16:35.13,0:16:36.86,Gen_Main,FERN,0,0,0,,Fue pura suerte.
+Dialogue: 0,0:16:38.03,0:16:41.27,Gen_Main,FERN,0,0,0,,Solo reaccioné gracias a que apuntó.
+Dialogue: 0,0:16:42.31,0:16:45.00,Gen_Main,FERN,0,0,0,,No pude percibir su ataque.
+Dialogue: 0,0:16:49.89,0:16:52.00,Gen_Main,FERN,0,0,0,,Es mejor que yo.
+Dialogue: 0,0:16:52.08,0:16:53.99,Gen_Main,FRIEREN,0,0,0,,No estoy de acuerdo.
+Dialogue: 0,0:16:54.88,0:16:59.34,Gen_Main,FRIEREN,0,0,0,,No hay muchos hechiceros de primer grado\Ncon bases tan firmes como las tuyas.
+Dialogue: 0,0:17:01.04,0:17:04.28,Gen_Main,FRIEREN,0,0,0,,Tranquila. Puedes vencerlo.
+Dialogue: 0,0:17:14.74,0:17:18.35,Gen_Main,STARK,0,0,0,,Pesqué algo.\N¿Qué tal un aperitivo nocturno?
+Dialogue: 0,0:17:19.11,0:17:22.86,Gen_Main,GENAU,0,0,0,,Paso. Methode me regañaría.
+Dialogue: 0,0:17:22.94,0:17:25.38,Gen_Main,GENAU,0,0,0,,Dice que comer muy tarde hace mal.
+Dialogue: 0,0:17:25.46,0:17:27.97,Gen_Main,STARK,0,0,0,,¿Sí? Pues más para mí.
+Dialogue: 0,0:17:32.11,0:17:35.06,Gen_Main,STARK,0,0,0,,Siempre me da hambre a esta hora.
+Dialogue: 0,0:17:39.60,0:17:41.66,Gen_Main,STARK,0,0,0,,No le digas a Fern.
+Dialogue: 0,0:17:41.74,0:17:42.74,Gen_Main,GENAU,0,0,0,,Bien.
+Dialogue: 0,0:17:47.26,0:17:49.73,Gen_Main,GENAU,0,0,0,,Tú también sufres lo tuyo, ¿eh?
+Dialogue: 0,0:17:55.54,0:17:57.01,Gen_Main,STARK,0,0,0,,Oye, Genau.
+Dialogue: 0,0:17:58.06,0:18:01.70,Gen_Main,STARK,0,0,0,,Conoces al demonio\Nque atacó la aldea, ¿no?
+Dialogue: 0,0:18:01.78,0:18:05.50,Gen_Main,GENAU,0,0,0,,Un demonio que usa cuatro espadas\Nno es para nada común.
+Dialogue: 0,0:18:07.48,0:18:12.37,Gen_Main,GENAU,0,0,0,,Revolte, el Divino,\Nes quien mató a mi compañero.
+Dialogue: 0,0:18:15.13,0:18:17.73,Gen_Main,STARK,0,0,0,,Qué nombre tan exagerado.
+Dialogue: 0,0:18:18.40,0:18:22.98,Gen_Main,GENAU,0,0,0,,Proviene de las cuatro espadas\Nque crea con magia.
+Dialogue: 0,0:18:23.90,0:18:27.67,Gen_Main,GENAU,0,0,0,,Es capaz de cambiar su peso a voluntad.
+Dialogue: 0,0:18:28.12,0:18:31.46,Gen_Main,GENAU,0,0,0,,Pueden ser tan afiladas\Ny ligeras como plumas
+Dialogue: 0,0:18:31.54,0:18:33.83,Gen_Main,GENAU,0,0,0,,o pesar tanto como enormes rocas.
+Dialogue: 0,0:18:35.16,0:18:38.69,Gen_Main,GENAU,0,0,0,,En honor a una mítica espada\Nque partió una montaña, las llaman
+Dialogue: 0,0:18:38.77,0:18:41.36,Gen_Main,GENAU,0,0,0,,"Espadas Divinas de la Destrucción".
+Dialogue: 0,0:18:41.87,0:18:46.33,Gen_Main,STARK,0,0,0,,Así que pueden ser\Nincreíblemente ligeras o pesadas.
+Dialogue: 0,0:18:47.17,0:18:49.10,Gen_Main,GENAU,0,0,0,,Suena hasta paradójico, ¿no?
+Dialogue: 0,0:18:50.26,0:18:54.23,Gen_Main,GENAU,0,0,0,,Pero con magia se pueden crear\Nobjetos que no deberían existir.
+Dialogue: 0,0:18:54.97,0:18:59.32,Gen_Main,GENAU,0,0,0,,Las armas creadas con magia\Nestán cargadas de sed de sangre.
+Dialogue: 0,0:19:00.23,0:19:03.68,Gen_Main,GENAU,0,0,0,,Los demonios que las crean\Nsuelen matar a mucha gente.
+Dialogue: 0,0:19:04.73,0:19:09.52,Gen_Main,GENAU,0,0,0,,Acaban con un sinnúmero de vidas\Nsolo para poder ponerlas a prueba.
+Dialogue: 0,0:19:15.07,0:19:16.07,Gen_Main,GENAU,0,0,0,,Stark.
+Dialogue: 0,0:19:16.99,0:19:19.54,Gen_Main,STARK,0,0,0,,Lo sé. Es el enemigo.
+Dialogue: 0,0:19:23.42,0:19:24.76,Gen_Main,GENAU,0,0,0,,Es veloz.
+Dialogue: 0,0:19:25.65,0:19:26.65,Gen_Main,GENAU,0,0,0,,Ya viene.
+Dialogue: 0,0:19:57.99,0:19:59.63,Gen_Main,STARK,0,0,0,,¡Cuatro espadas!
+Dialogue: 0,0:20:01.22,0:20:04.80,Gen_Main,REVOLTE,0,0,0,,Un guerrero\Ny un hechicero de primer grado.
+Dialogue: 0,0:20:05.24,0:20:09.45,Gen_Main,REVOLTE,0,0,0,,Como predije,\Nse quedarían a proteger la aldea.
+Dialogue: 0,0:20:10.32,0:20:11.92,Gen_Main,GENAU,0,0,0,,Es Revolte.
+Dialogue: 0,0:20:12.00,0:20:13.64,Gen_Main,STARK,0,0,0,,¿Es él?
+Dialogue: 0,0:20:13.90,0:20:16.50,Gen_Main,REVOLTE,0,0,0,,Parecen saber quién soy.
+Dialogue: 0,0:20:17.62,0:20:21.93,Gen_Main,REVOLTE,0,0,0,,El hechicero de primer grado\Nme resulta bastante familiar.
+Dialogue: 0,0:20:22.82,0:20:24.14,Gen_Main,REVOLTE,0,0,0,,¿Quién eres?
+Dialogue: 0,0:20:25.00,0:20:27.01,Gen_Main,GENAU,0,0,0,,Empecemos, Stark.
+Dialogue: 0,0:20:27.09,0:20:29.92,Gen_Main,GENAU,0,0,0,,Evita recibir sus ataques de frente.
+Dialogue: 0,0:20:30.00,0:20:32.98,Gen_Main,GENAU,0,0,0,,En el peor de los casos,\Nno dejará ni rastro tuyo.
+Dialogue: 0,0:20:34.39,0:20:36.78,Gen_Main,REVOLTE,0,0,0,,Te pregunté que quién eres.
+Dialogue: 0,0:20:37.01,0:20:42.29,Gen_Main,GENAU,0,0,0,,¿Te presentas antes\Nde exterminar una plaga?
+Dialogue: 0,0:20:42.80,0:20:45.91,Gen_Main,REVOLTE,0,0,0,,Eres un tipo bastante retorcido.
+Dialogue: 0,0:20:47.43,0:20:50.81,Gen_Main,REVOLTE,0,0,0,,Qué desperdicio\Nde la capacidad del habla.
+Dialogue: 0,0:20:51.83,0:20:56.52,Gen_Main,REVOLTE,0,0,0,,Pero si no quieren hablar…
+Dialogue: 0,0:20:59.46,0:21:03.33,Gen_Main,REVOLTE,0,0,0,,yo también me centraré\Nen el exterminio de plagas.
+Dialogue: 0,0:21:05.17,0:21:08.53,Gen_Main,STARK,0,0,0,,¿Qué hago si no puedo\Nrecibir sus ataques?
+Dialogue: 0,0:21:08.61,0:21:11.39,Gen_Main,GENAU,0,0,0,,Los guerreros pueden\Ndesviar los golpes, ¿no?
+Dialogue: 0,0:21:15.94,0:21:17.40,Gen_Main,STARK,0,0,0,,Sí, pero…
+Dialogue: 0,0:21:28.66,0:21:30.46,Gen_Main,STARK,0,0,0,,¡Así no puedo protegerte!
+Dialogue: 0,0:21:30.87,0:21:33.14,Gen_Main,GENAU,0,0,0,,No necesito protección.
+Dialogue: 0,0:21:33.53,0:21:36.77,Gen_Main,GENAU,0,0,0,,Aunque no lo creas, soy experto\Nen combate cuerpo a cuerpo.
+Dialogue: 0,0:21:57.00,0:22:00.42,Gen_Main,GENAU,0,0,0,,La magia de los demonios\Nno es la única capaz
+Dialogue: 0,0:22:00.67,0:22:03.45,Gen_Main,GENAU,0,0,0,,de crear objetos\Nque no deberían existir.
+Dialogue: 0,0:22:04.46,0:22:06.41,Gen_Main,GENAU,0,0,0,,Digardnacht.
+Dialogue: 0,0:22:11.12,0:22:14.41,Gen_Main,REVOLTE,0,0,0,,¿Un hechizo para controlar\Nalas de hierro?
+Dialogue: 0,0:22:16.57,0:22:18.06,Gen_Main,REVOLTE,0,0,0,,Qué interesante.
+Dialogue: 0,0:23:50.15,0:23:54.08,Gen_Main_Up,FRIEREN,0,0,0,,No está mal ver de lejos para variar.
+Dialogue: 0,0:23:50.63,0:23:51.92,Gen_Main,FERN/ID,0,0,0,,Tiene la ventaja.
+Dialogue: 0,0:23:51.92,0:23:53.85,Gen_Main,METHODE/ID,0,0,0,,-No deja aperturas.\N-No preveo sus ataques.
+Dialogue: 0,0:23:53.85,0:23:56.47,Gen_Main,JUNG/SOLIDE,0,0,0,,-¡Lo logré!\N-Debería ser un buen encuentro.
+Dialogue: 0,0:23:54.66,0:23:57.37,Gen_Main_Up,HEMMUNG,0,0,0,,No tiene caso intentar esconderte.
+Dialogue: 0,0:23:56.46,0:23:58.19,Gen_Main,REVOLTE,0,0,0,,Acabaré con tu miseria.
+Dialogue: 0,0:23:57.99,0:24:00.07,Cart_C_Tim,CARTEL,0,0,0,,{\fsp1\b0\fad(500,0)\pos(320,80)\bord0\c&H201B1C&\blur5\t(0,271,\blur0)\t(312,1188,\c&HFFFFFF&)\t(\fsp0)}Episodio 36\N{\fs30}Un final digno
+Dialogue: 0,0:23:58.27,0:24:00.10,Gen_Main,GENAU,0,0,0,,Tuvo un final digno.

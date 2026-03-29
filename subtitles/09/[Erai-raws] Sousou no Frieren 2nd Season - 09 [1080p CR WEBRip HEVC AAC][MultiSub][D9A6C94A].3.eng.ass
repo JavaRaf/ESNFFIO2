@@ -1,0 +1,262 @@
+﻿[Script Info]
+Title: [Erai-raws]
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,0
+Style: DefaultTop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,10,10,18,0
+Style: DefaultOverlap,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00666666,&H00666666,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,0
+Style: DefaultOverlapTop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00666666,&H00666666,0,0,0,0,100,100,0,0,1,2,1,8,10,10,18,0
+Style: Flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Signs,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,30,30,10,0
+Style: Signs_WText,Times New Roman,12,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,9,30,30,10,0
+Style: Signs_EpTitle,Times New Roman,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,30,30,10,0
+Style: Signs_NextEp,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,30,30,10,0
+Style: Credits,Times New Roman,12,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:23.45,0:00:26.89,Default,CAPTAIN,0,0,0,,Are you sure this is far enough?
+Dialogue: 0,0:00:26.89,0:00:31.17,Default,DENKEN,0,0,0,,It's fine. I'll make the rest \Nof the journey alone.
+Dialogue: 0,0:00:31.90,0:00:36.38,Default,DENKEN,0,0,0,,Besides, my destination \Nis only accessible on foot.
+Dialogue: 0,0:00:37.17,0:00:39.82,Default,CAPTAIN,0,0,0,,Very well. Take care.
+Dialogue: 0,0:01:26.27,0:01:33.32,Signs,SIGN,0,0,0,,{\fad(1528,188)\blur0.25\fs33\fnGeorgia\fsp3.0\c&HF8CC9E&\t(2529,5824,\c&HFAFBFA&)\pos(326,245)}Beyond Journey's End
+Dialogue: 0,0:02:31.01,0:02:35.01,Signs_WText,SIGN,0,0,0,,{\blur0.2\pos(588.5,16)}30 years after the death of Himmel the Hero,\Nin the Drachen region, located on the Northern Plateau
+Dialogue: 0,0:02:48.86,0:02:50.49,Default,STARK,0,0,0,,This looks bad.
+Dialogue: 0,0:02:51.15,0:02:54.49,Default,MAYOR,0,0,0,,The village was attacked by a dragon.
+Dialogue: 0,0:02:54.49,0:02:57.25,Default,STARK,0,0,0,,They even have dragons \Non the Northern Plateau?
+Dialogue: 0,0:02:57.25,0:02:59.49,Default,FERN,0,0,0,,This really is a dangerous place.
+Dialogue: 0,0:03:00.09,0:03:01.81,Default,FRIEREN,0,0,0,,It could be worse.
+Dialogue: 0,0:03:01.81,0:03:02.27,Default,STARK,0,0,0,,What?
+Dialogue: 0,0:03:02.73,0:03:06.91,Default,FRIEREN,0,0,0,,When I traveled with Himmel, we were \Nattacked by a flight of dragons.
+Dialogue: 0,0:03:08.18,0:03:10.69,Default,STARK,0,0,0,,I can't even imagine a whole flight.
+Dialogue: 0,0:03:10.69,0:03:11.99,Default,FERN,0,0,0,,That's crazy.
+Dialogue: 0,0:03:12.33,0:03:17.38,Default,MAYOR,0,0,0,,Um... do dragons not \Nnormally travel in flights?
+Dialogue: 0,0:03:17.93,0:03:20.34,Default,FERN,0,0,0,,Was this village attacked by a flight?
+Dialogue: 0,0:03:20.34,0:03:24.23,Default,MAYOR,0,0,0,,Yes. One moved in nearby.
+Dialogue: 0,0:03:24.23,0:03:26.77,Default,MAYOR,0,0,0,,I'd like you to slay them.
+Dialogue: 0,0:03:27.13,0:03:29.59,Default,STARK,0,0,0,,The Northern Plateau's \Nnormal is terrifying.
+Dialogue: 0,0:03:29.59,0:03:31.07,Default,FERN,0,0,0,,That's super crazy.
+Dialogue: 0,0:03:50.00,0:03:52.32,Default,FRIEREN,0,0,0,,This village is done for.
+Dialogue: 0,0:03:53.09,0:03:54.71,Default,FRIEREN,0,0,0,,You should move somewhere else.
+Dialogue: 0,0:03:56.51,0:04:01.71,Default,MAYOR,0,0,0,,But this is our home.
+Dialogue: 0,0:04:02.14,0:04:03.04,Default,VILLAGER 1,0,0,0,,Be careful.
+Dialogue: 0,0:04:03.04,0:04:03.71,Default,VILLAGER 2,0,0,0,,Are you okay?
+Dialogue: 0,0:04:04.28,0:04:05.58,Default,VILLAGER 3,0,0,0,,I'll bring it to you now.
+Dialogue: 0,0:04:07.99,0:04:10.24,Default,FERN,0,0,0,,He's right, Ms. Frieren.
+Dialogue: 0,0:04:11.12,0:04:13.07,Default,FERN,0,0,0,,That was a cruel thing to say.
+Dialogue: 0,0:04:13.07,0:04:15.39,Default,STARK,0,0,0,,I feel sorry for the villagers.
+Dialogue: 0,0:04:15.84,0:04:19.55,Default,FRIEREN,0,0,0,,Do you understand what it means \Nto face a whole flight of dragons?
+Dialogue: 0,0:04:19.55,0:04:21.52,Default,FRIEREN,0,0,0,,There's no way we'll come away unscathed.
+Dialogue: 0,0:04:22.13,0:04:25.11,Default,STARK,0,0,0,,We protect people's homes. \NRight, Frieren?
+Dialogue: 0,0:04:26.48,0:04:28.37,Default,FRIEREN,0,0,0,,It'll depend on the pay.
+Dialogue: 0,0:04:28.88,0:04:34.08,Default,MAYOR,0,0,0,,Our village is very poor. \NWe have nothing to pay you with.
+Dialogue: 0,0:04:34.08,0:04:35.81,Default,FRIEREN,0,0,0,,You don't have any grimoires?
+Dialogue: 0,0:04:36.33,0:04:40.63,Default,MAYOR,0,0,0,,Only one for a terribly \Nuseless spell that allows you
+Dialogue: 0,0:04:40.63,0:04:43.97,Default,MAYOR,0,0,0,,to say tongue twisters without \Ntripping over your words.
+Dialogue: 0,0:04:43.97,0:04:47.65,Default,FERN,0,0,0,,That does sound useless.
+Dialogue: 0,0:04:52.92,0:04:55.57,Default,STARK,0,0,0,,Doesn't matter as long \Nas it's a spell, huh?
+Dialogue: 0,0:04:55.57,0:04:58.06,Default,FRIEREN,0,0,0,,Do you know where \Nthe dragons came from?
+Dialogue: 0,0:04:58.76,0:05:01.65,Default,MAYOR,0,0,0,,Somewhere in those woods.
+Dialogue: 0,0:05:03.17,0:05:05.61,Default,FRIEREN,0,0,0,,We'll search for traces of mana.
+Dialogue: 0,0:05:06.23,0:05:07.64,Default,FRIEREN,0,0,0,,We may be able to track them.
+Dialogue: 0,0:05:32.20,0:05:34.16,Default,FRIEREN,0,0,0,,We continue straight here.
+Dialogue: 0,0:05:34.88,0:05:39.59,Default,STARK,0,0,0,,I've been thinking this for a while now, \Nbut magic sure is amazing.
+Dialogue: 0,0:05:39.59,0:05:41.89,Default,STARK,0,0,0,,It's really convenient \Nat times like these.
+Dialogue: 0,0:05:42.31,0:05:44.65,Default,FRIEREN,0,0,0,,Keep the praise coming.
+Dialogue: 0,0:05:44.65,0:05:50.03,Default,FERN,0,0,0,,Mr. Stark, carelessly praising her isn't \Ngood for Ms. Frieren's development.
+Dialogue: 0,0:05:50.49,0:05:52.37,Default,STARK,0,0,0,,I guess that's true.
+Dialogue: 0,0:05:52.62,0:05:55.73,Default,FRIEREN,0,0,0,,What do you two think I am?
+Dialogue: 0,0:05:57.06,0:06:00.32,Default,FRIEREN,0,0,0,,In any case, I can tell roughly \Nwhich way they are. Let's go.
+Dialogue: 0,0:06:35.49,0:06:36.79,Default,FRIEREN,0,0,0,,There they are.
+Dialogue: 0,0:06:36.79,0:06:38.63,Default,STARK,0,0,0,,That's a lot of dragons.
+Dialogue: 0,0:06:38.63,0:06:40.62,Default,FRIEREN,0,0,0,,But they're small ones.
+Dialogue: 0,0:06:40.62,0:06:43.62,Default,FRIEREN,0,0,0,,They won't be nearly as strong \Nas that solar dragon.
+Dialogue: 0,0:06:44.40,0:06:48.64,Default,FRIEREN,0,0,0,,That said, dragons are smart. \NDon't let them surround you.
+Dialogue: 0,0:06:49.33,0:06:52.85,Default,FRIEREN,0,0,0,,Let's draw them to one spot \Nand take them down all at once.
+Dialogue: 0,0:06:52.85,0:06:55.83,Default,FRIEREN,0,0,0,,Stark, keep them locked down.
+Dialogue: 0,0:06:56.30,0:06:58.60,Default,FRIEREN,0,0,0,,You're an experienced \Ndragon fighter, right?
+Dialogue: 0,0:06:59.04,0:07:02.42,Default,STARK,0,0,0,,Again? That's a tall order.
+Dialogue: 0,0:07:07.24,0:07:08.56,Default,FRIEREN,0,0,0,,Shall we begin?
+Dialogue: 0,0:07:08.56,0:07:10.81,Default,STARK,0,0,0,,You'd better actually \Nfire some spells this time.
+Dialogue: 0,0:07:14.65,0:07:17.46,Default,FRIEREN,0,0,0,,As long as you don't end up \Nslaying them all first.
+Dialogue: 0,0:08:26.38,0:08:28.81,Default,STARK,0,0,0,,That was a ridiculously intense battle.
+Dialogue: 0,0:08:29.45,0:08:32.24,Default,FRIEREN,0,0,0,,It's a good thing this \Nvillage has a church.
+Dialogue: 0,0:08:32.24,0:08:36.57,Default,FERN,0,0,0,,You even got your head \Nchewed on during the fight.
+Dialogue: 0,0:08:38.92,0:08:40.67,Default,FERN,0,0,0,,How are you not in worse shape?
+Dialogue: 0,0:08:44.90,0:08:46.21,Default,STARK,0,0,0,,I don't know.
+Dialogue: 0,0:08:46.72,0:08:49.26,Default,FRIEREN,0,0,0,,That's probably normal for warriors.
+Dialogue: 0,0:08:49.26,0:08:52.12,Default,FRIEREN,0,0,0,,Eisen was fine after getting \Nhis head bitten, too.
+Dialogue: 0,0:08:52.12,0:08:55.79,Default,FERN,0,0,0,,No, Mr. Eisen is definitely \Nas far from normal as it gets.
+Dialogue: 0,0:08:55.79,0:08:57.69,Default,MAYOR,0,0,0,,I hope you weren't waiting long.
+Dialogue: 0,0:08:59.46,0:09:03.68,Default,MAYOR,0,0,0,,Thank you. Here's your \Ngrimoire as payment.
+Dialogue: 0,0:09:13.87,0:09:20.19,Default,FERN,0,0,0,,Come to think of it, you almost always \Ndemand payment for helping people.
+Dialogue: 0,0:09:20.82,0:09:23.12,Default,FRIEREN,0,0,0,,Because that's what Himmel did.
+Dialogue: 0,0:09:23.12,0:09:24.64,Default,STARK,0,0,0,,I'm surprised.
+Dialogue: 0,0:09:24.64,0:09:29.54,Default,FERN,0,0,0,,I always assumed he was someone \Nwho helped others for free.
+Dialogue: 0,0:09:30.06,0:09:33.65,Default,FRIEREN,0,0,0,,I know. I used to think the same thing.
+Dialogue: 0,0:09:34.79,0:09:36.86,Flashback,HUSBAND,0,0,0,,Thank you so much.
+Dialogue: 0,0:09:37.18,0:09:44.47,Flashback,WIFE,0,0,0,,You deserve more, but as you can see, \Nour village is poor.
+Dialogue: 0,0:09:44.88,0:09:47.95,Flashback,WIFE,0,0,0,,This is all we have.
+Dialogue: 0,0:09:49.41,0:09:53.43,Flashback,EISEN,0,0,0,,We can't accept food from this village.
+Dialogue: 0,0:09:56.70,0:09:58.14,Flashback,HIMMEL,0,0,0,,Is that a grimoire?
+Dialogue: 0,0:10:01.35,0:10:05.48,Flashback,HUSBAND,0,0,0,,Actually, it's a notebook we received from\N a traveling merchant some time ago,
+Dialogue: 0,0:10:05.48,0:10:07.83,Flashback,HUSBAND,0,0,0,,but we have no use for it.
+Dialogue: 0,0:10:17.51,0:10:24.03,Flashback,FRIEREN,0,0,0,,Himmel, why do you demand payment \Nnearly every time we help someone?
+Dialogue: 0,0:10:25.06,0:10:29.05,Flashback,HIMMEL,0,0,0,,If they pay us, \Nthey don't owe us anything.
+Dialogue: 0,0:10:30.17,0:10:32.73,Flashback,HIMMEL,0,0,0,,We're the party of heroes.
+Dialogue: 0,0:10:37.43,0:10:44.15,Flashback,HIMMEL,0,0,0,,What we want is to help people, \Nnot words of gratitude.
+Dialogue: 0,0:10:48.38,0:10:55.26,Flashback,HIMMEL,0,0,0,,If we make people indebted to us, \Nwe haven't really helped them.
+Dialogue: 0,0:10:57.10,0:11:02.35,Default,FRIEREN,0,0,0,,That's why I even take ridiculous \Nspells like this as payment.
+Dialogue: 0,0:11:03.32,0:11:04.79,Default,STARK,0,0,0,,Frieren...
+Dialogue: 0,0:11:06.46,0:11:09.77,Default,FRIEREN,0,0,0,,I'm going to see if it really works later.
+Dialogue: 0,0:11:09.77,0:11:12.59,Default,FERN,0,0,0,,In the end, you just want spells.
+Dialogue: 0,0:11:12.98,0:11:17.71,Default,STARK,0,0,0,,Couldn't you get a spell that \Nprevents dragon bites instead?
+Dialogue: 0,0:11:20.02,0:11:23.03,Signs_EpTitle,EPTITLE,0,0,0,,{\blur0.2\c&HFAFFF7&\pos(380.5,269.5)}Episode 37: Himmel's Memoirs
+Dialogue: 0,0:11:25.77,0:11:29.00,Flashback,EISEN,0,0,0,,How's it look outside, Frieren?
+Dialogue: 0,0:11:29.82,0:11:32.84,Flashback,FRIEREN,0,0,0,,Looks like we won't be able \Nto head out for a while.
+Dialogue: 0,0:11:33.43,0:11:35.64,Flashback,EISEN,0,0,0,,That's some terrible luck.
+Dialogue: 0,0:11:35.64,0:11:38.31,Flashback,EISEN,0,0,0,,I can't believe we're stuck here.
+Dialogue: 0,0:11:38.31,0:11:40.50,Flashback,HEITER,0,0,0,,I'm so bored, I could die.
+Dialogue: 0,0:11:40.50,0:11:42.66,Flashback,FRIEREN,0,0,0,,That's less the boredom \Nand more the hangover.
+Dialogue: 0,0:11:49.16,0:11:51.66,Flashback,HIMMEL,0,0,0,,Cheer up, everyone.
+Dialogue: 0,0:11:51.66,0:11:55.12,Flashback,HIMMEL,0,0,0,,We're on an adventure \Nto defeat the Demon King.
+Dialogue: 0,0:11:55.12,0:11:59.15,Flashback,EISEN,0,0,0,,We haven't been able to \Nadventure for days now.
+Dialogue: 0,0:11:59.44,0:12:03.20,Flashback,HIMMEL,0,0,0,,Adventures aren't just about \Nstrolling around in the great outdoors.
+Dialogue: 0,0:12:03.94,0:12:08.11,Flashback,HIMMEL,0,0,0,,Sometimes, an adventure can just \Nbe a bunch of crappy days in a row.
+Dialogue: 0,0:12:08.59,0:12:11.09,Flashback,EISEN,0,0,0,,You're the only one calling it crappy.
+Dialogue: 0,0:12:12.66,0:12:14.86,Flashback,EISEN,0,0,0,,What are you doing, Himmel?
+Dialogue: 0,0:12:15.35,0:12:17.29,Flashback,HEITER,0,0,0,,Is something the matter?
+Dialogue: 0,0:12:20.13,0:12:21.40,Flashback,HIMMEL,0,0,0,,No...
+Dialogue: 0,0:12:22.29,0:12:26.80,Signs_WText,SIGN,0,0,0,,{\blur0.2\pos(588.5,16)}30 years after the death of Himmel the Hero,\N by Lake Korridor, located on the Northern Plateau
+Dialogue: 0,0:12:27.60,0:12:30.06,Default,STARK,0,0,0,,It's been a week since \Nwe arrived in this city.
+Dialogue: 0,0:12:30.06,0:12:32.39,Default,STARK,0,0,0,,The weather's as stormy as ever.
+Dialogue: 0,0:12:40.89,0:12:43.62,Default,FRIEREN,0,0,0,,Will you be able to take \Nthe ferry out today?
+Dialogue: 0,0:12:43.62,0:12:45.35,Default,CAPTAIN,0,0,0,,Does it look like I can?
+Dialogue: 0,0:12:53.70,0:12:56.62,Default,CAPTAIN,0,0,0,,My boat isn't a coffin, you know.
+Dialogue: 0,0:12:58.59,0:13:00.11,Default,FRIEREN,0,0,0,,I suppose not.
+Dialogue: 0,0:13:02.71,0:13:07.54,Default,STARK,0,0,0,,I gotta say, though. I'm surprised \Neven lakes can get stormy.
+Dialogue: 0,0:13:07.54,0:13:11.39,Default,FRIEREN,0,0,0,,Lake Korridor is the largest body \Nof water in the northern lands.
+Dialogue: 0,0:13:11.92,0:13:14.51,Default,FRIEREN,0,0,0,,It's larger than some inland seas.
+Dialogue: 0,0:13:15.28,0:13:18.60,Default,STARK,0,0,0,,Yeah, we can hardly see the far shore.
+Dialogue: 0,0:13:20.07,0:13:24.56,Default,FRIEREN,0,0,0,,Also, large mountain ranges to the \Neast and west disrupt air currents,
+Dialogue: 0,0:13:24.56,0:13:27.28,Default,FRIEREN,0,0,0,,making this time of year \Nhellishly stormy.
+Dialogue: 0,0:13:27.93,0:13:31.71,Default,FRIEREN,0,0,0,,It's not unusual for even large \Nships to sink in these storms.
+Dialogue: 0,0:13:32.36,0:13:36.30,Default,FERN,0,0,0,,With these winds, we can't use \Nflying magic to cross, either.
+Dialogue: 0,0:13:36.30,0:13:39.80,Default,FRIEREN,0,0,0,,It would be difficult to fly across \Neven on a clear day.
+Dialogue: 0,0:13:40.15,0:13:42.70,Default,FRIEREN,0,0,0,,The far shore is farther than you think.
+Dialogue: 0,0:13:43.70,0:13:48.01,Default,FRIEREN,0,0,0,,I might be able to make it, \Nbut you don't have enough mana.
+Dialogue: 0,0:13:48.54,0:13:51.64,Default,FERN,0,0,0,,Could we go around the lake?
+Dialogue: 0,0:13:52.32,0:13:54.47,Default,FRIEREN,0,0,0,,That would be difficult, too.
+Dialogue: 0,0:13:54.80,0:13:56.44,Default,STARK,0,0,0,,Why?
+Dialogue: 0,0:13:56.85,0:13:59.56,Default,FRIEREN,0,0,0,,The terrible weather is caused by...
+Dialogue: 0,0:14:00.91,0:14:02.66,Default,FRIEREN,0,0,0,,the mountain ranges to the east and west.
+Dialogue: 0,0:14:03.17,0:14:07.55,Default,FRIEREN,0,0,0,,Trying to cross a stormy mountain range \Nwithout even a mountain pass...
+Dialogue: 0,0:14:08.95,0:14:10.50,Default,FRIEREN,0,0,0,,would be suicide.
+Dialogue: 0,0:14:11.15,0:14:13.72,Default,FRIEREN,0,0,0,,Waiting here for a few months
+Dialogue: 0,0:14:13.72,0:14:18.45,Default,FRIEREN,0,0,0,,is ultimately safer and quicker \Nthan trying to find a way around.
+Dialogue: 0,0:14:19.02,0:14:22.82,Default,FRIEREN,0,0,0,,Fortunately, this is a fairly large \Nport city and trading hub.
+Dialogue: 0,0:14:23.20,0:14:25.96,Default,FRIEREN,0,0,0,,It's the perfect place to pass the time.
+Dialogue: 0,0:15:08.10,0:15:10.63,Default,STARK,0,0,0,,We ended up waiting all winter.
+Dialogue: 0,0:15:11.17,0:15:12.82,Default,FRIEREN,0,0,0,,Can you take the ferry out today?
+Dialogue: 0,0:15:12.82,0:15:13.88,Default,CAPTAIN,0,0,0,,Yeah.
+Dialogue: 0,0:15:14.47,0:15:16.69,Default,CAPTAIN,0,0,0,,Can you pay, though?
+Dialogue: 0,0:15:17.19,0:15:21.58,Default,CAPTAIN,0,0,0,,The storms may have passed, \Nbut it's still not a safe journey.
+Dialogue: 0,0:15:22.11,0:15:24.23,Default,CAPTAIN,0,0,0,,I expect to be paid appropriately.
+Dialogue: 0,0:15:27.39,0:15:29.39,Default,CAPTAIN,0,0,0,,That's not nearly enough.
+Dialogue: 0,0:15:29.76,0:15:33.05,Default,FERN,0,0,0,,This is your fault for buying \Ntoo many grimoires, Ms. Frieren.
+Dialogue: 0,0:15:33.05,0:15:34.98,Default,FRIEREN,0,0,0,,I had a lot of time on my hands.
+Dialogue: 0,0:15:35.75,0:15:38.81,Default,CAPTAIN,0,0,0,,In that case, we can exchange favors.
+Dialogue: 0,0:15:39.88,0:15:41.47,Default,CAPTAIN,0,0,0,,On an island just off shore,
+Dialogue: 0,0:15:41.47,0:15:46.15,Default,CAPTAIN,0,0,0,,there's an abandoned monastery \Nthat's protected by a barrier.
+Dialogue: 0,0:15:46.98,0:15:51.32,Default,CAPTAIN,0,0,0,,Himmel the Hero's memoirs \Nare said to be there.
+Dialogue: 0,0:15:52.18,0:15:56.90,Default,CAPTAIN,0,0,0,,Himmel the Hero saved this city \Nduring my grandfather's time.
+Dialogue: 0,0:15:57.75,0:16:00.51,Default,CAPTAIN,0,0,0,,I've looked up to him \Nsince I was a child.
+Dialogue: 0,0:16:01.34,0:16:04.12,Default,CAPTAIN,0,0,0,,Everyone in the city wants those memoirs.
+Dialogue: 0,0:16:04.55,0:16:06.65,Default,CAPTAIN,0,0,0,,I'd like you to find them.
+Dialogue: 0,0:16:07.56,0:16:09.48,Default,FRIEREN,0,0,0,,Himmel's memoirs...
+Dialogue: 0,0:16:09.94,0:16:11.40,Default,FRIEREN,0,0,0,,Come to think of it,
+Dialogue: 0,0:16:11.90,0:16:15.69,Default,FRIEREN,0,0,0,,he said he'd lost the memoirs \Nhe'd been working on during our travels.
+Dialogue: 0,0:16:16.17,0:16:17.95,Default,FRIEREN,0,0,0,,He was pretty disappointed, I think.
+Dialogue: 0,0:16:21.84,0:16:24.60,Default,FRIEREN,0,0,0,,I can't believe that's where they were.
+Dialogue: 0,0:16:25.62,0:16:28.60,Default,FRIEREN,0,0,0,,Sure, we'll take the job.
+Dialogue: 0,0:16:52.23,0:16:56.10,Default,STARK,0,0,0,,Is that a whole fleet of ships? \NIt's like we're out at sea.
+Dialogue: 0,0:16:56.10,0:17:01.12,Default,CAPTAIN,0,0,0,,Yes. Many people and shipments of goods \Ntraverse the lake this time of year.
+Dialogue: 0,0:17:02.06,0:17:04.56,Default,CAPTAIN,0,0,0,,And lately, there have been \Nrumors that a Golden Land,
+Dialogue: 0,0:17:04.56,0:17:09.56,Default,CAPTAIN,0,0,0,,where anything and everything is made \Nof gold, was found in the north.
+Dialogue: 0,0:17:10.00,0:17:13.25,Default,CAPTAIN,0,0,0,,More people are crossing \Nthe lake than usual.
+Dialogue: 0,0:17:13.25,0:17:16.64,Default,STARK,0,0,0,,A Golden Land? Is that true?
+Dialogue: 0,0:17:16.64,0:17:18.02,Default,CAPTAIN,0,0,0,,Who knows?
+Dialogue: 0,0:17:18.86,0:17:22.63,Default,CAPTAIN,0,0,0,,But I've never met anyone \Nwho's actually been there.
+Dialogue: 0,0:17:23.23,0:17:25.34,Default,CAPTAIN,0,0,0,,It's probably just a tall tale.
+Dialogue: 0,0:17:28.47,0:17:29.79,Default,CAPTAIN,0,0,0,,That's the island.
+Dialogue: 0,0:17:42.94,0:17:45.98,Default,FERN,0,0,0,,The barrier isn't very strong.
+Dialogue: 0,0:17:45.98,0:17:49.03,Default,FRIEREN,0,0,0,,Well, it seems to be several decades old.
+Dialogue: 0,0:17:49.03,0:17:53.34,Default,STARK,0,0,0,,This is a grand monastery. \NWhy was it abandoned?
+Dialogue: 0,0:17:53.95,0:17:57.61,Default,CAPTAIN,0,0,0,,The roof caved in after a monster attack.
+Dialogue: 0,0:17:57.61,0:17:59.65,Default,CAPTAIN,0,0,0,,It was an old building.
+Dialogue: 0,0:18:00.18,0:18:04.51,Default,FRIEREN,0,0,0,,I see. That's why they erected \Nthe barrier in a hurry.
+Dialogue: 0,0:18:05.06,0:18:06.07,Default,STARK,0,0,0,,What do you mean?
+Dialogue: 0,0:18:06.44,0:18:11.53,Default,FRIEREN,0,0,0,,Most monasteries keep \Nold and valuable books.
+Dialogue: 0,0:18:12.02,0:18:13.69,Default,STARK,0,0,0,,Huh.
+Dialogue: 0,0:18:14.12,0:18:18.77,Default,FERN,0,0,0,,So the barrier was for protecting the \Nbooks they couldn't take with them.
+Dialogue: 0,0:18:21.59,0:18:24.51,Default,FRIEREN,0,0,0,,It's open. Let's search the monastery.
+Dialogue: 0,0:18:27.85,0:18:30.83,Default,FERN,0,0,0,,What happened to the monks who were here?
+Dialogue: 0,0:18:31.44,0:18:35.34,Default,CAPTAIN,0,0,0,,Who knows? It was abandoned \Na long time ago.
+Dialogue: 0,0:18:35.34,0:18:40.24,Default,CAPTAIN,0,0,0,,The only knowledge that remains is the \Nstory about Himmel the Hero's memoirs.
+Dialogue: 0,0:18:50.56,0:18:52.73,Default,STARK,0,0,0,,This is a big library.
+Dialogue: 0,0:18:53.31,0:18:55.57,Default,FERN,0,0,0,,There's a statue of Mr. Himmel.
+Dialogue: 0,0:18:56.35,0:18:58.50,Default,STARK,0,0,0,,That's a handsome pose.
+Dialogue: 0,0:19:06.91,0:19:08.37,Default,FRIEREN,0,0,0,,Here we are.
+Dialogue: 0,0:19:08.70,0:19:09.76,Default,FRIEREN,0,0,0,,This is it.
+Dialogue: 0,0:19:13.69,0:19:16.09,Default,FRIEREN,0,0,0,,Yup. This is definitely it.
+Dialogue: 0,0:19:16.09,0:19:17.57,Default,FRIEREN,0,0,0,,This is Himmel's handwriting.
+Dialogue: 0,0:20:17.56,0:20:19.44,Default,FERN,0,0,0,,What's written in it?
+Dialogue: 0,0:20:21.19,0:20:23.86,Default,FRIEREN,0,0,0,,It's the everyday minutiae \Nof a ridiculous journey.
+Dialogue: 0,0:20:27.14,0:20:28.90,Default,FRIEREN,0,0,0,,Just everyday stuff.
+Dialogue: 0,0:20:31.23,0:20:33.70,Default,FRIEREN,0,0,0,,Here. This is what you asked for.
+Dialogue: 0,0:20:34.22,0:20:36.28,Default,FRIEREN,0,0,0,,Now our fare is paid in full.
+Dialogue: 0,0:20:39.53,0:20:44.17,Default,CAPTAIN,0,0,0,,I heard an elven mage traveled \Nwith the party of heroes,
+Dialogue: 0,0:20:44.74,0:20:46.71,Default,CAPTAIN,0,0,0,,but I never thought I'd get to meet her.
+Dialogue: 0,0:20:47.44,0:20:49.07,Default,FRIEREN,0,0,0,,What made you think it was me?
+Dialogue: 0,0:20:49.77,0:20:53.84,Default,CAPTAIN,0,0,0,,After seeing that wistful look \Non your face, how could I not?
+Dialogue: 0,0:20:53.84,0:20:57.88,Default,CAPTAIN,0,0,0,,That's something important to you, \Nisn't it? You should keep it.
+Dialogue: 0,0:21:00.04,0:21:04.30,Default,CAPTAIN,0,0,0,,There are plenty of other \Nvaluable books here.
+Dialogue: 0,0:21:04.30,0:21:06.70,Default,CAPTAIN,0,0,0,,That's more than enough payment.
+Dialogue: 0,0:21:07.96,0:21:10.00,Default,FRIEREN,0,0,0,,Did it really show on my face?
+Dialogue: 0,0:21:10.70,0:21:11.96,Default,FERN,0,0,0,,Only a little.
+Dialogue: 0,0:21:12.83,0:21:16.10,Default,CAPTAIN,0,0,0,,Come on. We'll reach the \Nfar shore before sunset.
+Dialogue: 0,0:21:22.92,0:21:26.25,Default,FRIEREN,0,0,0,,I'm not sure we'll need this \Ncollection of cool catchphrases.
+Dialogue: 0,0:21:26.25,0:21:27.99,Default,FRIEREN,0,0,0,,It's a waste of pages.
+Dialogue: 0,0:21:27.99,0:21:30.01,Default,STARK,0,0,0,,Maybe I'll use one next time.
+Dialogue: 0,0:21:30.01,0:21:35.51,Default,STARK,0,0,0,,"Come at me, monster! I, Stark \Nthe warrior, shall take you on!"
+Dialogue: 0,0:21:38.30,0:21:39.09,Default,STARK,0,0,0,,Huh?
+Dialogue: 0,0:21:40.14,0:21:41.46,Default,CAPTAIN,0,0,0,,It's a kraken!
+Dialogue: 0,0:21:42.15,0:21:44.68,Default,STARK,0,0,0,,There are sea monsters here, too?!
+Dialogue: 0,0:21:44.68,0:21:46.60,Default,FRIEREN,0,0,0,,You provoked it.
+Dialogue: 0,0:21:46.60,0:21:47.85,Default,STARK,0,0,0,,It's {\i1}my{\i0} fault?!
+Dialogue: 0,0:21:48.37,0:21:52.98,Default,FRIEREN,0,0,0,,Stark, if we don't defeat it quickly, \Nit'll drag us all to a watery grave.
+Dialogue: 0,0:21:54.07,0:21:54.78,Default,FERN,0,0,0,,Ms. Frieren!
+Dialogue: 0,0:21:54.78,0:21:55.62,Default,STARK,0,0,0,,Frieren!
+Dialogue: 0,0:21:58.37,0:22:00.38,Default,FRIEREN,0,0,0,,Stark, this monster's weakness is—
+Dialogue: 0,0:22:00.38,0:22:01.81,Default,STARK,0,0,0,,Huh? What?
+Dialogue: 0,0:22:02.69,0:22:05.00,Default,FRIEREN,0,0,0,,And that's how you two can now \Ntake it down. Good luck.
+Dialogue: 0,0:22:06.41,0:22:09.38,Default,FERN,0,0,0,,Ms. Frieren seems to be using \Nthe spell that allows you
+Dialogue: 0,0:22:09.38,0:22:12.51,Default,FERN,0,0,0,,to say tongue twisters without \Ntripping over your words.
+Dialogue: 0,0:22:12.51,0:22:13.41,Default,STARK,0,0,0,,What?
+Dialogue: 0,0:22:14.16,0:22:18.72,Default,STARK,0,0,0,,How are you two so calm? It's scary.
+Dialogue: 0,0:22:20.98,0:22:25.11,Credits,CREDITS,0,0,0,,{\fad(526,517)\fs10\pos(525,120)}Translation\N{\fs12}Sho Stifler\N\N{\fs10}Editing & Typesetting\N{\fs12}Geoff Mazzolini\N\N{\fs10}Subtitle Timing\N{\fs12}Edgar Cruz\N\N{\fs10}Quality Check\N{\fs12}Alicia Ashby\N\N{\fs10}Translation Check\N{\fs12}Elizabeth Ellis
+Dialogue: 0,0:23:50.09,0:23:52.37,Default,FRIEREN,0,0,0,,It's a 3,000 meter drop.
+Dialogue: 0,0:23:50.71,0:23:53.72,DefaultTop,STARK,0,0,0,,The risk matches the reward, huh?
+Dialogue: 0,0:23:51.00,0:23:52.43,DefaultOverlap,HEITER,0,0,0,,It's beautiful.
+Dialogue: 0,0:23:51.40,0:23:53.76,DefaultOverlapTop,FERN,0,0,0,,It's reacting to our mana.
+Dialogue: 0,0:23:53.76,0:23:55.83,Default,HIMMEL,0,0,0,,If we defeat the Demon King,
+Dialogue: 0,0:23:55.83,0:24:00.11,Default,HIMMEL,0,0,0,,a time will come when anyone \Ncan enjoy this beautiful sight.
+Dialogue: 0,0:23:56.08,0:24:00.07,Signs_NextEp,SIGN,0,0,0,,{\fad(229,1)\blur3\t(20,312,\blur0.2)\pos(320,113.5)\c&H000000&\t(312,646,\c&HF6F6F6&)\fsp1.6\t(\fsp1)}Episode 38\N\N\N\N\N\N\N\NA Beautiful Sight

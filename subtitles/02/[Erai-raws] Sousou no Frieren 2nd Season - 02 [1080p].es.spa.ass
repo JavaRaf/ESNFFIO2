@@ -1,0 +1,255 @@
+﻿[Script Info]
+Title: [Erai-raws] Español (España)
+ScriptType: v4.00+
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:25.21,0:00:32.34,Cart_A_Tim,CARTEL,0000,0000,0000,,{\c&HE6B78D&\fad(1779,500)\blur1\bord.1\fs26\fsp2.3\t(3000,6000,\c&HFCFBFD&)\pos(320,258.667)\3c&H000000&\3a&H89&}Tras finalizar el viaje
+Dialogue: 0,0:01:29.98,0:01:32.98,Cart_A_Tim,CARTEL,0000,0000,0000,,{\an9\bord0\c&HFAFFF7&\b0\pos(562.667,243.667)}Episodio 30\NEl Héroe del Sur
+Dialogue: 0,0:01:36.34,0:01:39.74,Gen_Main,VILLAGER,0000,0000,0000,,¿Podríais pulir la estatua del héroe?
+Dialogue: 0,0:01:41.28,0:01:42.68,Gen_Main,FRIEREN,0000,0000,0000,,¿Con qué nos pagarás?
+Dialogue: 0,0:01:43.89,0:01:47.84,Gen_Main,VILLAGER,0000,0000,0000,,Con un hechizo para rascarte\Nlas partes de la espalda que te piquen.
+Dialogue: 0,0:01:52.71,0:01:56.72,Cart_A_Tim,CARTEL,0000,0000,0000,,{\an9\fs16\bord0\pos(588.667,132.667)}29 años después\Nde la muerte del héroe Himmel,\Nen la aldea de Fabel,\Nen las tierras del norte
+Dialogue: 0,0:01:59.44,0:02:01.47,Gen_Main,STARK,0000,0000,0000,,¿Vamos a hacer otra vez un trabajo así?
+Dialogue: 0,0:02:02.28,0:02:05.60,Gen_Main,FERN,0000,0000,0000,,Hay estatuas del señor Himmel\Npor doquier.
+Dialogue: 0,0:02:06.11,0:02:10.04,Gen_Main,STARK,0000,0000,0000,,Este tipo de trabajo minucioso\Ntiene su gracia.
+Dialogue: 0,0:02:10.48,0:02:13.09,Gen_Main,STARK,0000,0000,0000,,Vamos a darle un buen pulido.
+Dialogue: 0,0:02:13.15,0:02:15.58,Gen_Main,FRIEREN,0000,0000,0000,,Usaremos magia\Npara pulir la estatua de bronce.
+Dialogue: 0,0:02:15.66,0:02:17.96,Gen_Main,FRIEREN,0000,0000,0000,,Tú no tendrás que hacer nada.
+Dialogue: 0,0:02:26.58,0:02:28.37,Gen_Main,STARK,0000,0000,0000,,¿Quién es este carcamal?
+Dialogue: 0,0:02:29.50,0:02:31.62,Gen_Main,FRIEREN,0000,0000,0000,,¿Es la primera vez que lo ves?
+Dialogue: 0,0:02:32.42,0:02:34.13,Gen_Main,FRIEREN,0000,0000,0000,,Ese es el Héroe del Sur.
+Dialogue: 0,0:02:36.16,0:02:40.88,Gen_Main,FRIEREN,0000,0000,0000,,Himmel venció al Rey Demonio,\Npero no fue el único héroe.
+Dialogue: 0,0:02:41.89,0:02:45.11,Gen_Main,FRIEREN,0000,0000,0000,,Toda clase de héroes lo intentaron.
+Dialogue: 0,0:02:45.87,0:02:51.05,Gen_Main,FRIEREN,0000,0000,0000,,Se dice que el Héroe del Sur\Nfue el héroe más fuerte de la humanidad.
+Dialogue: 0,0:02:51.15,0:02:53.27,Gen_Main,STARK,0000,0000,0000,,Eso parece un poco exagerado.
+Dialogue: 0,0:02:53.36,0:02:54.36,Gen_Main,FRIEREN,0000,0000,0000,,No te creas.
+Dialogue: 0,0:02:54.99,0:02:57.61,Gen_Main,FRIEREN,0000,0000,0000,,Era digno de ese sobrenombre.
+Dialogue: 0,0:02:59.20,0:03:01.99,Gen_Main,FRIEREN,0000,0000,0000,,En su día, la mayor amenaza\Npara la humanidad
+Dialogue: 0,0:03:03.08,0:03:05.36,Gen_Main,FRIEREN,0000,0000,0000,,eran los Siete Sabios de la Destrucción,
+Dialogue: 0,0:03:05.42,0:03:08.68,Gen_Main,FRIEREN,0000,0000,0000,,que controlaban las regiones importantes\Nde las tierras del norte.
+Dialogue: 0,0:03:09.79,0:03:14.73,Gen_Main,FRIEREN,0000,0000,0000,,Nosotros solo derrotamos a dos de ellos.
+Dialogue: 0,0:03:16.18,0:03:21.35,Gen_Main,FRIEREN,0000,0000,0000,,Dos de los otros cinco\Nhuyeron o desaparecieron.
+Dialogue: 0,0:03:21.68,0:03:23.87,Gen_Main,FERN,0000,0000,0000,,Como Aura la Guillotina.
+Dialogue: 0,0:03:24.56,0:03:28.31,Gen_Main,FRIEREN,0000,0000,0000,,El Héroe del Sur venció\Na los tres restantes.
+Dialogue: 0,0:03:32.19,0:03:35.24,Gen_Main,FRIEREN,0000,0000,0000,,Su rápido avance fue asombroso.
+Dialogue: 0,0:03:36.24,0:03:40.23,Gen_Main,FRIEREN,0000,0000,0000,,En solo un año, aniquiló a las tropas\Nde vanguardia del Rey Demonio
+Dialogue: 0,0:03:41.28,0:03:44.77,Gen_Main,FRIEREN,0000,0000,0000,,y llegó al extremo norte\Nde la meseta del norte,
+Dialogue: 0,0:03:44.87,0:03:47.61,Gen_Main,FRIEREN,0000,0000,0000,,el núcleo de la ruta de suministros\Ndel Rey Demonio.
+Dialogue: 0,0:03:50.58,0:03:53.51,Gen_Main,FRIEREN,0000,0000,0000,,Allí fue donde lo vencieron\NSchlacht el Omnisciente,
+Dialogue: 0,0:03:53.59,0:03:59.00,Gen_Main,FRIEREN,0000,0000,0000,,el confidente del Rey Demonio que podía\Nver mil años en el futuro con su magia,
+Dialogue: 0,0:03:59.43,0:04:03.32,Gen_Main,FRIEREN,0000,0000,0000,,y las fuerzas combinadas\Nde los Siete Sabios.
+Dialogue: 0,0:04:04.35,0:04:06.50,Gen_Main,FERN,0000,0000,0000,,De los Siete Sabios…
+Dialogue: 0,0:04:06.60,0:04:08.26,Gen_Main,STARK,0000,0000,0000,,Es una locura.
+Dialogue: 0,0:04:09.02,0:04:13.78,Gen_Main,FRIEREN,0000,0000,0000,,Aun así, el Héroe del Sur\Nconsiguió vencer a tres de ellos,
+Dialogue: 0,0:04:13.86,0:04:17.28,Gen_Main,FRIEREN,0000,0000,0000,,y Schlacht el Omnisciente y él\Nse mataron mutuamente.
+Dialogue: 0,0:04:21.98,0:04:27.97,Gen_Main,FRIEREN,0000,0000,0000,,Esa batalla liberó de los Siete Sabios\Na mucha gente de la región.
+Dialogue: 0,0:04:29.54,0:04:32.75,Gen_Main,FRIEREN,0000,0000,0000,,La gente de aquí\Nes muy devota del Héroe del Sur.
+Dialogue: 0,0:04:34.09,0:04:37.43,Gen_Main,FRIEREN,0000,0000,0000,,Como nunca se encontró su cadáver,
+Dialogue: 0,0:04:37.60,0:04:44.19,Gen_Main,FRIEREN,0000,0000,0000,,la leyenda dice que a día de hoy sigue\Nluchando contra Schlacht el Omnisciente.
+Dialogue: 0,0:04:46.72,0:04:49.26,Gen_Main,FRIEREN,0000,0000,0000,,Luchó contra demonios devorahombres.
+Dialogue: 0,0:04:49.89,0:04:52.72,Gen_Main,FRIEREN,0000,0000,0000,,Yo creo que se lo comieron en realidad.
+Dialogue: 0,0:04:56.15,0:04:58.23,Gen_Main,FRIEREN,0000,0000,0000,,En fin, vamos a ir limpiando esto.
+Dialogue: 0,0:05:04.53,0:05:05.54,Gen_Main,FRIEREN,0000,0000,0000,,Me niego.
+Dialogue: 0,0:05:06.45,0:05:08.74,Gen_Main,FRIEREN,0000,0000,0000,,No puedo vencer al Rey Demonio.
+Dialogue: 0,0:05:11.12,0:05:13.04,Gen_Main,HERO OF THE SOUTH,0000,0000,0000,,Así que te niegas.
+Dialogue: 0,0:05:13.58,0:05:18.05,Gen_Main,HERO OF THE SOUTH,0000,0000,0000,,Veo que intentar convencerte\Nva a ser inútil.
+Dialogue: 0,0:05:21.30,0:05:24.54,Gen_Main,FRIEREN,0000,0000,0000,,Lo dices como si supieras\Nque iba a pasar esto.
+Dialogue: 0,0:05:25.93,0:05:28.56,Gen_Main,HERO OF THE SOUTH,0000,0000,0000,,Claro que lo sabía.
+Dialogue: 0,0:05:32.35,0:05:35.06,Gen_Main,HERO OF THE SOUTH,0000,0000,0000,,Imagino que te lo puedo contar.
+Dialogue: 0,0:05:37.52,0:05:43.01,Gen_Main,HERO OF THE SOUTH,0000,0000,0000,,Aunque descubrieras mi secreto,\Nnunca se lo contarías a nadie.
+Dialogue: 0,0:05:44.49,0:05:47.20,Gen_Main,HERO OF THE SOUTH,0000,0000,0000,,Así que únicamente te lo diré a ti.
+Dialogue: 0,0:05:47.79,0:05:51.55,Gen_Main,HERO OF THE SOUTH,0000,0000,0000,,Es acerca de la razón por la que soy\Nel héroe más fuerte de la humanidad.
+Dialogue: 0,0:05:54.61,0:05:57.13,Gen_Main,HERO OF THE SOUTH,0000,0000,0000,,Puedo ver el futuro.
+Dialogue: 0,0:05:59.17,0:06:01.84,Gen_Main,FRIEREN,0000,0000,0000,,Vaya, es asombroso.
+Dialogue: 0,0:06:04.09,0:06:06.10,Gen_Main,HERO OF THE SOUTH,0000,0000,0000,,Parece que no me crees.
+Dialogue: 0,0:06:07.55,0:06:11.75,Gen_Main,FRIEREN,0000,0000,0000,,No es eso. Es que me da lo mismo.
+Dialogue: 0,0:06:14.52,0:06:19.07,Gen_Main,HERO OF THE SOUTH,0000,0000,0000,,Entonces, tal vez te interese esto.
+Dialogue: 0,0:06:20.32,0:06:23.20,Gen_Main,HERO OF THE SOUTH,0000,0000,0000,,Conoces a los Siete Sabios\Nde la Destrucción, ¿no?
+Dialogue: 0,0:06:29.20,0:06:34.56,Gen_Main,HERO OF THE SOUTH,0000,0000,0000,,Dentro de un año,\Nseré derrotado y asesinado
+Dialogue: 0,0:06:34.69,0:06:39.45,Gen_Main,HERO OF THE SOUTH,0000,0000,0000,,a manos de Schlacht el Omnisciente\Ny los Siete Sabios.
+Dialogue: 0,0:07:11.74,0:07:14.83,Gen_Main,HERO OF THE SOUTH,0000,0000,0000,,Moriré sin cumplir mi objetivo.
+Dialogue: 0,0:07:20.13,0:07:22.21,Gen_Main,HERO OF THE SOUTH,0000,0000,0000,,No lo sientas por mí.
+Dialogue: 0,0:07:22.67,0:07:29.22,Gen_Main,HERO OF THE SOUTH,0000,0000,0000,,Aunque me acompañases tú,\Nmoriría igualmente.
+Dialogue: 0,0:07:30.91,0:07:36.17,Gen_Main,HERO OF THE SOUTH,0000,0000,0000,,Pronto vendrá a visitarte\Nun joven héroe.
+Dialogue: 0,0:07:38.23,0:07:43.93,Gen_Main,HERO OF THE SOUTH,0000,0000,0000,,Me da rabia admitirlo,\Npero él sí que salvará el mundo.
+Dialogue: 0,0:07:45.59,0:07:50.81,Gen_Main,HERO OF THE SOUTH,0000,0000,0000,,Viajarás con el grupo de ese joven\Ny venceréis al Rey Demonio.
+Dialogue: 0,0:07:51.62,0:07:53.75,Gen_Main,FRIEREN,0000,0000,0000,,Mira que lo dudo.
+Dialogue: 0,0:07:54.70,0:07:56.20,Gen_Main,HERO OF THE SOUTH,0000,0000,0000,,Lo comprenderás al verlo.
+Dialogue: 0,0:07:57.37,0:08:00.03,Gen_Main,HERO OF THE SOUTH,0000,0000,0000,,Él cambiará tu vida.
+Dialogue: 0,0:08:04.17,0:08:07.48,Gen_Main,HERO OF THE SOUTH,0000,0000,0000,,Bueno, me marcho ya.
+Dialogue: 0,0:08:11.89,0:08:15.58,Gen_Main,HERO OF THE SOUTH,0000,0000,0000,,¿Puedo pedirte una cosa?
+Dialogue: 0,0:08:15.76,0:08:16.77,Gen_Main,FRIEREN,0000,0000,0000,,Dime.
+Dialogue: 0,0:08:18.85,0:08:21.93,Gen_Main,HERO OF THE SOUTH,0000,0000,0000,,Cuando veas a ese joven,\Ndile lo siguiente:
+Dialogue: 0,0:08:38.41,0:08:40.04,Gen_Main,HERO OF THE SOUTH,0000,0000,0000,,"Te juro…
+Dialogue: 0,0:08:43.79,0:08:46.45,Gen_Main,HERO OF THE SOUTH,0000,0000,0000,,que te abriré el camino.
+Dialogue: 0,0:08:53.72,0:08:57.42,Gen_Main,HERO OF THE SOUTH,0000,0000,0000,,Aunque las hazañas del héroe\Nmás fuerte de la humanidad,
+Dialogue: 0,0:09:00.81,0:09:05.66,Gen_Main,HERO OF THE SOUTH,0000,0000,0000,,el Héroe del Sur, queden enterradas\Nen las sombras de la historia".
+Dialogue: 0,0:09:10.61,0:09:12.14,Gen_Main,CHILDREN,0000,0000,0000,,¡Espera!
+Dialogue: 0,0:09:12.24,0:09:13.52,Gen_Main,CHILDREN,0000,0000,0000,,¡No huyas!
+Dialogue: 0,0:09:19.45,0:09:21.69,Gen_Italics,FRIEREN/ID,0000,0000,0000,,¿Este qué iba a ver el futuro?
+Dialogue: 0,0:09:23.58,0:09:26.09,Gen_Italics,FRIEREN/ID,0000,0000,0000,,La gente de aquí te recuerda.
+Dialogue: 0,0:09:26.75,0:09:29.15,Gen_Italics,FRIEREN/ID,0000,0000,0000,,La historia no ha olvidado.
+Dialogue: 0,0:09:31.00,0:09:35.01,Cart_A_Tim,CARTEL,0000,0000,0000,,{\an9\fs16\bord0\pos(588.667,132.667)}29 años después\Nde la muerte del héroe Himmel,\Nen el feudo del conde Dach,\Nen las tierras del norte
+Dialogue: 0,0:09:36.22,0:09:38.85,Gen_Main,STARK,0000,0000,0000,,Hacía tiempo que no visitábamos\Nuna ciudad grande.
+Dialogue: 0,0:09:39.31,0:09:41.50,Gen_Main,FRIEREN,0000,0000,0000,,Nos iremos en cuanto nos reabastezcamos.
+Dialogue: 0,0:09:42.14,0:09:45.72,Gen_Main,STARK,0000,0000,0000,,¿En serio?\N¿No vamos a tomárnoslo con calma?
+Dialogue: 0,0:09:49.23,0:09:51.12,Gen_Main,STARK,0000,0000,0000,,Mira, tienen tiendas de magia.
+Dialogue: 0,0:09:51.74,0:09:55.60,Gen_Main,FRIEREN,0000,0000,0000,,Stark, ¿no lo sabías?\NEl tiempo es limitado.
+Dialogue: 0,0:09:55.65,0:09:56.66,Gen_Main,STARK,0000,0000,0000,,Sí, lo sé.
+Dialogue: 0,0:10:20.68,0:10:22.26,Gen_Main,FRIEREN,0000,0000,0000,,Pues ya estaría todo.
+Dialogue: 0,0:10:22.89,0:10:27.14,Gen_Main,STARK,0000,0000,0000,,Oye, ¿no podemos al menos picar algo?
+Dialogue: 0,0:10:27.61,0:10:30.39,Gen_Main,FRIEREN,0000,0000,0000,,Stark, sabes muy bien
+Dialogue: 0,0:10:30.86,0:10:34.78,Gen_Main,FRIEREN,0000,0000,0000,,que nuestro presupuesto\Nno nos da para eso.
+Dialogue: 0,0:10:35.05,0:10:36.83,Gen_Main,STARK,0000,0000,0000,,Ya, pero…
+Dialogue: 0,0:10:36.91,0:10:38.23,Gen_Main,FRIEREN,0000,0000,0000,,Démonos prisa.
+Dialogue: 0,0:10:39.62,0:10:41.98,Gen_Main,FERN,0000,0000,0000,,Lleva un buen rato de lo más rara.
+Dialogue: 0,0:10:44.04,0:10:49.61,Gen_Main,STARK,0000,0000,0000,,Normalmente, piensa en quedarse\Nunos meses en una ciudad grande.
+Dialogue: 0,0:10:51.63,0:10:53.15,Gen_Main,FRIEREN,0000,0000,0000,,Hemos tardado demasiado.
+Dialogue: 0,0:10:54.72,0:10:56.75,Gen_Main,SERVANT,0000,0000,0000,,Usted debe de ser la señorita Frieren.
+Dialogue: 0,0:10:57.43,0:11:01.22,Gen_Main,SERVANT,0000,0000,0000,,Mi señor quiere invitarla a cenar.
+Dialogue: 0,0:11:01.93,0:11:04.64,Gen_Main,FRIEREN,0000,0000,0000,,Lo siento, pero tenemos prisa.
+Dialogue: 0,0:11:06.52,0:11:12.29,Gen_Main,SERVANT,0000,0000,0000,,Es miembro del grupo de héroes\Nque salvaron esta tierra.
+Dialogue: 0,0:11:13.40,0:11:15.82,Gen_Main,SERVANT,0000,0000,0000,,Mi señor desea darle las gracias.
+Dialogue: 0,0:11:29.25,0:11:30.93,Gen_Main,STARK,0000,0000,0000,,Qué bueno está.
+Dialogue: 0,0:11:32.25,0:11:35.92,Gen_Main,FRIEREN,0000,0000,0000,,Gracias por la invitación, conde Dach.
+Dialogue: 0,0:11:36.59,0:11:39.29,Gen_Italics,FERN/ID,0000,0000,0000,,Parece muy incómoda.
+Dialogue: 0,0:11:39.54,0:11:44.18,Gen_Main,DACH,0000,0000,0000,,Señorita Frieren,\Ngracias por ayudar a mi bisabuelo.
+Dialogue: 0,0:11:45.48,0:11:46.69,Gen_Main,FRIEREN,0000,0000,0000,,¿Qué quieres?
+Dialogue: 0,0:11:47.85,0:11:50.21,Gen_Main,DACH,0000,0000,0000,,Directa al grano. Se lo agradezco.
+Dialogue: 0,0:11:50.56,0:11:55.75,Gen_Main,DACH,0000,0000,0000,,Un demonio robó un valioso\Nrecuerdo familiar, una espada.
+Dialogue: 0,0:11:56.19,0:11:58.13,Gen_Main,FRIEREN,0000,0000,0000,,¿La han robado otra vez?
+Dialogue: 0,0:11:58.82,0:11:59.92,Gen_Main,STARK,0000,0000,0000,,¿"Otra vez"?
+Dialogue: 0,0:12:01.03,0:12:03.53,Gen_Main,FRIEREN,0000,0000,0000,,También se la robaron a su bisabuelo.
+Dialogue: 0,0:12:04.49,0:12:06.06,Gen_Main,STARK,0000,0000,0000,,¿Por qué sigue pasando eso?
+Dialogue: 0,0:12:07.75,0:12:09.10,Gen_Main,FRIEREN,0000,0000,0000,,Muy bien.
+Dialogue: 0,0:12:10.63,0:12:12.53,Gen_Main,FRIEREN,0000,0000,0000,,Quiero un grimorio como pago.
+Dialogue: 0,0:12:16.26,0:12:17.91,Gen_Main,DACH,0000,0000,0000,,Cuento con usted.
+Dialogue: 0,0:12:20.68,0:12:22.02,Gen_Main,FRIEREN,0000,0000,0000,,Habrase visto…
+Dialogue: 0,0:12:22.38,0:12:26.23,Gen_Main,FRIEREN,0000,0000,0000,,Muchos nobles de las tierras del norte\Nson insistentes,
+Dialogue: 0,0:12:26.93,0:12:31.15,Gen_Main,FRIEREN,0000,0000,0000,,pero esta familia en concreto\Nhace peticiones desmedidas.
+Dialogue: 0,0:12:33.40,0:12:36.42,Gen_Main,GREAT-GRANDFATHER DACH,0000,0000,0000,,Si no recuperáis mi espada,\Nos encerraré en el calabozo.
+Dialogue: 0,0:12:37.65,0:12:39.36,Gen_Main,EISEN,0000,0000,0000,,Qué tirano.
+Dialogue: 0,0:12:40.66,0:12:44.86,Gen_Main,FRIEREN,0000,0000,0000,,Al menos esta vez saben\Npor dónde huyó el demonio.
+Dialogue: 0,0:12:44.99,0:12:46.87,Gen_Main,FRIEREN,0000,0000,0000,,Es mejor de lo normal.
+Dialogue: 0,0:12:49.37,0:12:53.37,Gen_Main,FRIEREN,0000,0000,0000,,La última vez fue muy complicado\Nporque no teníamos pistas.
+Dialogue: 0,0:12:55.17,0:13:00.43,Gen_Main,FRIEREN,0000,0000,0000,,Al final encontramos la espada\Nen la cima del pico de Schwer.
+Dialogue: 0,0:13:02.09,0:13:03.76,Gen_Main,STARK,0000,0000,0000,,Qué barbaridad.
+Dialogue: 0,0:13:04.22,0:13:07.91,Gen_Main,FERN,0000,0000,0000,,¿Por qué robaría un demonio esa espada?
+Dialogue: 0,0:13:09.35,0:13:14.48,Gen_Main,FRIEREN,0000,0000,0000,,La espada de la familia Dach en su día\Nle pertenecía a un demonio famoso.
+Dialogue: 0,0:13:15.44,0:13:18.66,Gen_Main,FRIEREN,0000,0000,0000,,Debe de tener algún encanto\Nque solo comprenden los demonios.
+Dialogue: 0,0:13:20.20,0:13:22.85,Gen_Main,FERN,0000,0000,0000,,Aun así, me sorprende que haya accedido.
+Dialogue: 0,0:13:23.49,0:13:25.23,Gen_Main,FERN,0000,0000,0000,,Supuse que se negaría.
+Dialogue: 0,0:13:27.33,0:13:28.73,Gen_Main,FRIEREN,0000,0000,0000,,No me ha quedado otra.
+Dialogue: 0,0:13:29.37,0:13:32.65,Gen_Main,FRIEREN,0000,0000,0000,,Himmel trajo de vuelta aquella espada.
+Dialogue: 0,0:13:33.79,0:13:37.51,Gen_Main,FRIEREN,0000,0000,0000,,De haberme negado,\Nsu esfuerzo habría sido en vano.
+Dialogue: 0,0:13:38.71,0:13:42.27,Gen_Main,FRIEREN,0000,0000,0000,,Además, Himmel no ignoraría su petición.
+Dialogue: 0,0:14:31.52,0:14:32.64,Gen_Main,FERN,0000,0000,0000,,Este pueblo…
+Dialogue: 0,0:14:33.56,0:14:35.35,Gen_Main,FERN,0000,0000,0000,,está en ruinas.
+Dialogue: 0,0:14:38.23,0:14:39.77,Gen_Main,STARK,0000,0000,0000,,Aquí no hay nadie.
+Dialogue: 0,0:14:44.65,0:14:47.29,Gen_Main,FRIEREN,0000,0000,0000,,No, hay una persona.
+Dialogue: 0,0:14:57.79,0:14:59.21,Gen_Main,FRIEREN,0000,0000,0000,,¿Eres de este pueblo?
+Dialogue: 0,0:14:59.67,0:15:02.86,Gen_Main,PRIEST,0000,0000,0000,,No, soy una monja viajera.
+Dialogue: 0,0:15:02.92,0:15:04.23,Gen_Main,PRIEST,0000,0000,0000,,¿Quiénes sois?
+Dialogue: 0,0:15:04.97,0:15:06.72,Gen_Main,STARK,0000,0000,0000,,Unos aventureros que están de paso.
+Dialogue: 0,0:15:10.60,0:15:14.61,Gen_Main,PRIEST,0000,0000,0000,,El demonio de la espada\Nha destruido este pueblo.
+Dialogue: 0,0:15:16.56,0:15:19.56,Gen_Main,PRIEST,0000,0000,0000,,Estaba llorando\Nla muerte de los habitantes.
+Dialogue: 0,0:15:21.07,0:15:22.71,Gen_Main,FERN,0000,0000,0000,,El demonio de la espada…
+Dialogue: 0,0:15:23.86,0:15:26.66,Gen_Main,FRIEREN,0000,0000,0000,,Seguramente,\Nel demonio que estamos buscando.
+Dialogue: 0,0:15:27.70,0:15:31.23,Gen_Main,PRIEST,0000,0000,0000,,El demonio de la espada ha matado\Na innumerables habitantes.
+Dialogue: 0,0:15:32.20,0:15:35.05,Gen_Main,PRIEST,0000,0000,0000,,No ha habido supervivientes.
+Dialogue: 0,0:15:36.21,0:15:37.27,Gen_Main,FERN,0000,0000,0000,,Es terrible.
+Dialogue: 0,0:15:38.33,0:15:40.25,Gen_Main,PRIEST,0000,0000,0000,,Aventureros,
+Dialogue: 0,0:15:41.71,0:15:44.07,Gen_Main,PRIEST,0000,0000,0000,,¿queréis ofrecer una oración?
+Dialogue: 0,0:15:52.43,0:15:53.59,Gen_Main,FERN,0000,0000,0000,,¿Señorita Frieren?
+Dialogue: 0,0:15:54.68,0:15:57.58,Gen_Main,FRIEREN,0000,0000,0000,,Lo sabía. No hay cuerpos enterrados.
+Dialogue: 0,0:15:58.14,0:15:59.19,Gen_Main,FERN,0000,0000,0000,,Pero ¿por qué?
+Dialogue: 0,0:16:00.69,0:16:03.22,Gen_Main,FRIEREN,0000,0000,0000,,Porque esa monja es el demonio.
+Dialogue: 0,0:16:03.90,0:16:06.23,Gen_Main,FRIEREN,0000,0000,0000,,No queda ni un solo cadáver, ¿verdad?
+Dialogue: 0,0:16:07.40,0:16:09.81,Gen_Main,SWORD DEMON,0000,0000,0000,,Los maté para poder comérmelos.
+Dialogue: 0,0:16:11.66,0:16:15.22,Gen_Main,SWORD DEMON,0000,0000,0000,,Lo hice para sobrevivir.
+Dialogue: 0,0:16:17.83,0:16:20.44,Gen_Main,FRIEREN,0000,0000,0000,,¿Pese a que puedes comer\Nalgo que no sean humanos?
+Dialogue: 0,0:16:22.04,0:16:25.95,Gen_Main,SWORD DEMON,0000,0000,0000,,¿Y eso es razón\Npara no comerme a los humanos?
+Dialogue: 0,0:16:27.22,0:16:29.40,Gen_Main,FRIEREN,0000,0000,0000,,Hablar va a ser perder el tiempo.
+Dialogue: 0,0:16:33.60,0:16:34.60,Gen_Main,FRIEREN,0000,0000,0000,,Vamos a vencerla.
+Dialogue: 0,0:16:49.06,0:16:50.11,Gen_Italics,FERN/ID,0000,0000,0000,,Es rápida.
+Dialogue: 0,0:17:00.71,0:17:01.87,Gen_Main,FERN,0000,0000,0000,,Señor Stark.
+Dialogue: 0,0:17:02.38,0:17:04.79,Gen_Main,STARK,0000,0000,0000,,Para eso estamos los de la vanguardia.
+Dialogue: 0,0:17:27.94,0:17:29.64,Gen_Main,FRIEREN,0000,0000,0000,,Qué frío hace.
+Dialogue: 0,0:17:29.74,0:17:31.74,Gen_Main,FRIEREN,0000,0000,0000,,Qué encargo tan horrible.
+Dialogue: 0,0:17:31.95,0:17:34.62,Gen_Main,HIMMEL,0000,0000,0000,,Pero hemos vencido a un demonio.
+Dialogue: 0,0:17:42.35,0:17:47.51,Gen_Main,HIMMEL,0000,0000,0000,,A veces, los trabajos duros como este\Nacaban ayudando a mucha gente.
+Dialogue: 0,0:17:50.92,0:17:55.01,Gen_Main,HIMMEL,0000,0000,0000,,Por eso nunca abandono\Na alguien que necesite ayuda.
+Dialogue: 0,0:17:59.02,0:18:01.96,Gen_Main,HEITER,0000,0000,0000,,Te encanta aceptar encargos complicados.
+Dialogue: 0,0:18:02.35,0:18:04.55,Gen_Main,HIMMEL,0000,0000,0000,,Me emociono cuando son complicados.
+Dialogue: 0,0:18:05.23,0:18:07.00,Gen_Main,FRIEREN,0000,0000,0000,,Vaya, lo decías en serio.
+Dialogue: 0,0:18:11.69,0:18:13.54,Gen_Main,FRIEREN,0000,0000,0000,,Buen trabajo, chicos.
+Dialogue: 0,0:18:20.83,0:18:26.05,Gen_Main,FERN,0000,0000,0000,,¿Por qué recurrió\Na un método tan violento?
+Dialogue: 0,0:18:27.00,0:18:29.46,Gen_Main,FRIEREN,0000,0000,0000,,Porque te ibas a poner a rezar.
+Dialogue: 0,0:18:30.80,0:18:33.08,Gen_Main,FRIEREN,0000,0000,0000,,Era lo único que podía hacer\Nen ese momento.
+Dialogue: 0,0:18:41.02,0:18:44.59,Gen_Main,FRIEREN,0000,0000,0000,,La gente cierra los ojos al rezar.
+Dialogue: 0,0:18:45.73,0:18:50.74,Gen_Main,FRIEREN,0000,0000,0000,,Ese demonio debía de estar esperando\Nese momento para matar a los viajeros.
+Dialogue: 0,0:19:06.21,0:19:11.87,Gen_Main,DACH,0000,0000,0000,,Gracias por devolverme\Nmi querida espada, señorita Frieren.
+Dialogue: 0,0:19:13.30,0:19:15.88,Gen_Main,DACH,0000,0000,0000,,Ahora esta ciudad\Nvuelve a estar a salvo.
+Dialogue: 0,0:19:21.72,0:19:24.72,Gen_Main,FRIEREN,0000,0000,0000,,Quiero ir de compras.\N¿Puedes dejarnos en el mercado?
+Dialogue: 0,0:19:24.94,0:19:26.25,Gen_Main,SERVANT,0000,0000,0000,,Muy bien.
+Dialogue: 0,0:19:31.32,0:19:35.31,Gen_Main,FERN,0000,0000,0000,,El conde estaba muy contento.
+Dialogue: 0,0:19:35.40,0:19:37.71,Gen_Main,STARK,0000,0000,0000,,Solo espero\Nque no se la vuelvan a robar.
+Dialogue: 0,0:19:38.70,0:19:41.28,Gen_Main,FERN,0000,0000,0000,,Si tan interesante\Nles resulta a los demonios,
+Dialogue: 0,0:19:41.63,0:19:43.69,Gen_Main,FERN,0000,0000,0000,,seguramente volverán a intentarlo.
+Dialogue: 0,0:19:43.79,0:19:44.86,Gen_Main,FRIEREN,0000,0000,0000,,Estoy segura.
+Dialogue: 0,0:19:45.41,0:19:50.03,Gen_Main,FRIEREN,0000,0000,0000,,Es la segunda vez que la roban, pero ya\Nlos habían atacado en varias ocasiones.
+Dialogue: 0,0:19:51.34,0:19:55.56,Gen_Main,STARK,0000,0000,0000,,¿Los demonios seguirán intentándolo\Nmientras tengan esa espada?
+Dialogue: 0,0:19:56.13,0:20:00.55,Gen_Main,STARK,0000,0000,0000,,Ya sé que es valiosa, pero ¿no deberían\Ndeshacerse de algo tan peligroso?
+Dialogue: 0,0:20:01.10,0:20:03.26,Gen_Main,FRIEREN,0000,0000,0000,,No es tan sencillo.
+Dialogue: 0,0:20:04.72,0:20:06.39,Gen_Main,STARK,0000,0000,0000,,Imagino que no.
+Dialogue: 0,0:20:06.77,0:20:11.27,Gen_Main,STARK,0000,0000,0000,,Los nobles pueden ser muy tercos\Na la hora de dejar marchar tesoros así.
+Dialogue: 0,0:20:12.22,0:20:18.52,Gen_Main,FRIEREN,0000,0000,0000,,Sí, eso también, pero dejar que caiga\Nen manos de un demonio sería peor.
+Dialogue: 0,0:20:20.45,0:20:24.52,Gen_Main,FRIEREN,0000,0000,0000,,Los demonios no pueden resistirse\Na hacer gala del poder que han obtenido.
+Dialogue: 0,0:20:29.87,0:20:31.86,Gen_Main,FERN,0000,0000,0000,,¿Está en su naturaleza?
+Dialogue: 0,0:20:32.63,0:20:36.59,Gen_Main,FRIEREN,0000,0000,0000,,Un demonio hizo una matanza\Nla última vez que fue robada.
+Dialogue: 0,0:20:37.97,0:20:41.80,Gen_Main,FRIEREN,0000,0000,0000,,Destruyó una ciudad y tres pueblos.
+Dialogue: 0,0:20:42.35,0:20:43.60,Gen_Main,STARK,0000,0000,0000,,¿En serio?
+Dialogue: 0,0:20:44.81,0:20:48.93,Gen_Main,FRIEREN,0000,0000,0000,,Y no solo eso:\Ndicen que el demonio engatusó
+Dialogue: 0,0:20:49.18,0:20:53.27,Gen_Main,FRIEREN,0000,0000,0000,,a uno de los sirvientes del conde\Npara que lo ayudara.
+Dialogue: 0,0:21:00.49,0:21:01.79,Gen_Main,FRIEREN,0000,0000,0000,,Pero, desde entonces,
+Dialogue: 0,0:21:02.02,0:21:06.99,Gen_Main,FRIEREN,0000,0000,0000,,la familia del conde Dach\Nha priorizado proteger la espada.
+Dialogue: 0,0:21:09.62,0:21:12.01,Gen_Main,FRIEREN,0000,0000,0000,,Tal vez ahora sea\Nla misión de la ciudad entera,
+Dialogue: 0,0:21:13.13,0:21:14.80,Gen_Main_Up,BOY,0000,0000,0000,,¿Yo también me haré fuerte?
+Dialogue: 0,0:21:13.13,0:21:15.94,Gen_Main,FRIEREN,0000,0000,0000,,no solo de su familia.
+Dialogue: 0,0:21:14.88,0:21:15.89,Gen_Main_Up,SOLDIER,0000,0000,0000,,Claro que sí.
+Dialogue: 0,0:21:19.55,0:21:23.53,Gen_Main,STARK,0000,0000,0000,,¿Esta vez el demonio\Ntambién tuvo ayuda para robarla?
+Dialogue: 0,0:21:24.01,0:21:25.18,Gen_Main,FRIEREN,0000,0000,0000,,No estoy segura.
+Dialogue: 0,0:21:25.41,0:21:28.93,Gen_Main,FRIEREN,0000,0000,0000,,Pero mientras los humanos\Ntengan codicia,
+Dialogue: 0,0:21:29.28,0:21:32.01,Gen_Main,FRIEREN,0000,0000,0000,,los demonios se aprovecharán de eso.
+Dialogue: 0,0:21:34.69,0:21:39.40,Gen_Main,FRIEREN,0000,0000,0000,,Los humanos tampoco\Npueden resistir sus impulsos.
+Dialogue: 0,0:21:42.57,0:21:46.81,Gen_Main,FERN,0000,0000,0000,,Si eso pasa, espero que usted\Nvuelva a ayudarlos.
+Dialogue: 0,0:21:47.54,0:21:49.40,Gen_Main,FRIEREN,0000,0000,0000,,Dependerá de la recompensa.
+Dialogue: 0,0:21:50.96,0:21:54.32,Gen_Main,STARK,0000,0000,0000,,Lo harías por un grimorio, ¿a que sí?
+Dialogue: 0,0:21:54.57,0:21:55.64,Gen_Main,FRIEREN,0000,0000,0000,,Tal vez.
+Dialogue: 0,0:21:56.63,0:22:00.03,Gen_Main,FRIEREN,0000,0000,0000,,Esta vez me han dado uno bueno.
+Dialogue: 0,0:22:02.38,0:22:04.85,Gen_Main,FERN,0000,0000,0000,,Me alegro, señorita Frieren.
+Dialogue: 0,0:22:05.30,0:22:06.85,Gen_Main,STARK,0000,0000,0000,,¿Qué tipo de hechizo es?
+Dialogue: 0,0:22:09.56,0:22:13.09,Gen_Main,FRIEREN,0000,0000,0000,,Un hechizo que convierte\Nuna manzana roja en una verde.
+Dialogue: 0,0:22:14.19,0:22:15.59,Gen_Main,STARK,0000,0000,0000,,Qué cosa más inútil.
+Dialogue: 0,0:23:47.53,0:23:50.03,Cart_A_Tre,CARTEL,0000,0000,0000,,{\c&H5A5A5F&\fad(499,0)\3c&HFFFFFF&\be2\fs16}Traducción: Abraham Gayuvas y Nicolás Sepúlveda\NEdición: Álvaro Jimeno\NControl de calidad: Gekokujou
+Dialogue: 0,0:23:50.16,0:23:52.13,Gen_Main,OWNER; STARK,0000,0000,0000,,-Qué recuerdos.\N-Me gustaría visitarlo.
+Dialogue: 0,0:23:51.70,0:23:55.46,Gen_Main_Up,FRIEREN; FERN,0000,0000,0000,,-Acabas de llamarme abuela.\N-Qué desconsiderado es, señor Stark.
+Dialogue: 0,0:23:52.95,0:23:57.18,Gen_Main,OLD WOMAN; EISEN,0000,0000,0000,,-Pues sí que te gustan las termas.\N-Fue una aventura de lo más ridícula.
+Dialogue: 0,0:23:55.83,0:23:58.81,Gen_Main_Up,HEITER; HIMMEL,0000,0000,0000,,-¡Dijiste que sería rápido!\N-Os digo que aquí hay algo.
+Dialogue: 0,0:23:57.58,0:23:59.98,Cart_A_Tim,CARTEL,0000,0000,0000,,{\fsp1\b0\fad(500,0)\pos(320,80)\bord0\c&H201B1C&\blur5\t(0,271,\blur0)\t(312,1188,\c&HFFFFFF&)\t(\fsp0)}Episodio 31\N{\fs30}Un sitio que le gustaría
+Dialogue: 0,0:23:58.73,0:23:59.98,Gen_Main,FRIEREN,0000,0000,0000,,Un sitio que le gustaría.

@@ -1,0 +1,250 @@
+﻿[Script Info]
+Title: [Erai-raws] Espanol (America Latina)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_A_Tim,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:23.45,0:00:26.89,Gen_Main,CAPTAIN,0,0,0,,¿Está seguro\Nde que hasta aquí está bien?
+Dialogue: 0,0:00:26.97,0:00:31.17,Gen_Main,DENKEN,0,0,0,,Descuida.\NPuedo hacer el resto del viaje solo.
+Dialogue: 0,0:00:31.90,0:00:36.38,Gen_Main,DENKEN,0,0,0,,Además, solo se puede\Nllegar a mi destino a pie.
+Dialogue: 0,0:00:37.17,0:00:39.82,Gen_Main,CAPTAIN,0,0,0,,Comprendo. Cuídese.
+Dialogue: 0,0:01:26.27,0:01:33.32,Cart_A_Tim,CARTEL,0,0,0,,{\c&HE6B78D&\fad(1779,500)\blur1\bord.1\fs26\fsp2.3\t(3000,6000,\c&HFCFBFD&)\pos(320,258.667)\3c&H000000&\3a&H89&}Más allá del final del viaje
+Dialogue: 0,0:02:31.01,0:02:35.01,Cart_A_Tim,CARTEL,0,0,0,,{\an9\fs16\bord0\shad.1\pos(588.667,142.667)}30 años después\Nde la muerte del héroe Himmel\NRegión de Drachen\NAltiplanicie norte
+Dialogue: 0,0:02:48.86,0:02:50.49,Gen_Main,STARK,0,0,0,,Qué terrible.
+Dialogue: 0,0:02:51.15,0:02:54.49,Gen_Main,MAYOR,0,0,0,,Unos dragones atacaron la aldea.
+Dialogue: 0,0:02:54.57,0:02:57.25,Gen_Main,STARK,0,0,0,,¿Hay dragones en la altiplanicie norte?
+Dialogue: 0,0:02:57.33,0:02:59.49,Gen_Main,FERN,0,0,0,,Es un sitio peligroso.
+Dialogue: 0,0:03:00.09,0:03:01.81,Gen_Main,FRIEREN,0,0,0,,Y antes era peor.
+Dialogue: 0,0:03:02.73,0:03:06.91,Gen_Main,FRIEREN,0,0,0,,Cuando viajé con Himmel,\Nnos atacó una horda de dragones.
+Dialogue: 0,0:03:08.18,0:03:10.69,Gen_Main,STARK,0,0,0,,No quiero ni imaginarme un grupo entero.
+Dialogue: 0,0:03:10.77,0:03:11.99,Gen_Main,FERN,0,0,0,,Qué horror.
+Dialogue: 0,0:03:12.33,0:03:17.38,Gen_Main,MAYOR,0,0,0,,Disculpen, ¿acaso no es lo normal\Nque los dragones viajen en hordas?
+Dialogue: 0,0:03:17.93,0:03:20.34,Gen_Main,FERN,0,0,0,,¿Esto fue obra de una horda?
+Dialogue: 0,0:03:20.42,0:03:24.23,Gen_Main,MAYOR,0,0,0,,Sí. Una se asentó por aquí cerca.
+Dialogue: 0,0:03:24.31,0:03:26.77,Gen_Main,MAYOR,0,0,0,,Me gustaría que acabaran con ella.
+Dialogue: 0,0:03:27.13,0:03:29.59,Gen_Main,STARK,0,0,0,,Lo normal aquí es aterrador.
+Dialogue: 0,0:03:29.67,0:03:31.07,Gen_Main,FERN,0,0,0,,Es una locura.
+Dialogue: 0,0:03:50.00,0:03:52.32,Gen_Main,FRIEREN,0,0,0,,La aldea no tiene futuro.
+Dialogue: 0,0:03:53.09,0:03:54.71,Gen_Main,FRIEREN,0,0,0,,Deberían mudarse.
+Dialogue: 0,0:03:56.51,0:04:01.71,Gen_Main,MAYOR,0,0,0,,Pero no deja de ser nuestro hogar.
+Dialogue: 0,0:04:02.14,0:04:03.71,Gen_Main,VILLAGER 1/VILLAGER 2,0,0,0,,-Con cuidado.\N-¿Estás bien?
+Dialogue: 0,0:04:04.28,0:04:05.58,Gen_Main,VILLAGER 3,0,0,0,,Ahora lo llevo.
+Dialogue: 0,0:04:07.99,0:04:10.24,Gen_Main,FERN,0,0,0,,Tiene razón, señorita Frieren.
+Dialogue: 0,0:04:11.12,0:04:13.07,Gen_Main,FERN,0,0,0,,Mida sus palabras.
+Dialogue: 0,0:04:13.15,0:04:15.39,Gen_Main,STARK,0,0,0,,¿No te sientes mal por los aldeanos?
+Dialogue: 0,0:04:15.84,0:04:19.55,Gen_Main,FRIEREN,0,0,0,,¿Sabes lo que es pelear\Ncontra una horda de dragones?
+Dialogue: 0,0:04:19.63,0:04:21.52,Gen_Main,FRIEREN,0,0,0,,No saldremos ilesos.
+Dialogue: 0,0:04:22.13,0:04:25.11,Gen_Main,STARK,0,0,0,,Debemos proteger su hogar.
+Dialogue: 0,0:04:26.48,0:04:28.37,Gen_Main,FRIEREN,0,0,0,,Dependerá del pago.
+Dialogue: 0,0:04:28.88,0:04:34.08,Gen_Main,MAYOR,0,0,0,,Nuestra aldea es muy pobre.\NNo tenemos con qué pagarles.
+Dialogue: 0,0:04:34.16,0:04:35.81,Gen_Main,FRIEREN,0,0,0,,¿No tienen grimorios?
+Dialogue: 0,0:04:36.33,0:04:40.63,Gen_Main,MAYOR,0,0,0,,Solo uno que contiene\Nun hechizo de lo más inútil:
+Dialogue: 0,0:04:40.71,0:04:43.97,Gen_Main,MAYOR,0,0,0,,decir trabalenguas\Nsin que se te trabe la lengua.
+Dialogue: 0,0:04:44.05,0:04:47.65,Gen_Main,FERN,0,0,0,,Pues sí que suena inútil.
+Dialogue: 0,0:04:52.92,0:04:55.57,Gen_Main,STARK,0,0,0,,Le da igual\Nmientras sea un hechizo, ¿eh?
+Dialogue: 0,0:04:55.65,0:04:58.06,Gen_Main,FRIEREN,0,0,0,,¿De dónde vinieron los dragones?
+Dialogue: 0,0:04:58.76,0:05:01.65,Gen_Main,MAYOR,0,0,0,,Salieron de ese bosque.
+Dialogue: 0,0:05:03.17,0:05:05.61,Gen_Main,FRIEREN,0,0,0,,Si busco rastros de poder mágico,
+Dialogue: 0,0:05:06.23,0:05:07.64,Gen_Main,FRIEREN,0,0,0,,tal vez los encuentre.
+Dialogue: 0,0:05:32.20,0:05:34.16,Gen_Main,FRIEREN,0,0,0,,Debería ser más adelante.
+Dialogue: 0,0:05:34.88,0:05:39.59,Gen_Main,STARK,0,0,0,,Llevo un tiempo pensándolo,\Npero la magia es algo increíble.
+Dialogue: 0,0:05:39.67,0:05:41.89,Gen_Main,STARK,0,0,0,,Ayuda mucho en momentos como este.
+Dialogue: 0,0:05:42.31,0:05:44.65,Gen_Main,FRIEREN,0,0,0,,Puedes seguir elogiándome.
+Dialogue: 0,0:05:44.73,0:05:50.03,Gen_Main,FERN,0,0,0,,Señor Stark, por favor, procure\Nno halagarla tanto. La va a malcriar.
+Dialogue: 0,0:05:50.49,0:05:52.37,Gen_Main,STARK,0,0,0,,Sí, tienes razón.
+Dialogue: 0,0:05:52.62,0:05:55.73,Gen_Main,FRIEREN,0,0,0,,¿Qué imagen tienen de mí?
+Dialogue: 0,0:05:57.06,0:06:00.32,Gen_Main,FRIEREN,0,0,0,,En fin, ya sé por dónde deberían estar.\NVamos.
+Dialogue: 0,0:06:35.49,0:06:36.79,Gen_Main,FRIEREN,0,0,0,,Llegamos.
+Dialogue: 0,0:06:36.87,0:06:38.63,Gen_Main,STARK,0,0,0,,Son muchos.
+Dialogue: 0,0:06:38.71,0:06:40.62,Gen_Main,FRIEREN,0,0,0,,Pero son pequeños.
+Dialogue: 0,0:06:40.70,0:06:43.62,Gen_Main,FRIEREN,0,0,0,,No son tan fuertes como el dragón solar.
+Dialogue: 0,0:06:44.40,0:06:48.64,Gen_Main,FRIEREN,0,0,0,,Aun así, son bastante listos.\NNo dejen que los rodeen.
+Dialogue: 0,0:06:49.33,0:06:52.85,Gen_Main,FRIEREN,0,0,0,,Atraigámoslos a un solo lugar\Ny acabemos con todos de una vez.
+Dialogue: 0,0:06:52.93,0:06:55.83,Gen_Main,FRIEREN,0,0,0,,Stark, mantenlos ocupados.
+Dialogue: 0,0:06:56.30,0:06:58.60,Gen_Main,FRIEREN,0,0,0,,Los dragones son tu especialidad, ¿no?
+Dialogue: 0,0:06:59.04,0:07:02.42,Gen_Main,STARK,0,0,0,,¿Otra vez? Tú siempre tan exigente.
+Dialogue: 0,0:07:07.24,0:07:08.56,Gen_Main,FRIEREN,0,0,0,,¿Empezamos?
+Dialogue: 0,0:07:08.64,0:07:10.81,Gen_Main,STARK,0,0,0,,¡Más te vale atacarlos esta vez!
+Dialogue: 0,0:07:14.65,0:07:17.46,Gen_Main,FRIEREN,0,0,0,,Lo haré si no los matas tú primero.
+Dialogue: 0,0:08:26.38,0:08:28.81,Gen_Main,STARK,0,0,0,,Qué batalla tan intensa.
+Dialogue: 0,0:08:29.45,0:08:32.24,Gen_Main,FRIEREN,0,0,0,,Por suerte la aldea tenía una iglesia.
+Dialogue: 0,0:08:32.32,0:08:36.57,Gen_Main,FERN,0,0,0,,Le mordieron la cabeza mientras peleaba.
+Dialogue: 0,0:08:38.92,0:08:40.67,Gen_Main,FERN,0,0,0,,¿Cómo no murió?
+Dialogue: 0,0:08:44.90,0:08:46.21,Gen_Main,STARK,0,0,0,,No lo sé.
+Dialogue: 0,0:08:46.72,0:08:49.26,Gen_Main,FRIEREN,0,0,0,,Supongo que es normal entre guerreros.
+Dialogue: 0,0:08:49.34,0:08:52.12,Gen_Main,FRIEREN,0,0,0,,A Eisen también le mordieron la cabeza\Ny estuvo bien.
+Dialogue: 0,0:08:52.20,0:08:55.79,Gen_Main,FERN,0,0,0,,No, dudo que el señor Eisen sea normal.
+Dialogue: 0,0:08:55.87,0:08:57.69,Gen_Main,MAYOR,0,0,0,,Disculpen la espera.
+Dialogue: 0,0:08:59.46,0:09:03.68,Gen_Main,MAYOR,0,0,0,,Gracias.\NAquí tienen el grimorio acordado.
+Dialogue: 0,0:09:14.00,0:09:20.10,Gen_Main,FERN,0,0,0,,Ahora que lo pienso,\Nsiempre pide que le paguen por ayudar.
+Dialogue: 0,0:09:20.82,0:09:23.12,Gen_Main,FRIEREN,0,0,0,,Porque es lo que hacía Himmel.
+Dialogue: 0,0:09:23.20,0:09:24.64,Gen_Main,STARK,0,0,0,,Qué inesperado.
+Dialogue: 0,0:09:24.72,0:09:29.54,Gen_Main,FERN,0,0,0,,Siempre pensé que ayudaba a los demás\Nsin pedir nada a cambio.
+Dialogue: 0,0:09:30.06,0:09:33.65,Gen_Main,FRIEREN,0,0,0,,Te entiendo. Yo pensaba lo mismo.
+Dialogue: 0,0:09:34.79,0:09:36.86,Gen_Main,HUSBAND,0,0,0,,Muchísimas gracias.
+Dialogue: 0,0:09:37.46,0:09:44.38,Gen_Main,WIFE,0,0,0,,Ojalá pudiéramos ofrecerles más,\Npero nuestra aldea es muy pobre.
+Dialogue: 0,0:09:44.88,0:09:47.95,Gen_Main,WIFE,0,0,0,,Esto es todo lo que tenemos.
+Dialogue: 0,0:09:49.41,0:09:53.43,Gen_Main,EISEN,0,0,0,,No podemos privar a la aldea\Nde su alimento.
+Dialogue: 0,0:09:56.70,0:09:58.14,Gen_Main,HIMMEL,0,0,0,,¿Eso es un grimorio?
+Dialogue: 0,0:10:01.35,0:10:05.48,Gen_Main,HUSBAND,0,0,0,,Un comerciante ambulante\Nnos dio ese cuaderno hace mucho,
+Dialogue: 0,0:10:05.56,0:10:07.83,Gen_Main,HUSBAND,0,0,0,,pero no nos sirve de nada.
+Dialogue: 0,0:10:17.51,0:10:24.03,Gen_Main,FRIEREN,0,0,0,,Oye, Himmel, ¿por qué casi siempre pides\Nque te paguen por ayudar?
+Dialogue: 0,0:10:25.06,0:10:29.05,Gen_Main,HIMMEL,0,0,0,,Si nos pagan algo, ya no nos deben nada.
+Dialogue: 0,0:10:30.17,0:10:32.73,Gen_Main,HIMMEL,0,0,0,,Somos el grupo de héroes.
+Dialogue: 0,0:10:37.43,0:10:44.15,Gen_Main,HIMMEL,0,0,0,,Lo que buscamos es ayudar,\Nno palabras de agradecimiento.
+Dialogue: 0,0:10:48.38,0:10:55.26,Gen_Main,HIMMEL,0,0,0,,Si hacemos que queden en deuda,\Nno los habremos ayudado en realidad.
+Dialogue: 0,0:10:57.10,0:11:02.35,Gen_Main,FRIEREN,0,0,0,,Por eso acepto hechizos,\Npor muy ridículos que sean.
+Dialogue: 0,0:11:03.32,0:11:04.79,Gen_Main,STARK,0,0,0,,Frieren…
+Dialogue: 0,0:11:06.46,0:11:09.77,Gen_Main,FRIEREN,0,0,0,,Luego comprobaré si funciona.
+Dialogue: 0,0:11:09.85,0:11:12.59,Gen_Main,FERN,0,0,0,,Al final, solo quiere hechizos.
+Dialogue: 0,0:11:12.98,0:11:17.71,Gen_Main,STARK,0,0,0,,Mejor consigue uno que evite\Nque te muerdan los dragones.
+Dialogue: 0,0:11:20.02,0:11:23.03,Cart_A_Tim,CARTEL,0,0,0,,{\an9\bord0\c&HFAFFF7&\b0\pos(562.667,243.667)}Episodio 37\NEl diario de Himmel
+Dialogue: 0,0:11:25.77,0:11:29.00,Gen_Main,EISEN,0,0,0,,¿Qué tal el panorama afuera, Frieren?
+Dialogue: 0,0:11:29.82,0:11:32.84,Gen_Main,FRIEREN,0,0,0,,Diría que no podremos salir\Npor un tiempo.
+Dialogue: 0,0:11:33.43,0:11:35.64,Gen_Main,EISEN,0,0,0,,Pues qué mala suerte.
+Dialogue: 0,0:11:35.72,0:11:38.31,Gen_Main,EISEN,0,0,0,,Seguiremos atrapados aquí.
+Dialogue: 0,0:11:38.39,0:11:40.50,Gen_Main,HEITER,0,0,0,,Me muero del aburrimiento.
+Dialogue: 0,0:11:40.58,0:11:42.66,Gen_Main,FRIEREN,0,0,0,,Lo tuyo es resaca, no aburrimiento.
+Dialogue: 0,0:11:49.16,0:11:51.66,Gen_Main,HIMMEL,0,0,0,,Anímense, chicos.
+Dialogue: 0,0:11:51.74,0:11:55.12,Gen_Main,HIMMEL,0,0,0,,Emprendimos esta aventura\Npara vencer al Rey Demonio.
+Dialogue: 0,0:11:55.20,0:11:59.15,Gen_Main,EISEN,0,0,0,,Dicha aventura\Nlleva varios días en pausa.
+Dialogue: 0,0:11:59.44,0:12:03.20,Gen_Main,HIMMEL,0,0,0,,Las aventuras no solo consisten\Nen dar un paseo al aire libre.
+Dialogue: 0,0:12:03.94,0:12:08.11,Gen_Main,HIMMEL,0,0,0,,A veces, una aventura no es más\Nque una sucesión de días de porquería.
+Dialogue: 0,0:12:08.59,0:12:11.09,Gen_Main,EISEN,0,0,0,,Nadie dijo que este\Nfuera un día de porquería.
+Dialogue: 0,0:12:12.66,0:12:14.86,Gen_Main,EISEN,0,0,0,,¿Qué haces, Himmel?
+Dialogue: 0,0:12:15.35,0:12:17.29,Gen_Main,HEITER,0,0,0,,¿Pasó algo?
+Dialogue: 0,0:12:20.13,0:12:21.40,Gen_Main,HIMMEL,0,0,0,,No…
+Dialogue: 0,0:12:22.29,0:12:26.80,Cart_A_Tim,CARTEL,0,0,0,,{\an9\fs16\bord0\shad.1\pos(588.667,142.667)}30 años después\Nde la muerte del héroe Himmel\NLago Korridor\NAltiplanicie norte
+Dialogue: 0,0:12:27.60,0:12:30.06,Gen_Main,STARK,0,0,0,,Llegamos a esta ciudad hace una semana.
+Dialogue: 0,0:12:30.14,0:12:32.39,Gen_Main,STARK,0,0,0,,El tiempo sigue igual de tormentoso.
+Dialogue: 0,0:12:40.89,0:12:43.62,Gen_Main,FRIEREN,0,0,0,,¿Crees que podamos cruzar en bote hoy?
+Dialogue: 0,0:12:43.70,0:12:45.35,Gen_Main,CAPTAIN,0,0,0,,¿Qué crees tú?
+Dialogue: 0,0:12:53.70,0:12:56.62,Gen_Main,CAPTAIN,0,0,0,,Navego en bote, no en ataúd.
+Dialogue: 0,0:12:58.59,0:13:00.11,Gen_Main,FRIEREN,0,0,0,,Sí, supongo.
+Dialogue: 0,0:13:02.71,0:13:07.54,Gen_Main,STARK,0,0,0,,Nunca pensé que incluso un lago\Npodría volverse tan tormentoso.
+Dialogue: 0,0:13:07.62,0:13:11.39,Gen_Main,FRIEREN,0,0,0,,El lago Korridor es la masa de agua\Nmás grande de los Países del Norte.
+Dialogue: 0,0:13:11.92,0:13:14.51,Gen_Main,FRIEREN,0,0,0,,Es más grande\Nque algunos mares interiores.
+Dialogue: 0,0:13:15.28,0:13:18.60,Gen_Main,STARK,0,0,0,,Sí, apenas se ve la otra orilla.
+Dialogue: 0,0:13:20.07,0:13:24.56,Gen_Main,FRIEREN,0,0,0,,Y como las cordilleras al este y oeste\Nalteran las corrientes de aire,
+Dialogue: 0,0:13:24.64,0:13:27.28,Gen_Main,FRIEREN,0,0,0,,esta época del año es muy tormentosa.
+Dialogue: 0,0:13:27.93,0:13:31.71,Gen_Main,FRIEREN,0,0,0,,Hasta los barcos grandes\Npueden hundirse con este clima.
+Dialogue: 0,0:13:32.36,0:13:36.30,Gen_Main,FERN,0,0,0,,Con este viento,\Ntampoco podríamos cruzarlo volando.
+Dialogue: 0,0:13:36.38,0:13:39.80,Gen_Main,FRIEREN,0,0,0,,Es difícil sobrevolarlo\Nincluso en un día despejado.
+Dialogue: 0,0:13:40.15,0:13:42.70,Gen_Main,FRIEREN,0,0,0,,La otra orilla queda\Nmás lejos de lo que crees.
+Dialogue: 0,0:13:43.70,0:13:48.01,Gen_Main,FRIEREN,0,0,0,,Aunque yo podría cruzarlo,\Na ti te faltaría poder mágico.
+Dialogue: 0,0:13:48.54,0:13:51.64,Gen_Main,FERN,0,0,0,,¿Y no podemos rodear el lago?
+Dialogue: 0,0:13:52.32,0:13:54.47,Gen_Main,FRIEREN,0,0,0,,Eso también es difícil.
+Dialogue: 0,0:13:54.80,0:13:56.44,Gen_Main,STARK,0,0,0,,¿Por qué?
+Dialogue: 0,0:13:56.85,0:13:59.56,Gen_Main,FRIEREN,0,0,0,,Como dije, este mal clima…
+Dialogue: 0,0:14:00.91,0:14:02.66,Gen_Main,FRIEREN,0,0,0,,es obra de las cordilleras.
+Dialogue: 0,0:14:03.17,0:14:07.55,Gen_Main,FRIEREN,0,0,0,,Intentar cruzar una cordillera\Nazotada por una tormenta…
+Dialogue: 0,0:14:08.95,0:14:10.50,Gen_Main,FRIEREN,0,0,0,,sería un suicidio.
+Dialogue: 0,0:14:11.15,0:14:13.72,Gen_Main,FRIEREN,0,0,0,,Esperar unos cuantos meses aquí
+Dialogue: 0,0:14:13.80,0:14:18.45,Gen_Main,FRIEREN,0,0,0,,es más seguro y rápido\Nque intentar dar un rodeo.
+Dialogue: 0,0:14:19.02,0:14:22.82,Gen_Main,FRIEREN,0,0,0,,Por suerte, esta ciudad portuaria\Nes un punto comercial importante.
+Dialogue: 0,0:14:23.20,0:14:25.96,Gen_Main,FRIEREN,0,0,0,,Es un buen lugar para matar el tiempo.
+Dialogue: 0,0:15:08.10,0:15:10.63,Gen_Main,STARK,0,0,0,,Tuvimos que esperar todo el invierno.
+Dialogue: 0,0:15:11.17,0:15:12.82,Gen_Main,FRIEREN,0,0,0,,¿Podremos cruzar hoy?
+Dialogue: 0,0:15:12.90,0:15:13.90,Gen_Main,CAPTAIN,0,0,0,,Sí.
+Dialogue: 0,0:15:14.47,0:15:16.69,Gen_Main,CAPTAIN,0,0,0,,Pero ¿puedes pagarme?
+Dialogue: 0,0:15:17.19,0:15:21.58,Gen_Main,CAPTAIN,0,0,0,,Aunque hayan pasado las tormentas,\Nel viaje sigue teniendo sus riesgos.
+Dialogue: 0,0:15:22.11,0:15:24.23,Gen_Main,CAPTAIN,0,0,0,,Y espero un pago acorde.
+Dialogue: 0,0:15:27.39,0:15:29.39,Gen_Main,CAPTAIN,0,0,0,,Esto no alcanza.
+Dialogue: 0,0:15:29.76,0:15:33.05,Gen_Main,FERN,0,0,0,,Es su culpa\Npor comprar tantos grimorios.
+Dialogue: 0,0:15:33.13,0:15:34.98,Gen_Main,FRIEREN,0,0,0,,Nos sobraba el tiempo…
+Dialogue: 0,0:15:35.75,0:15:38.81,Gen_Main,CAPTAIN,0,0,0,,Pues te propongo\Nun intercambio de favores.
+Dialogue: 0,0:15:39.88,0:15:41.47,Gen_Main,CAPTAIN,0,0,0,,En la isla de allá,
+Dialogue: 0,0:15:41.55,0:15:46.15,Gen_Main,CAPTAIN,0,0,0,,hay un monasterio abandonado\Nque está protegido por una barrera.
+Dialogue: 0,0:15:46.98,0:15:51.32,Gen_Main,CAPTAIN,0,0,0,,Dicen que allí se encuentra\Nel diario del héroe Himmel.
+Dialogue: 0,0:15:52.18,0:15:56.90,Gen_Main,CAPTAIN,0,0,0,,El héroe Himmel salvó esta ciudad\Nen la época de mi abuelo.
+Dialogue: 0,0:15:57.75,0:16:00.51,Gen_Main,CAPTAIN,0,0,0,,Lo he admirado desde niño.
+Dialogue: 0,0:16:01.34,0:16:04.12,Gen_Main,CAPTAIN,0,0,0,,Todos aquí quieren ese diario.
+Dialogue: 0,0:16:04.55,0:16:06.65,Gen_Main,CAPTAIN,0,0,0,,Quiero que lo encuentren.
+Dialogue: 0,0:16:07.56,0:16:09.48,Gen_Main,FRIEREN,0,0,0,,El diario de Himmel…
+Dialogue: 0,0:16:09.94,0:16:11.40,Gen_Main,FRIEREN,0,0,0,,Ahora que lo pienso,
+Dialogue: 0,0:16:11.90,0:16:15.69,Gen_Main,FRIEREN,0,0,0,,dijo que perdió su diario\Ndurante nuestro viaje.
+Dialogue: 0,0:16:16.17,0:16:17.95,Gen_Main,FRIEREN,0,0,0,,Se veía muy triste.
+Dialogue: 0,0:16:21.84,0:16:24.60,Gen_Main,FRIEREN,0,0,0,,Conque allí estaba, ¿eh?
+Dialogue: 0,0:16:25.62,0:16:28.60,Gen_Main,FRIEREN,0,0,0,,De acuerdo, acepto el trabajo.
+Dialogue: 0,0:16:52.23,0:16:56.10,Gen_Main,STARK,0,0,0,,¿Es toda una flota de barcos?\NEs casi como estar en altamar.
+Dialogue: 0,0:16:56.18,0:17:01.12,Gen_Main,CAPTAIN,0,0,0,,Sí. Mucha gente y mercancía\Ncruzan el lago en esta época del año.
+Dialogue: 0,0:17:02.06,0:17:04.56,Gen_Main,CAPTAIN,0,0,0,,Y últimamente se oyen rumores
+Dialogue: 0,0:17:04.64,0:17:09.56,Gen_Main,CAPTAIN,0,0,0,,de que la Tierra Dorada, donde todo\Nestá hecho de oro, está más al norte.
+Dialogue: 0,0:17:10.00,0:17:13.25,Gen_Main,CAPTAIN,0,0,0,,Así que más gente de lo normal\Nestá cruzando el lago.
+Dialogue: 0,0:17:13.33,0:17:16.64,Gen_Main,STARK,0,0,0,,¿La Tierra Dorada? ¿Eso existe?
+Dialogue: 0,0:17:16.72,0:17:18.02,Gen_Main,CAPTAIN,0,0,0,,Ni idea.
+Dialogue: 0,0:17:18.86,0:17:22.63,Gen_Main,CAPTAIN,0,0,0,,No conozco a nadie que haya estado allí.
+Dialogue: 0,0:17:23.23,0:17:25.34,Gen_Main,CAPTAIN,0,0,0,,Deben ser puros cuentos.
+Dialogue: 0,0:17:28.47,0:17:29.79,Gen_Main,CAPTAIN,0,0,0,,Esa es la isla.
+Dialogue: 0,0:17:42.94,0:17:45.98,Gen_Main,FERN,0,0,0,,No es una barrera muy potente.
+Dialogue: 0,0:17:46.06,0:17:49.03,Gen_Main,FRIEREN,0,0,0,,Es que ya tiene varias décadas.
+Dialogue: 0,0:17:49.11,0:17:53.34,Gen_Main,STARK,0,0,0,,Parece un buen monasterio.\N¿Por qué lo abandonaron?
+Dialogue: 0,0:17:53.95,0:17:57.61,Gen_Main,CAPTAIN,0,0,0,,El techo se derrumbó\Ntras el ataque de un monstruo.
+Dialogue: 0,0:17:57.69,0:17:59.65,Gen_Main,CAPTAIN,0,0,0,,Es un edificio antiguo.
+Dialogue: 0,0:18:00.18,0:18:04.51,Gen_Main,FRIEREN,0,0,0,,Ya veo. Por eso erigieron la barrera\Ncon tanta prisa.
+Dialogue: 0,0:18:04.59,0:18:06.07,Gen_Main,STARK,0,0,0,,¿Cómo dices?
+Dialogue: 0,0:18:06.44,0:18:11.53,Gen_Main,FRIEREN,0,0,0,,La mayoría de los monasterios\Nconservan libros antiguos y valiosos.
+Dialogue: 0,0:18:12.02,0:18:13.69,Gen_Main,STARK,0,0,0,,Vaya…
+Dialogue: 0,0:18:14.12,0:18:18.77,Gen_Main,FERN,0,0,0,,Así que dejaron la barrera para proteger\Nlos libros que no pudieron llevarse.
+Dialogue: 0,0:18:21.59,0:18:24.51,Gen_Main,FRIEREN,0,0,0,,Ya está abierto. Entremos a revisar.
+Dialogue: 0,0:18:27.85,0:18:30.83,Gen_Main,FERN,0,0,0,,¿Qué pasó con los monjes\Nque estaban aquí?
+Dialogue: 0,0:18:31.44,0:18:35.34,Gen_Main,CAPTAIN,0,0,0,,Pues no lo sé.\NLleva mucho tiempo abandonado.
+Dialogue: 0,0:18:35.42,0:18:40.24,Gen_Main,CAPTAIN,0,0,0,,Solo se sabe que aquí guardaban\Nel diario del héroe Himmel.
+Dialogue: 0,0:18:50.56,0:18:52.73,Gen_Main,STARK,0,0,0,,La biblioteca es enorme.
+Dialogue: 0,0:18:53.31,0:18:55.57,Gen_Main,FERN,0,0,0,,Hay una estatua del héroe Himmel.
+Dialogue: 0,0:18:56.35,0:18:58.50,Gen_Main,STARK,0,0,0,,Qué buena pose.
+Dialogue: 0,0:19:06.91,0:19:08.37,Gen_Main,FRIEREN,0,0,0,,Aquí está.
+Dialogue: 0,0:19:08.70,0:19:09.76,Gen_Main,FRIEREN,0,0,0,,Es este.
+Dialogue: 0,0:19:13.69,0:19:17.57,Gen_Main,FRIEREN,0,0,0,,Sí, no hay duda alguna.\NEs la letra de Himmel.
+Dialogue: 0,0:20:17.56,0:20:19.44,Gen_Main,FERN,0,0,0,,¿Qué tiene escrito?
+Dialogue: 0,0:20:21.19,0:20:23.86,Gen_Main,FRIEREN,0,0,0,,Su día a día en el viaje.
+Dialogue: 0,0:20:27.14,0:20:28.90,Gen_Main,FRIEREN,0,0,0,,Cosas cotidianas.
+Dialogue: 0,0:20:31.23,0:20:33.70,Gen_Main,FRIEREN,0,0,0,,Toma. Es lo que pediste.
+Dialogue: 0,0:20:34.22,0:20:36.28,Gen_Main,FRIEREN,0,0,0,,Esto debería pagar el viaje.
+Dialogue: 0,0:20:39.53,0:20:44.17,Gen_Main,CAPTAIN,0,0,0,,Había escuchado que una elfa\Nformó parte del grupo de héroes.
+Dialogue: 0,0:20:44.74,0:20:46.71,Gen_Main,CAPTAIN,0,0,0,,Quién diría que serías tú.
+Dialogue: 0,0:20:47.44,0:20:49.07,Gen_Main,FRIEREN,0,0,0,,¿Qué te hace pensarlo?
+Dialogue: 0,0:20:49.77,0:20:53.84,Gen_Main,CAPTAIN,0,0,0,,Me quedó claro al verte poner\Nesa cara llena de nostalgia.
+Dialogue: 0,0:20:53.92,0:20:57.88,Gen_Main,CAPTAIN,0,0,0,,Es importante para ti, ¿no? Quédatelo.
+Dialogue: 0,0:21:00.04,0:21:04.30,Gen_Main,CAPTAIN,0,0,0,,Por aquí hay libros valiosos de sobra.
+Dialogue: 0,0:21:04.38,0:21:06.70,Gen_Main,CAPTAIN,0,0,0,,Son un pago más que suficiente.
+Dialogue: 0,0:21:07.96,0:21:10.00,Gen_Main,FRIEREN,0,0,0,,¿De verdad puse esa cara?
+Dialogue: 0,0:21:10.70,0:21:11.96,Gen_Main,FERN,0,0,0,,Solo un poco.
+Dialogue: 0,0:21:12.83,0:21:16.10,Gen_Main,CAPTAIN,0,0,0,,Vengan, llegaremos a la orilla\Nantes del anochecer.
+Dialogue: 0,0:21:22.92,0:21:26.25,Gen_Main,FRIEREN,0,0,0,,Hay una lista de frases dramáticas.
+Dialogue: 0,0:21:26.33,0:21:27.99,Gen_Main,FRIEREN,0,0,0,,Qué desperdicio de páginas.
+Dialogue: 0,0:21:28.07,0:21:30.01,Gen_Main,STARK,0,0,0,,Tal vez pueda usar una.
+Dialogue: 0,0:21:30.09,0:21:35.51,Gen_Main,STARK,0,0,0,,"¡Ataca, monstruo!\N¡El guerrero Stark será tu rival!"
+Dialogue: 0,0:21:40.14,0:21:41.46,Gen_Main,CAPTAIN,0,0,0,,¡Es un kraken!
+Dialogue: 0,0:21:42.15,0:21:44.68,Gen_Main,STARK,0,0,0,,¡¿Qué hace aquí un monstruo marino?!
+Dialogue: 0,0:21:44.76,0:21:46.60,Gen_Main,FRIEREN,0,0,0,,Tú lo provocaste.
+Dialogue: 0,0:21:46.68,0:21:47.85,Gen_Main,STARK,0,0,0,,¡¿Es culpa mía?!
+Dialogue: 0,0:21:48.37,0:21:52.98,Gen_Main,FRIEREN,0,0,0,,Stark, si no lo vencemos pronto,\Ntodos dormiremos con los peces.
+Dialogue: 0,0:21:53.78,0:21:54.78,Gen_Main,FERN,0,0,0,,¡Señorita Frieren!
+Dialogue: 0,0:21:54.86,0:21:55.86,Gen_Main,STARK,0,0,0,,¡Frieren!
+Dialogue: 0,0:21:58.37,0:22:00.38,Gen_Main,FRIEREN,0,0,0,,Stark, su punto débil es…
+Dialogue: 0,0:22:00.46,0:22:01.81,Gen_Main,STARK,0,0,0,,¿Eh? ¿Qué?
+Dialogue: 0,0:22:02.69,0:22:05.00,Gen_Main,FRIEREN,0,0,0,,Y así podrán vencerlo. Ánimo.
+Dialogue: 0,0:22:06.41,0:22:09.38,Gen_Main,FERN,0,0,0,,Parece que está usando el hechizo
+Dialogue: 0,0:22:09.46,0:22:12.51,Gen_Main,FERN,0,0,0,,para decir trabalenguas\Nsin que se le trabe la lengua.
+Dialogue: 0,0:22:14.16,0:22:17.41,Gen_Main,STARK,0,0,0,,¿Cómo pueden estar tan tranquilas?
+Dialogue: 0,0:22:17.77,0:22:18.89,Gen_Main,STARK,0,0,0,,Qué miedo.
+Dialogue: 0,0:23:47.74,0:23:50.07,Cart_A_Tre,CARTEL,0,0,0,,{\c&H5A5A5F&\fad(499,0)\3c&HFFFFFF&\be2\fs16}Traducción: Abraham Gayuvas y Nicolás Sepúlveda\NEdición: Álvaro Jimeno\NControl de calidad: Gekokujou
+Dialogue: 0,0:23:50.09,0:23:53.72,Gen_Main,FRIEREN; STARK,0,0,0,,-Es una caída de 3000 metros.\N-Un riesgo a la altura de la recompensa.
+Dialogue: 0,0:23:51.00,0:23:53.76,Gen_Main_Up,HEITER; FERN,0,0,0,,-Qué belleza.\N-Reacciona a nuestro poder mágico.
+Dialogue: 0,0:23:53.84,0:23:55.83,Gen_Main,HIMMEL,0,0,0,,Si derrotamos al Rey Demonio,
+Dialogue: 0,0:23:55.91,0:24:00.11,Gen_Main,HIMMEL,0,0,0,,llegará el día en el que todos puedan\Ndisfrutar de este bello espectáculo.
+Dialogue: 0,0:23:56.08,0:24:00.07,Cart_A_Tim,CARTEL,0,0,0,,{\fsp1\b0\fad(500,0)\pos(320,80)\bord0\c&H201B1C&\blur5\t(0,271,\blur0)\t(312,1188,\c&HFFFFFF&)\t(\fsp0)}Episodio 38{\fs30}\NUn bello espectáculo

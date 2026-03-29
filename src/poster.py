@@ -1,0 +1,82 @@
+"""
+poster module handles the coordination of posting operations to Facebook.
+
+This module contains functions for posting frames, subtitles and random crops
+to Facebook pages in an organized way.
+"""
+
+# Standard library imports
+from pathlib import Path
+from time import sleep
+
+# Third party imports
+from src.facebook import FacebookAPI
+from src.frame_utils import random_crop
+from src.load_configs import save_configs
+from src.logger import get_logger
+
+# Initialize logger services and Facebook API client
+fb = FacebookAPI()
+logger = get_logger(__name__)
+
+# post frame
+def post_frame(message: str, frame_path: Path, placeholders: dict) -> str | None:
+    """Post a frame and return the post ID."""
+    try:
+        post_id = fb.post_frame(message, frame_path)
+        if post_id:
+            print(
+                f"├── season {placeholders.get('season_number')}, "
+                f"episode {placeholders.get('episode_number')}, "
+                f"frame {placeholders.get('frame_number')} out of {placeholders.get('max_frames')} has been posted", flush=True)
+            sleep(2)
+        else:
+            logger.error("Failed to post frame")
+        return post_id
+    except Exception as e:
+        logger.error(f"Failed to post frame")
+        return None
+    
+def post_subtitles(post_id: str, frame_number: int, episode_number: int, subtitle: str, configs: dict) -> str | None:
+    """Post the subtitles associated with the frame."""
+    if not configs.get("posting", {}).get("posting_subtitles", False):
+        return None
+
+    if not subtitle:
+        return None
+    try:
+        subtitle_post_id = fb.post_frame(subtitle, None, post_id)
+        if subtitle_post_id:
+            print("├── Subtitle has been posted", flush=True)
+            sleep(2)
+        else:
+            logger.error("Failed to post subtitle")
+        return subtitle_post_id
+    except Exception as e:
+        logger.error(f"Failed to post subtitle")
+        return None
+
+
+def post_random_crop(post_id: str, frame_path: Path, configs: dict) -> str | None:
+    """Post a random cropped frame."""
+    if not configs.get("posting", {}).get("random_crop", {}).get("enabled", False):
+        return None
+
+    try:
+        crop_path, crop_message = random_crop(frame_path, configs)
+        if crop_path and crop_message:
+            crop_post_id = fb.post_frame(crop_message, crop_path, post_id)
+            if crop_post_id:
+                print("└── Random Crop has been posted", flush=True)
+                sleep(2)
+            else:
+                logger.error("Failed to post random crop")
+            return crop_post_id
+    except Exception as e:
+        logger.error(f"Failed to post random crop")
+
+    return None 
+
+
+
+

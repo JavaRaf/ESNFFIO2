@@ -1,0 +1,283 @@
+﻿[Script Info]
+Title: [Erai-raws]
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,0
+Style: DefaultItalics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,0
+Style: Flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Signs,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,30,30,10,0
+Style: Signs_WText,Times New Roman,12,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,9,30,30,10,0
+Style: Signs_EpTitle,Times New Roman,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,30,30,10,0
+Style: Credits,Times New Roman,12,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:25.25,0:00:32.21,Signs,SIGN,0,0,0,,{\fad(1528,188)\blur0.25\fs33\fnGeorgia\fsp3.0\c&HF8CC9E&\t(2529,5824,\c&HFAFBFA&)\pos(326,245)}Beyond Journey's End
+Dialogue: 0,0:01:33.86,0:01:36.41,Default,STARK,0,0,0,,That's a really deep canyon.
+Dialogue: 0,0:01:36.41,0:01:38.23,Default,STARK,0,0,0,,I can't even see the bottom.
+Dialogue: 0,0:01:38.23,0:01:45.12,Signs_WText,SIGN,0,0,0,,{\blur0.2\pos(588.5,16)}30 years after the death of Himmel the Hero,\Nby the Great Tor Canyon, located on the Northern Plateau
+Dialogue: 0,0:01:39.03,0:01:41.94,Default,FRIEREN,0,0,0,,It's a 3,000 meter drop.
+Dialogue: 0,0:01:41.94,0:01:44.87,Default,FRIEREN,0,0,0,,This is the deepest canyon \Non the continent.
+Dialogue: 0,0:01:45.46,0:01:48.84,Default,FRIEREN,0,0,0,,It's only possible thanks to the \NNorthern Plateau's elevation.
+Dialogue: 0,0:01:49.22,0:01:51.58,Default,STARK,0,0,0,,So how are we going to cross this?
+Dialogue: 0,0:01:54.19,0:01:56.04,Default,FERN,0,0,0,,The wind is quite strong.
+Dialogue: 0,0:01:56.04,0:01:58.81,Default,FERN,0,0,0,,We won't be able to fly across with magic.
+Dialogue: 0,0:01:58.81,0:02:02.33,Default,STARK,0,0,0,,I feel like we just dealt \Nwith something similar.
+Dialogue: 0,0:02:03.91,0:02:07.46,Default,FRIEREN,0,0,0,,If we head upstream, \Nwe could cross the river,
+Dialogue: 0,0:02:07.46,0:02:10.61,Default,FRIEREN,0,0,0,,but we'll have to pass through \Na treacherous mountain range.
+Dialogue: 0,0:02:10.61,0:02:12.65,Default,FRIEREN,0,0,0,,It's a pretty big detour.
+Dialogue: 0,0:02:13.12,0:02:15.15,Default,FERN,0,0,0,,What about downstream?
+Dialogue: 0,0:02:15.60,0:02:19.90,Default,FRIEREN,0,0,0,,There's also a 3,000 meter cliff \Nfacing the sea.
+Dialogue: 0,0:02:20.59,0:02:23.68,Default,FRIEREN,0,0,0,,It's quite beautiful, apparently. \NWould you like to go see it?
+Dialogue: 0,0:02:23.68,0:02:24.77,Default,FERN,0,0,0,,No, thank you.
+Dialogue: 0,0:02:25.15,0:02:30.50,Default,FRIEREN,0,0,0,,Either way, at this rate, it'll take us \Ntwo weeks to cross the canyon.
+Dialogue: 0,0:02:31.04,0:02:32.88,Default,FERN,0,0,0,,That's a long time.
+Dialogue: 0,0:02:32.88,0:02:35.04,Default,STARK,0,0,0,,It's not like we have a choice.
+Dialogue: 0,0:02:35.65,0:02:39.80,Default,FRIEREN,0,0,0,,Well, it might be finished soon.
+Dialogue: 0,0:02:39.80,0:02:41.38,Default,FERN,0,0,0,,What do you mean?
+Dialogue: 0,0:02:42.78,0:02:45.05,Default,FRIEREN,0,0,0,,For now, let's head upstream.
+Dialogue: 0,0:02:45.53,0:02:48.94,Default,FRIEREN,0,0,0,,If we're lucky, we might be able \Nto cross over on our way there.
+Dialogue: 0,0:02:55.45,0:02:56.68,Default,FERN,0,0,0,,Ms. Frieren.
+Dialogue: 0,0:02:57.13,0:02:58.55,Default,FRIEREN,0,0,0,,It's coming into view.
+Dialogue: 0,0:02:58.55,0:03:02.85,Default,STARK,0,0,0,,Wow. Is that a bridge?
+Dialogue: 0,0:03:02.85,0:03:05.58,Default,FRIEREN,0,0,0,,Yeah. Looks like he's finished it.
+Dialogue: 0,0:03:06.79,0:03:07.91,Default,FRIEREN,0,0,0,,Gehen.
+Dialogue: 0,0:03:08.84,0:03:11.05,Default,GEHEN,0,0,0,,It's been a while, Frieren.
+Dialogue: 0,0:03:11.05,0:03:13.33,Default,FRIEREN,0,0,0,,You successfully completed your bridge.
+Dialogue: 0,0:03:13.69,0:03:14.90,Default,GEHEN,0,0,0,,Yeah.
+Dialogue: 0,0:03:14.90,0:03:15.96,Default,FERN,0,0,0,,Who is he?
+Dialogue: 0,0:03:16.36,0:03:21.55,Default,FRIEREN,0,0,0,,Gehen, the dwarf who's been building \Nthis bridge for the last 200 years.
+Dialogue: 0,0:03:21.55,0:03:22.96,Default,STARK,0,0,0,,That's amazing.
+Dialogue: 0,0:03:23.33,0:03:25.18,Default,FRIEREN,0,0,0,,I'm surprised, though.
+Dialogue: 0,0:03:25.18,0:03:30.59,Default,FRIEREN,0,0,0,,A bridge this well-made \Nshould be a major crossing.
+Dialogue: 0,0:03:31.11,0:03:33.47,Default,FRIEREN,0,0,0,,But I haven't heard anything about it,
+Dialogue: 0,0:03:34.04,0:03:36.73,Default,FRIEREN,0,0,0,,so I thought you hadn't finished it yet.
+Dialogue: 0,0:03:37.46,0:03:41.24,Default,GEHEN,0,0,0,,There's actually one problem, Frieren.
+Dialogue: 0,0:03:51.49,0:03:56.87,Default,GEHEN,0,0,0,,As you can see, large bird monsters have \Nbeen stirring up powerful gusts of wind.
+Dialogue: 0,0:03:56.87,0:03:59.56,Default,GEHEN,0,0,0,,A group of merchants headed \Nfor the so-called Golden Land
+Dialogue: 0,0:03:59.56,0:04:03.46,Default,GEHEN,0,0,0,,was blown over the other day, \Nwagon and all.
+Dialogue: 0,0:04:03.46,0:04:07.01,Default,GEHEN,0,0,0,,Not only that, \Nbut the monsters keep coming.
+Dialogue: 0,0:04:07.49,0:04:10.52,Default,GEHEN,0,0,0,,They've built a large nest nearby.
+Dialogue: 0,0:04:10.97,0:04:14.25,Default,GEHEN,0,0,0,,In doing so, they've rendered \Nmy bridge useless.
+Dialogue: 0,0:04:14.77,0:04:19.07,Default,GEHEN,0,0,0,,Fortunately, the nest is \Nsomewhere on this side.
+Dialogue: 0,0:04:19.59,0:04:22.15,Default,GEHEN,0,0,0,,Could you do something about it?
+Dialogue: 0,0:04:22.62,0:04:26.12,Default,GEHEN,0,0,0,,I spent 200 years building this bridge.
+Dialogue: 0,0:04:26.49,0:04:27.50,Default,FRIEREN,0,0,0,,What will you pay us?
+Dialogue: 0,0:04:27.82,0:04:31.24,Default,GEHEN,0,0,0,,A spell that lets you \Nflip pancakes perfectly.
+Dialogue: 0,0:04:31.95,0:04:33.57,Default,GEHEN,0,0,0,,I have the ingredients, too.
+Dialogue: 0,0:04:33.57,0:04:36.78,Default,GEHEN,0,0,0,,You could enjoy a grand \Nbreakfast tomorrow.
+Dialogue: 0,0:04:38.07,0:04:39.35,Default,FRIEREN,0,0,0,,You have a deal.
+Dialogue: 0,0:04:49.05,0:04:52.08,Default,FRIEREN,0,0,0,,According to Gehen, \Nit should be around here.
+Dialogue: 0,0:04:52.08,0:04:54.18,Default,FERN,0,0,0,,This path is quite precipitous.
+Dialogue: 0,0:04:54.61,0:04:58.68,Default,FRIEREN,0,0,0,,Be careful. If you fall, you're finished.
+Dialogue: 0,0:05:12.35,0:05:16.80,Default,STARK,0,0,0,,By the way, why did Gehen build a bridge \Nacross this canyon in the first place?
+Dialogue: 0,0:05:18.16,0:05:20.35,Default,FRIEREN,0,0,0,,Probably out of regret.
+Dialogue: 0,0:05:21.38,0:05:25.72,Flashback,HIMMEL,0,0,0,,So the bridge is still under \Nconstruction. That's too bad.
+Dialogue: 0,0:05:26.38,0:05:28.31,Flashback,FRIEREN,0,0,0,,When will it be finished?
+Dialogue: 0,0:05:28.72,0:05:31.23,Flashback,GEHEN,0,0,0,,I'm not sure it ever will be.
+Dialogue: 0,0:05:31.23,0:05:33.74,Flashback,GEHEN,0,0,0,,I ran out of funds.
+Dialogue: 0,0:05:34.79,0:05:40.41,Flashback,GEHEN,0,0,0,,It's a shame, when I have \Nall the time in the world.
+Dialogue: 0,0:05:40.99,0:05:45.11,Flashback,HIMMEL,0,0,0,,Gehen, why were you \Nbuilding a bridge here?
+Dialogue: 0,0:05:46.58,0:05:52.00,Flashback,GEHEN,0,0,0,,My village used to be around here, \Nbut it was attacked by demons.
+Dialogue: 0,0:05:52.47,0:05:57.58,Flashback,GEHEN,0,0,0,,The closest army was stationed \Nin a city across the canyon.
+Dialogue: 0,0:06:00.02,0:06:05.63,Flashback,GEHEN,0,0,0,,If this bridge had existed then, \Neveryone could've been saved.
+Dialogue: 0,0:06:09.59,0:06:11.13,Flashback,HIMMEL,0,0,0,,Use this.
+Dialogue: 0,0:06:11.47,0:06:16.60,Flashback,HIMMEL,0,0,0,,It's the reward we received for reclaiming\Na noble's treasured sword from demons.
+Dialogue: 0,0:06:17.97,0:06:19.89,Flashback,GEHEN,0,0,0,,This is a lot of money.
+Dialogue: 0,0:06:20.79,0:06:22.18,Flashback,GEHEN,0,0,0,,I can't accept this.
+Dialogue: 0,0:06:22.18,0:06:26.83,Flashback,GEHEN,0,0,0,,I don't have anything suitable \Nto offer in exchange.
+Dialogue: 0,0:06:28.41,0:06:30.03,Flashback,HIMMEL,0,0,0,,You have this bridge.
+Dialogue: 0,0:06:31.62,0:06:36.67,Flashback,GEHEN,0,0,0,,It won't be finished until after you've \Ndied of old age, at the very least.
+Dialogue: 0,0:06:39.20,0:06:41.58,Flashback,HIMMEL,0,0,0,,Then Frieren will accept your repayment.
+Dialogue: 0,0:06:43.46,0:06:46.93,Flashback,HIMMEL,0,0,0,,Build it strong enough \Nto last a thousand years.
+Dialogue: 0,0:06:49.04,0:06:52.03,Flashback,GEHEN,0,0,0,,Fine. You can count on me.
+Dialogue: 0,0:07:47.23,0:07:48.32,Default,FRIEREN,0,0,0,,Here they are.
+Dialogue: 0,0:07:48.84,0:07:49.83,Default,FRIEREN,0,0,0,,Let's defeat them.
+Dialogue: 0,0:08:15.30,0:08:16.48,Default,FRIEREN,0,0,0,,Gehen.
+Dialogue: 0,0:08:17.50,0:08:19.31,Default,FRIEREN,0,0,0,,We took care of the monsters.
+Dialogue: 0,0:08:19.31,0:08:21.52,Default,GEHEN,0,0,0,,Thank you, Frieren.
+Dialogue: 0,0:08:21.52,0:08:26.51,Default,GEHEN,0,0,0,,Now people can freely cross the canyon.
+Dialogue: 0,0:08:26.96,0:08:29.65,Default,FRIEREN,0,0,0,,What are you going to do now?
+Dialogue: 0,0:08:33.04,0:08:36.68,Default,GEHEN,0,0,0,,I plan to spend my old age \Nquietly in my village.
+Dialogue: 0,0:08:36.68,0:08:37.53,Default,FRIEREN,0,0,0,,What?
+Dialogue: 0,0:08:43.75,0:08:45.79,Default,VILLAGER,0,0,0,,Hey, he's back.
+Dialogue: 0,0:08:45.79,0:08:47.67,Default,VILLAGER,0,0,0,,Good timing.
+Dialogue: 0,0:08:48.02,0:08:50.93,Default,VILLAGER,0,0,0,,That's great news, Gehen. \NLet's celebrate tonight.
+Dialogue: 0,0:08:52.49,0:08:53.67,Default,GEHEN,0,0,0,,Frieren.
+Dialogue: 0,0:08:54.76,0:08:59.31,Default,GEHEN,0,0,0,,Two hundred years is more than enough \Ntime for a village to be built anew.
+Dialogue: 0,0:09:00.41,0:09:01.57,Default,FRIEREN,0,0,0,,I see.
+Dialogue: 0,0:09:08.66,0:09:10.66,Default,FRIEREN,0,0,0,,Shall we go, then?
+Dialogue: 0,0:09:16.06,0:09:19.07,Signs_EpTitle,EPTITLE,0,0,0,,{\blur0.2\c&HFAFFF7&\pos(399,269.5)}Episode 38: A Beautiful Sight
+Dialogue: 0,0:09:19.07,0:09:23.07,Signs_WText,SIGN,0,0,0,,{\blur0.2\pos(589,126)}30 years after the death of Himmel the Hero,\Non the Schmal Snowfield, located on the Northern Plateau
+Dialogue: 0,0:09:26.75,0:09:28.16,Default,STARK,0,0,0,,What's up?
+Dialogue: 0,0:09:28.72,0:09:32.04,Default,FRIEREN,0,0,0,,We're nearly out of travel funds again.
+Dialogue: 0,0:09:32.50,0:09:33.38,Default,STARK,0,0,0,,Oh, yeah?
+Dialogue: 0,0:09:33.90,0:09:36.80,Default,FERN,0,0,0,,I'm not sure we can survive \Neven a week on this.
+Dialogue: 0,0:09:39.39,0:09:42.77,Default,FERN,0,0,0,,Honestly, it's because \Nyou keep wasting money.
+Dialogue: 0,0:09:43.30,0:09:48.18,Default,STARK,0,0,0,,Either way, we can't do much \Nin the middle of this snowfield.
+Dialogue: 0,0:09:49.25,0:09:53.53,Default,FRIEREN,0,0,0,,Wait. Isn't this place...?
+Dialogue: 0,0:09:56.42,0:09:59.91,Default,FRIEREN,0,0,0,,We're changing course. I might know \Na place where we can get money.
+Dialogue: 0,0:10:03.94,0:10:05.36,Default,FERN,0,0,0,,What is this?
+Dialogue: 0,0:10:05.59,0:10:09.87,Default,STARK,0,0,0,,It's not a village. \NIs it an adventurer camp?
+Dialogue: 0,0:10:09.87,0:10:13.50,Default,ADVENTURER,0,0,0,,All right, boys! Give it \Neverything you've got!
+Dialogue: 0,0:10:13.50,0:10:15.20,Default,ALL,0,0,0,,Yeah!
+Dialogue: 0,0:10:15.20,0:10:17.37,Default,FERN,0,0,0,,What is this place?
+Dialogue: 0,0:10:17.66,0:10:22.50,Default,FRIEREN,0,0,0,,A camp for adventurers \Nseeking holy snow crystals.
+Dialogue: 0,0:10:23.30,0:10:25.20,Default,STARK,0,0,0,,Holy snow crystals?
+Dialogue: 0,0:10:25.97,0:10:29.88,Default,FRIEREN,0,0,0,,A mineral produced in the \Nsnowfields of this region.
+Dialogue: 0,0:10:29.88,0:10:32.14,Default,FRIEREN,0,0,0,,They're used to create magical potions.
+Dialogue: 0,0:10:32.47,0:10:36.87,Default,FRIEREN,0,0,0,,They're a valuable resource that can only \Nbe mined here, so they fetch a high price.
+Dialogue: 0,0:10:36.87,0:10:38.36,Default,STARK,0,0,0,,I see.
+Dialogue: 0,0:10:38.36,0:10:42.93,Default,STARK,0,0,0,,In other words, we'll earn travel funds \Nby finding those holy snow crystals.
+Dialogue: 0,0:10:42.93,0:10:45.65,Default,FRIEREN,0,0,0,,You're still so naïve, Stark.
+Dialogue: 0,0:10:46.01,0:10:49.26,Default,FRIEREN,0,0,0,,Holy snow crystals aren't something \Nyou can just stumble upon.
+Dialogue: 0,0:10:49.26,0:10:50.66,Default,FRIEREN,0,0,0,,That's why they're expensive.
+Dialogue: 0,0:10:51.06,0:10:53.28,Default,STARK,0,0,0,,Then how are we going to make money?
+Dialogue: 0,0:10:53.86,0:10:57.79,Default,FRIEREN,0,0,0,,Let's check out the marketplace \Nthat caters to the adventurers.
+Dialogue: 0,0:10:58.23,0:11:00.39,Default,FRIEREN,0,0,0,,You'll see something interesting there.
+Dialogue: 0,0:11:04.41,0:11:07.95,Default,STARK,0,0,0,,It looks like an ordinary \Nmarketplace to me.
+Dialogue: 0,0:11:08.91,0:11:10.44,Default,FRIEREN,0,0,0,,Look at the prices.
+Dialogue: 0,0:11:11.64,0:11:13.98,Default,FERN,0,0,0,,One silver for a loaf of bread.
+Dialogue: 0,0:11:14.49,0:11:16.82,Default,FERN,0,0,0,,That's more than ten times \Nthe market price.
+Dialogue: 0,0:11:17.17,0:11:23.44,Default,FRIEREN,0,0,0,,They're selling to wealthy adventurers \Nwho make money mining holy snow crystals.
+Dialogue: 0,0:11:23.82,0:11:26.53,Default,FRIEREN,0,0,0,,So the prices are much higher here.
+Dialogue: 0,0:11:28.16,0:11:30.03,Default,STARK,0,0,0,,I see.
+Dialogue: 0,0:11:30.49,0:11:34.16,Default,FRIEREN,0,0,0,,Holy snow crystals are expensive \Nfor two reasons.
+Dialogue: 0,0:11:34.67,0:11:36.69,Default,FRIEREN,0,0,0,,The first is their rarity.
+Dialogue: 0,0:11:37.27,0:11:42.02,Default,FRIEREN,0,0,0,,The second is because they're found in a \Ndangerous region full of savage monsters.
+Dialogue: 0,0:11:42.82,0:11:44.86,Default,FRIEREN,0,0,0,,Do you see where I'm going with this?
+Dialogue: 0,0:11:45.41,0:11:51.23,Default,FERN,0,0,0,,If prices are up, then rewards for \Nmonster slaying must be up, too.
+Dialogue: 0,0:11:51.23,0:11:52.84,Default,FRIEREN,0,0,0,,Right as always, Fern.
+Dialogue: 0,0:11:54.27,0:11:59.06,Default,MAN,0,0,0,,There's a large mineral vein \Nhere known only to locals.
+Dialogue: 0,0:11:59.71,0:12:02.65,Default,MAN,0,0,0,,I'd like you to defeat the \Nmonster dwelling there.
+Dialogue: 0,0:12:03.33,0:12:09.08,Default,MAN,0,0,0,,Also, I'd like you to erect an \Nanti-personnel barrier once you finish.
+Dialogue: 0,0:12:09.41,0:12:11.07,Default,FERN,0,0,0,,An anti-personnel barrier?
+Dialogue: 0,0:12:11.07,0:12:14.65,Default,MAN,0,0,0,,Yes, so no one can enter.
+Dialogue: 0,0:12:15.94,0:12:18.71,Default,FRIEREN,0,0,0,,Got it. We'll take the job.
+Dialogue: 0,0:12:19.47,0:12:24.92,Default,FERN,0,0,0,,An anti-personnel barrier \Nis an unusual request.
+Dialogue: 0,0:12:24.92,0:12:29.46,Default,FRIEREN,0,0,0,,It takes time to gather the manpower \Nand funds required for mining.
+Dialogue: 0,0:12:29.72,0:12:34.69,Default,FRIEREN,0,0,0,,It's not unusual for people to claim \Nspots using anti-personnel barriers
+Dialogue: 0,0:12:34.69,0:12:36.56,Default,FRIEREN,0,0,0,,so that others don't take them.
+Dialogue: 0,0:12:37.92,0:12:40.36,Default,FRIEREN,0,0,0,,In any case, let's go slay this monster.
+Dialogue: 0,0:12:56.95,0:12:58.06,Default,FRIEREN,0,0,0,,We found it.
+Dialogue: 0,0:12:58.83,0:13:00.72,Default,STARK,0,0,0,,It's big.
+Dialogue: 0,0:13:00.72,0:13:02.63,Default,FRIEREN,0,0,0,,Don't let your guard down.
+Dialogue: 0,0:13:02.63,0:13:05.23,Default,FRIEREN,0,0,0,,They only would've put out a job \Nto slay this monster
+Dialogue: 0,0:13:05.23,0:13:08.39,Default,FRIEREN,0,0,0,,if none of the adventurers \Nat the camp could handle it.
+Dialogue: 0,0:13:08.72,0:13:10.31,Default,FRIEREN,0,0,0,,If you get careless, you'll die.
+Dialogue: 0,0:13:11.26,0:13:14.36,Default,STARK,0,0,0,,The risk matches the reward, huh?
+Dialogue: 0,0:13:15.66,0:13:17.09,Default,FRIEREN,0,0,0,,Let's take it down.
+Dialogue: 0,0:13:53.36,0:13:56.26,Default,FERN,0,0,0,,It's reacting to our mana.
+Dialogue: 0,0:13:56.26,0:13:57.56,Default,FRIEREN,0,0,0,,That's annoying.
+Dialogue: 0,0:14:01.64,0:14:03.65,DefaultItalics,STARK/ID,0,0,0,,This thing's fast.
+Dialogue: 0,0:14:07.36,0:14:08.57,Default,FRIEREN,0,0,0,,Stark.
+Dialogue: 0,0:14:08.87,0:14:10.08,Default,FRIEREN,0,0,0,,Run.
+Dialogue: 0,0:14:10.59,0:14:12.44,Default,FRIEREN,0,0,0,,I have a plan.
+Dialogue: 0,0:14:13.57,0:14:14.95,Default,STARK,0,0,0,,You can count on me.
+Dialogue: 0,0:14:18.05,0:14:19.41,DefaultItalics,FERN/ID,0,0,0,,Higher.
+Dialogue: 0,0:15:26.97,0:15:29.71,Default,STARK,0,0,0,,That monster really was strong.
+Dialogue: 0,0:15:34.76,0:15:36.20,Default,FERN,0,0,0,,Ms. Frieren?
+Dialogue: 0,0:15:36.20,0:15:37.26,Default,FRIEREN,0,0,0,,Quiet.
+Dialogue: 0,0:15:39.80,0:15:41.35,Default,STARK,0,0,0,,What's going on?
+Dialogue: 0,0:15:41.87,0:15:45.37,Default,FRIEREN,0,0,0,,That monster was the lord of this area.
+Dialogue: 0,0:15:45.78,0:15:50.42,Default,FRIEREN,0,0,0,,Other monsters sensed its mana \Nweakening and gathered here.
+Dialogue: 0,0:15:50.42,0:15:52.59,Default,STARK,0,0,0,,What should we do, Frieren?
+Dialogue: 0,0:15:52.59,0:15:55.93,Default,STARK,0,0,0,,I still have the energy \Nto carry you two and run.
+Dialogue: 0,0:15:56.33,0:15:57.67,Default,FRIEREN,0,0,0,,It's too late.
+Dialogue: 0,0:15:58.53,0:16:00.01,Default,STARK,0,0,0,,We're surrounded.
+Dialogue: 0,0:16:01.27,0:16:06.64,Default,FRIEREN,0,0,0,,Either way, we'll have to defeat \Nall of them to complete the job.
+Dialogue: 0,0:16:07.39,0:16:09.44,Default,STARK,0,0,0,,Do you have enough mana?
+Dialogue: 0,0:16:09.81,0:16:11.53,Default,FERN,0,0,0,,I'll be fine.
+Dialogue: 0,0:16:13.00,0:16:14.53,Default,FRIEREN,0,0,0,,We don't have a choice.
+Dialogue: 0,0:16:29.27,0:16:30.77,Default,FRIEREN,0,0,0,,The Chivalric Order of Norm.
+Dialogue: 0,0:16:33.58,0:16:37.73,Default,CAPTAIN,0,0,0,,We pursued those monsters here \Ndue to their ominous behavior.
+Dialogue: 0,0:16:38.08,0:16:40.03,Default,CAPTAIN,0,0,0,,We didn't realize it was you.
+Dialogue: 0,0:16:40.03,0:16:42.73,Default,FRIEREN,0,0,0,,Thank you. We appreciate the help.
+Dialogue: 0,0:16:43.12,0:16:45.18,Default,CAPTAIN,0,0,0,,We should be thanking you.
+Dialogue: 0,0:16:46.90,0:16:49.25,Default,CAPTAIN,0,0,0,,We received word from Mr. Norm.
+Dialogue: 0,0:16:49.81,0:16:51.94,Default,CAPTAIN,0,0,0,,You've done a lot to help us.
+Dialogue: 0,0:16:53.15,0:16:55.45,Default,FRIEREN,0,0,0,,Now we're even.
+Dialogue: 0,0:16:59.28,0:17:00.24,Default,CAPTAIN,0,0,0,,Farewell.
+Dialogue: 0,0:17:03.03,0:17:06.30,Default,STARK,0,0,0,,They rode all the way out here. \NThat's incredible.
+Dialogue: 0,0:17:06.76,0:17:11.78,Default,FRIEREN,0,0,0,,That squad patrols their entire territory.
+Dialogue: 0,0:17:14.42,0:17:18.02,Default,FRIEREN,0,0,0,,The Northern Plateau \Nis changing little by little.
+Dialogue: 0,0:17:19.82,0:17:21.91,Default,FERN,0,0,0,,It's long past sunset.
+Dialogue: 0,0:17:22.34,0:17:24.46,Default,FRIEREN,0,0,0,,We'll camp here tonight.
+Dialogue: 0,0:17:32.46,0:17:35.11,Default,FERN,0,0,0,,Ms. Frieren, it's morning.
+Dialogue: 0,0:17:35.11,0:17:36.12,Default,FERN,0,0,0,,Please wake up.
+Dialogue: 0,0:17:38.59,0:17:40.44,Default,FRIEREN,0,0,0,,Just five more hours...
+Dialogue: 0,0:17:41.25,0:17:42.73,Default,FERN,0,0,0,,You'll freeze to death.
+Dialogue: 0,0:17:47.14,0:17:48.91,Default,FERN,0,0,0,,Anyway, look.
+Dialogue: 0,0:17:50.60,0:17:54.80,Default,FERN,0,0,0,,The holy snow crystal vein looks beautiful\Nin the light of the morning sun.
+Dialogue: 0,0:17:57.99,0:17:59.29,Default,FRIEREN,0,0,0,,You're right.
+Dialogue: 0,0:18:02.22,0:18:06.38,Flashback,HIMMEL,0,0,0,,Our goal this time was \Nonly to earn travel funds.
+Dialogue: 0,0:18:06.81,0:18:09.68,Flashback,HIMMEL,0,0,0,,I wasn't expecting to encounter \Nsuch a feast for the eyes.
+Dialogue: 0,0:18:10.01,0:18:12.02,Flashback,EISEN,0,0,0,,It's beautiful.
+Dialogue: 0,0:18:12.35,0:18:16.10,Flashback,HIMMEL,0,0,0,,This is worth defeating \Nthe Demon King for.
+Dialogue: 0,0:18:19.81,0:18:22.27,Flashback,HIMMEL,0,0,0,,If we defeat the Demon King,
+Dialogue: 0,0:18:22.27,0:18:26.81,Flashback,HIMMEL,0,0,0,,a time will come when anyone \Ncan enjoy this beautiful sight.
+Dialogue: 0,0:18:29.98,0:18:32.91,Default,FRIEREN,0,0,0,,Though not anyone can come here,
+Dialogue: 0,0:18:32.91,0:18:37.64,Default,FRIEREN,0,0,0,,we've entered an era in which \Nmany people can see this sight.
+Dialogue: 0,0:18:38.59,0:18:40.12,Default,FRIEREN,0,0,0,,It feels strange.
+Dialogue: 0,0:18:42.73,0:18:44.98,Default,FERN,0,0,0,,It really is beautiful.
+Dialogue: 0,0:18:44.98,0:18:46.30,Default,STARK,0,0,0,,Yeah.
+Dialogue: 0,0:18:47.11,0:18:50.80,Default,FRIEREN,0,0,0,,And yet, it'll soon be torn \Ndown by human hands.
+Dialogue: 0,0:18:51.24,0:18:55.59,Default,FRIEREN,0,0,0,,It's a bit sad, but time marches on.
+Dialogue: 0,0:18:57.20,0:19:01.52,Default,FRIEREN,0,0,0,,Let's erect the barrier in a bit \Nand then head back.
+Dialogue: 0,0:19:03.56,0:19:05.82,Default,MAN,0,0,0,,Thank you for your help.
+Dialogue: 0,0:19:06.30,0:19:08.13,Default,MAN,0,0,0,,Here's your reward.
+Dialogue: 0,0:19:09.67,0:19:12.20,Default,MAN,0,0,0,,Now we can preserve that vein.
+Dialogue: 0,0:19:12.65,0:19:16.20,Default,FRIEREN,0,0,0,,Preserve it? The barrier's \Nnot for mining it later?
+Dialogue: 0,0:19:16.57,0:19:19.53,Default,MAN,0,0,0,,I'm an adventurer from this region.
+Dialogue: 0,0:19:20.51,0:19:24.55,Default,MAN,0,0,0,,And seeing that beautiful sight was \Nwhat inspired me to become one.
+Dialogue: 0,0:19:27.39,0:19:31.50,Default,MAN,0,0,0,,Thank you. Because of you, I can \Nprotect the sights of my homeland.
+Dialogue: 0,0:19:33.23,0:19:34.10,Default,FRIEREN,0,0,0,,I see.
+Dialogue: 0,0:19:39.64,0:19:42.90,Default,STARK,0,0,0,,It's a good thing, \Nprotecting other people's homes.
+Dialogue: 0,0:19:43.68,0:19:45.10,Default,FERN,0,0,0,,Yes, it is.
+Dialogue: 0,0:19:46.87,0:19:52.61,Default,FERN,0,0,0,,Now that I think about it, maybe \NMr. Heiter protected my home, too.
+Dialogue: 0,0:19:54.73,0:19:57.95,Default,FERN,0,0,0,,Though I lost my home to war,
+Dialogue: 0,0:19:58.67,0:20:02.76,Default,FERN,0,0,0,,thanks to him, I kept \Nmy precious memories.
+Dialogue: 0,0:20:10.62,0:20:11.81,Default,STARK,0,0,0,,Me, too.
+Dialogue: 0,0:20:12.65,0:20:15.71,Default,STARK,0,0,0,,When I told you I fled from my home,
+Dialogue: 0,0:20:16.32,0:20:20.94,Default,STARK,0,0,0,,you said that didn't matter \Nand believed in me.
+Dialogue: 0,0:20:22.72,0:20:27.41,Default,STARK,0,0,0,,Come to think of it, \Nyou're always encouraging me.
+Dialogue: 0,0:20:27.41,0:20:28.44,Default,STARK,0,0,0,,Why is that?
+Dialogue: 0,0:20:35.71,0:20:38.21,Default,FERN,0,0,0,,Because that's what Ms. Frieren would do.
+Dialogue: 0,0:20:39.96,0:20:45.01,Credits,CREDITS,0,0,0,,{\fad(526,517)\fs10\pos(525,120)\bord1\blur1}Translation\N{\fs12}Sho Stifler\N\N{\fs10}Editing & Typesetting\N{\fs12}Geoff Mazzolini\N\N{\fs10}Subtitle Timing\N{\fs12}Edgar Cruz\N\N{\fs10}Quality Check\N{\fs12}Alicia Ashby\N\N{\fs10}Translation Check\N{\fs12}Elizabeth Ellis
+Dialogue: 0,0:20:58.76,0:21:03.39,Default,FERN,0,0,0,,Ms. Frieren, why did you buy a magic \Nitem here when prices are so high?
+Dialogue: 0,0:21:04.10,0:21:06.65,Default,FRIEREN,0,0,0,,You can't find stuff like this everywhere.
+Dialogue: 0,0:21:06.93,0:21:09.99,Default,STARK,0,0,0,,We'll be short on money for a while.
+Dialogue: 0,0:21:11.35,0:21:15.27,Default,FERN,0,0,0,,I thought this might happen \Nand hid half our funds.
+Dialogue: 0,0:21:15.27,0:21:16.53,Default,STARK,0,0,0,,Seriously?
+Dialogue: 0,0:21:17.12,0:21:18.79,Default,FRIEREN,0,0,0,,You never let me down, Fern.
+Dialogue: 0,0:21:20.03,0:21:22.43,Default,FRIEREN,0,0,0,,This is why you're my student.
+Dialogue: 0,0:21:24.12,0:21:25.41,Default,STARK,0,0,0,,You're okay with that?
+Dialogue: 0,0:21:57.75,0:21:59.39,Default,FRIEREN,0,0,0,,Shall we go, then?
+Dialogue: 0,0:22:05.30,0:22:08.39,Default,LERNEN,0,0,0,,This is Edel, a second-class mage.
+Dialogue: 0,0:22:09.06,0:22:11.51,Default,LERNEN,0,0,0,,She's an expert in mental magic.
+Dialogue: 0,0:22:12.16,0:22:15.89,Default,LERNEN,0,0,0,,I brought her here to reexamine the area.
+Dialogue: 0,0:22:16.38,0:22:21.73,Default,LERNEN,0,0,0,,I believe the information she acquired \Nwill be very useful to you.
+Dialogue: 0,0:22:23.28,0:22:25.02,Default,EDEL,0,0,0,,Denken, give me your hand.
+Dialogue: 0,0:22:25.53,0:22:27.84,Default,EDEL,0,0,0,,I'll transfer the memories to you.
+Dialogue: 0,0:22:30.20,0:22:31.26,Default,DENKEN,0,0,0,,Sure.
+Dialogue: 0,0:22:40.64,0:22:43.12,Default,LERNEN,0,0,0,,The handover is now complete.
+Dialogue: 0,0:22:45.01,0:22:50.87,Default,LERNEN,0,0,0,,Your job is to maintain and manage \Nthe barrier around the Golden Land.
+Dialogue: 0,0:22:50.87,0:22:54.69,Default,LERNEN,0,0,0,,Do not stray from your duties.
+Dialogue: 0,0:23:01.37,0:23:02.55,Default,EDEL,0,0,0,,Denken.
+Dialogue: 0,0:23:03.99,0:23:06.00,Default,EDEL,0,0,0,,Give up on visiting her grave.
+Dialogue: 0,0:23:07.45,0:23:09.28,Default,DENKEN,0,0,0,,I know.
+Dialogue: 0,0:23:13.93,0:23:15.72,Default,EDEL,0,0,0,,He intends to die.
+Dialogue: 0,0:23:17.32,0:23:19.58,Default,LERNEN,0,0,0,,I'm a bit jealous.
+Dialogue: 0,0:23:20.09,0:23:23.96,Default,LERNEN,0,0,0,,I can't defy Ms. Serie's orders.
+Dialogue: 0,0:23:27.57,0:23:31.43,Default,LERNEN,0,0,0,,He's up against the last and strongest \Nof the Seven Sages of Destruction,
+Dialogue: 0,0:23:32.65,0:23:35.10,Default,LERNEN,0,0,0,,Macht of the Golden Land.
+Dialogue: 0,0:23:37.35,0:23:41.86,Default,LERNEN,0,0,0,,And he'll fight him to save \Nhis gold-turned homeland.
+Dialogue: 0,0:23:42.98,0:23:47.70,Default,LERNEN,0,0,0,,He's like the hero in a fairy tale.

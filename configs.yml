@@ -1,0 +1,116 @@
+github:
+  username: JavaRaf                      # Your GitHub username (format: string)
+  repo: season2                          # The name of the repo where the episodes which the frames are stored
+  branch: master                         # The branch of the repo where the episodes which the frames are stored
+  # Example: 
+  # javaRafa/                            # username
+  # └── season2/                         # repo name
+  #     └── 01/                          # episode folder name (name of the episode folder) (ex: 01, 02, 03, etc.)
+  #         ├── frame_0001.jpg
+  #         ├── frame_0002.jpg
+  #         └── frame_0003.jpg
+
+
+# progress
+in_progress:
+  season: 2                              # Season in progress (starting from 1)(format: integer) 
+  episode: 1                             # Episode in progress (starting from 1)(format: integer)
+  frame: 0                               # last frame posted if script stopped (starting from 0)(format: integer)
+
+
+
+episodes:
+  1:
+    title: "Shall We Go, Then?"          # title for the episode (optional) (format: string)
+    image_fps: 3.5                       # frames per second of the image/video (necessary to know when to stop posting)
+    max_frames: 5040                     # maximum frames in the episode (exigid to know when to stop posting)
+    album_id: 122307167336068249         # album id for repost frames in a facebook album (optional)       
+  2:
+    title: "The Hero of the South"       # title for the episode (optional) (format: string)
+    image_fps: 3.5                       # frames per second of the image/video (necessary to know when to stop posting)
+    max_frames: 5040                     # maximum frames in the episode (exigid to know when to stop posting)
+    album_id: 122307167462068249         # album id for repost frames in a facebook album (optional)
+  3:
+    title: "Somewhere She'd Like"        # title for the episode (optional) (format: string)
+    image_fps: 3.5                       # frames per second of the image/video (necessary to know when to stop posting)
+    max_frames: 5040                     # maximum frames in the episode (exigid to know when to stop posting)
+    album_id: 122307167462068249         # album id for repost frames in a facebook album (optional)
+  4:
+    title: "Other People's Homes"        # title for the episode (optional)
+    image_fps: 3.5                       # frames per second of the image/video (necessary to know when to stop posting)
+    max_frames: 5040                     # maximum frames in the episode (exigid to know when to stop posting)
+    album_id: 122307168134068249         # album id for repost frames in a facebook album (optional)
+  5:
+    title: "Logistics in the Northern Plateau"          # title for the episode (optional)
+    image_fps: 3.5                       # frames per second of the image/video (necessary to know when to stop posting)
+    max_frames: 5040                     # maximum frames in the episode (exigid to know when to stop posting)
+    album_id: 122307168188068249         # album id for repost frames in a facebook album (optional)
+  6: 
+    title: "A Demon-Slaying Request"     # title for the episode (optional)
+    image_fps: 3.5                       # frames per second of the image/video (necessary to know when to stop posting)
+    max_frames: 5040                     # maximum frames in the episode (exigid to know when to stop posting)
+    album_id: 122307168248068249         # album id for repost frames in a facebook album (optional)
+  7:
+    title: "The Divine Revolte"          # title for the episode (optional)
+    image_fps: 3.5                       # frames per second of the image/video (necessary to know when to stop posting)
+    max_frames: 5040                     # maximum frames in the episode (exigid to know when to stop posting)
+    album_id: 122307168260068249         # album id for repost frames in a facebook album (optional)
+  8:
+    title:  "A Magnificent End"          # title for the episode (optional)
+    image_fps: 3.5                       # frames per second of the image/video (necessary to know when to stop posting)
+    max_frames: 5040                     # maximum frames in the episode (exigid to know when to stop posting)
+    album_id: 122307168308068249         # album id for repost frames in a facebook album (optional)
+  9:
+    title: "Himmel's Memoirs"            # title for the episode (optional)
+    image_fps: 3.5                       # frames per second of the image/video (necessary to know when to stop posting)
+    max_frames: 5040                     # maximum frames in the episode (exigid to know when to stop posting)
+    album_id: 122307168350068249         # album id for repost frames in a facebook album (optional)
+  10:
+    title: "A Beautiful Sight"           # title for the episode (optional)
+    image_fps: 3.5                       # frames per second of the image/video (necessary to know when to stop posting)
+    max_frames: 5005                     # maximum frames in the episode (exigid to know when to stop posting)
+    album_id: 122307168464068249         # album id for repost frames in a facebook album (optional)
+  
+
+
+
+posting:
+  fph: 10                                 # Frames posted per cicle (format: integer)(ciles are determined by the execution interval in the workflow file)                            
+  posting_interval: 2                     # Interval between posts in minutes (recomended: 2 or more)(format: integer)
+  posting_subtitles: true                 # If true, the subtitles will be posted on comments (format: boolean)
+  reposting_in_album: true                # If true, the frame will be reposted in an album (format: boolean)
+
+  random_crop:                            # Random crop settings (optional)
+    enabled: true                         # If true, the image will be cropped randomly and posted on comments (default: true) (format: boolean)
+    min_x: 200                            # Minimum crop width (default: 200) (format: integer)
+    min_y: 600                            # Minimum crop height (default: 600) (format: integer)
+
+
+
+
+
+
+
+
+
+# placeholders:
+#   {season_number} The season number
+#   {episode_number} The episode number
+#   {frame_number} The frame number
+#   {max_frames} The maximum frames in the episode
+#   {img_fps} The frames per second of the image/video
+#   {fph} The frames per hour
+
+#   {timestamp} The timestamp of the frame
+#   {subtitles} The subtitles of the frame
+#   {episode_title} The title of the episode
+#   {posting_interval} The interval between posts in minutes (default: 2) (alterable in the configs.yml file)
+#   {execution_interval} The interval between execution (default: 2 hours) (alterable in the workflow file)
+post_msg: |
+  Season {season_number}, Episode {episode_number} - {episode_title}, Frame {frame_number} out of {max_frames}
+  timestamp: {timestamp}
+
+bio_msg: |
+  Looking for any frame? All frames available at https://javaraf.github.io/frame-viewer
+  Posting {fph} frames every {execution_interval} hours
+

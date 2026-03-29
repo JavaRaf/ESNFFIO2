@@ -1,0 +1,237 @@
+﻿[Script Info]
+Title: [Erai-raws]
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,40,40,15,1
+Style: DefaultItalics,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,10,10,15,0
+Style: DefaultTop,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,10,10,15,0
+Style: DefaultOverlap,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00666666,&H00666666,-1,0,0,0,100,100,0,0,1,2,1,2,10,10,18,0
+Style: DefaultOverlapTop,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00666666,&H00666666,-1,0,0,0,100,100,0,0,1,2,1,8,10,10,15,0
+Style: Flashback,Trebuchet MS,22,&H00FBFBFE,&H000000FF,&H005C0718,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,40,40,15,0
+Style: Signs,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,30,30,10,0
+Style: Signs_EpTitle,Times New Roman,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,30,30,10,0
+Style: Signs_NextEp,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,30,30,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:30.00,0:01:33.00,Signs_EpTitle,EPTITLE,0,0,0,,{\blur0.2\c&HFAFFF7&\pos(394,269.5)}Episódio 36: Um fim magnífico
+Dialogue: 0,0:02:15.57,0:02:18.58,DefaultItalics,GENAU/ID,0,0,0,,Como eu pensei, isso não será fácil.
+Dialogue: 0,0:02:20.95,0:02:25.01,DefaultItalics,GENAU/ID,0,0,0,,É como lutar contra vários mestres\Nespadachins ao mesmo tempo.
+Dialogue: 0,0:02:25.62,0:02:27.79,DefaultItalics,GENAU/ID,0,0,0,,Além do enorme número de ataques,
+Dialogue: 0,0:02:27.79,0:02:31.01,DefaultItalics,GENAU/ID,0,0,0,,os reflexos e a resistência dele\Nsuperam muito os níveis humanos.
+Dialogue: 0,0:02:31.99,0:02:34.09,DefaultItalics,GENAU/ID,0,0,0,,Stark está sendo dominado.
+Dialogue: 0,0:02:34.09,0:02:38.00,DefaultItalics,GENAU/ID,0,0,0,,Se isso virar uma batalha de resistência,\Ncom certeza vamos perder.
+Dialogue: 0,0:02:38.97,0:02:41.05,DefaultItalics,GENAU/ID,0,0,0,,Devemos recuar e nos reagrupar?
+Dialogue: 0,0:02:41.97,0:02:46.65,DefaultItalics,GENAU/ID,0,0,0,,Não, ele é mais rápido que nós.\NEle nos alcançaria.
+Dialogue: 0,0:02:47.92,0:02:51.24,DefaultItalics,STARK/ID,0,0,0,,Isso é ruim. A Frieren estava certa.
+Dialogue: 0,0:02:51.24,0:02:53.15,DefaultItalics,STARK/ID,0,0,0,,Não consigo ler os ataques dele.
+Dialogue: 0,0:02:55.15,0:02:56.66,DefaultItalics,STARK/ID,0,0,0,,Nesse caso...
+Dialogue: 0,0:03:01.13,0:03:04.13,DefaultItalics,GENAU/ID,0,0,0,,Idiota. Eu disse para ele não\Nencarar os ataques de frente.
+Dialogue: 0,0:03:04.60,0:03:05.64,Default,REVOLTE,0,0,0,,Você é meu.
+Dialogue: 0,0:03:07.88,0:03:10.44,DefaultItalics,GENAU/ID,0,0,0,,Ele se deixou ser cortado de propósito?
+Dialogue: 0,0:03:10.44,0:03:11.90,DefaultItalics,GENAU/ID,0,0,0,,Esse garoto é duro na queda.
+Dialogue: 0,0:03:18.25,0:03:21.88,Default,GENAU,0,0,0,,Stark, você é um guerreiro habilidoso.
+Dialogue: 0,0:03:21.88,0:03:24.52,Default,GENAU,0,0,0,,Criou a pequena abertura\Nde que eu precisava.
+Dialogue: 0,0:03:33.86,0:03:36.12,Default,GENAU,0,0,0,,Acabou, Revolte.
+Dialogue: 0,0:03:36.61,0:03:38.87,Default,REVOLTE,0,0,0,,Espere. Agora eu me lembro.
+Dialogue: 0,0:03:40.12,0:03:44.50,Default,REVOLTE,0,0,0,,Você é o parceiro do mago\Nde nível um que eu matei antes.
+Dialogue: 0,0:03:45.28,0:03:48.38,Default,REVOLTE,0,0,0,,Lembro que a situação\Nera parecida com esta.
+Dialogue: 0,0:03:48.38,0:03:54.26,Default,REVOLTE,0,0,0,,Você tinha saído para matar outros demônios\Nenquanto seu parceiro defendia a vila.
+Dialogue: 0,0:03:54.84,0:04:00.09,Default,REVOLTE,0,0,0,,Quando você voltou, já era tarde demais.
+Dialogue: 0,0:04:00.49,0:04:03.59,Default,REVOLTE,0,0,0,,Não quer saber como seu parceiro morreu?
+Dialogue: 0,0:04:03.59,0:04:04.59,Default,GENAU,0,0,0,,Cale-se.
+Dialogue: 0,0:04:05.15,0:04:09.61,Default,REVOLTE,0,0,0,,Aprendi uma lição realmente\Ninteressante naquela batalha.
+Dialogue: 0,0:04:09.61,0:04:12.70,Default,GENAU,0,0,0,,Tudo bem. Eu mesmo irei silenciá-lo.
+Dialogue: 0,0:04:14.05,0:04:18.12,Default,REVOLTE,0,0,0,,Então tenho um último\Nconselho para você.
+Dialogue: 0,0:04:18.55,0:04:22.84,Default,REVOLTE,0,0,0,,Você deveria verificar melhor\Nse há sobreviventes.
+Dialogue: 0,0:04:24.39,0:04:25.44,DefaultItalics,GENAU,0,0,0,,Uma criança?
+Dialogue: 0,0:04:32.37,0:04:33.84,Default,GENAU,0,0,0,,Só está adiando o inevitável.
+Dialogue: 0,0:04:47.12,0:04:50.83,Default,JUNG,0,0,0,,Eu consegui! Eu consegui, Lorde Revolte!
+Dialogue: 0,0:04:50.83,0:04:51.66,Default,JUNG,0,0,0,,Me parabe—
+Dialogue: 0,0:04:57.37,0:04:59.88,Default,REVOLTE,0,0,0,,Muito bem. Você tem minha gratidão.
+Dialogue: 0,0:05:00.72,0:05:02.75,DefaultItalics,GENAU/ID,0,0,0,,Eu perdi a noção de julgar naquela hora.
+Dialogue: 0,0:05:03.09,0:05:05.85,DefaultItalics,GENAU/ID,0,0,0,,Por um momento, só consegui pensar nele.
+Dialogue: 0,0:05:06.25,0:05:10.57,DefaultItalics,GENAU/ID,0,0,0,,Eu sabia que não poderia\Nhaver uma criança aqui.
+Dialogue: 0,0:05:12.68,0:05:19.14,Default,REVOLTE,0,0,0,,Eu estava certo. Humanos têm\No hábito de proteger os mais jovens.
+Dialogue: 0,0:05:21.28,0:05:23.04,Default,GENAU,0,0,0,,Temos mesmo?
+Dialogue: 0,0:05:23.04,0:05:28.98,Default,GENAU,0,0,0,,Se isso fosse verdade, o mundo\Nseria um lugar mais pacífico.
+Dialogue: 0,0:05:29.57,0:05:36.16,Default,GENAU,0,0,0,,Eu só conheci um idiota que morreu\Nprotegendo uma criança que nem conhecia.
+Dialogue: 0,0:05:39.63,0:05:43.62,Flashback,SERIE,0,0,0,,Talvez ele fosse bondoso demais.
+Dialogue: 0,0:05:44.06,0:05:45.86,Flashback,SERIE,0,0,0,,É assim em todas as eras.
+Dialogue: 0,0:05:46.72,0:05:49.63,Flashback,SERIE,0,0,0,,Magos bondosos não vivem muito.
+Dialogue: 0,0:05:50.03,0:05:52.14,Flashback,GENAU,0,0,0,,Ele teve um fim magnífico.
+Dialogue: 0,0:05:54.96,0:05:57.39,Flashback,SERIE,0,0,0,,Então até você diz coisas\Nque não quer dizer.
+Dialogue: 0,0:05:57.98,0:06:01.00,Flashback,SERIE,0,0,0,,Genau, você é um homem desagradável.
+Dialogue: 0,0:06:01.45,0:06:03.30,Flashback,SERIE,0,0,0,,Não tem um pingo de gentileza sequer.
+Dialogue: 0,0:06:08.31,0:06:10.05,Flashback,SERIE,0,0,0,,Continue assim para sempre.
+Dialogue: 0,0:06:13.42,0:06:14.91,Flashback,GENAU,0,0,0,,Como desejar.
+Dialogue: 0,0:06:16.24,0:06:20.27,Default,REVOLTE,0,0,0,,Eu não gosto de matar.
+Dialogue: 0,0:06:20.71,0:06:22.49,Default,REVOLTE,0,0,0,,Darei um fim ao seu sofrimento.
+Dialogue: 0,0:06:24.43,0:06:28.24,Default,GENAU,0,0,0,,Eu realmente não devia ter\Nagido fora da minha moral.
+Dialogue: 0,0:06:37.26,0:06:38.77,Default,REVOLTE,0,0,0,,Estou surpreso.
+Dialogue: 0,0:06:39.29,0:06:45.81,Default,REVOLTE,0,0,0,,Não pensei que existisse um guerreiro vivo\Ncapaz de parar um golpe direto meu.
+Dialogue: 0,0:06:46.51,0:06:51.28,Default,GENAU,0,0,0,,Ainda consegue se mover?\NVocê deveria ter se fingido de morto.
+Dialogue: 0,0:06:51.76,0:06:53.92,Default,STARK,0,0,0,,Assim, seríamos derrotados.
+Dialogue: 0,0:06:55.39,0:07:00.53,Default,STARK,0,0,0,,As batalhas são vencidas\Npor quem fica de pé no final!
+Dialogue: 0,0:07:01.22,0:07:05.71,Default,GENAU,0,0,0,,Achei que você fosse uma boa\Npessoa, mas é só um idiota.
+Dialogue: 0,0:07:06.41,0:07:09.00,Default,GENAU,0,0,0,,Mas não é uma filosofia ruim.
+Dialogue: 0,0:07:11.25,0:07:14.85,Default,GENAU,0,0,0,,Caminharei para as mandíbulas\Nda morte com você, Stark.
+Dialogue: 0,0:07:15.19,0:07:20.60,Default,GENAU,0,0,0,,Quanto mais desesperada a batalha,\Nmaior o alívio quando você sobrevive.
+Dialogue: 0,0:07:20.98,0:07:25.09,Default,STARK,0,0,0,,Estou ansioso por isso.\NNão consigo parar de tremer.
+Dialogue: 0,0:07:39.23,0:07:40.40,DefaultItalics,FERN/ID,0,0,0,,O que devo fazer?
+Dialogue: 0,0:07:43.76,0:07:47.04,DefaultItalics,FERN/ID,0,0,0,,Em algum momento,\Na Srta. Frieren desapareceu.
+Dialogue: 0,0:07:51.67,0:07:55.81,Default,FRIEREN,0,0,0,,É bom observar de longe, de vez em quando.
+Dialogue: 0,0:08:09.78,0:08:12.70,Default,HEMMUNG,0,0,0,,É inútil tentar ocultar\Nsua mana e se esconder.
+Dialogue: 0,0:08:14.16,0:08:17.86,Default,HEMMUNG,0,0,0,,Eu criei esta névoa com magia.
+Dialogue: 0,0:08:17.86,0:08:21.78,Default,HEMMUNG,0,0,0,,Ela consegue detectar e identificar alvos\Na partir dos menores traços de mana.
+Dialogue: 0,0:08:22.77,0:08:26.99,Default,HEMMUNG,0,0,0,,Nenhuma criatura viva consegue\Nesconder completamente sua mana.
+Dialogue: 0,0:08:35.70,0:08:39.46,DefaultItalics,FERN/ID,0,0,0,,A visibilidade é ruim, e ele\Nestá bloqueando meus ataques.
+Dialogue: 0,0:08:40.03,0:08:41.53,DefaultItalics,FERN/ID,0,0,0,,É um confronto desfavorável.
+Dialogue: 0,0:08:57.85,0:09:01.74,DefaultItalics,METHODE/ID,0,0,0,,Sinto que a Srta. Fern\Ntambém está tendo dificuldades.
+Dialogue: 0,0:09:02.23,0:09:03.81,DefaultItalics,METHODE/ID,0,0,0,,É compreensível.
+Dialogue: 0,0:09:03.81,0:09:07.48,DefaultItalics,METHODE/ID,0,0,0,,Parece que o oponente dela é um demônio\Nque usa magia pouco convencional.
+Dialogue: 0,0:09:07.48,0:09:09.00,Default,SOLIDE,0,0,0,,Medrozobalt.
+Dialogue: 0,0:09:13.30,0:09:17.05,Default,SOLIDE,0,0,0,,Para onde está olhando?\NSua adversária sou eu.
+Dialogue: 0,0:09:17.05,0:09:18.76,Default,METHODE,0,0,0,,Eu sei disso.
+Dialogue: 0,0:09:29.34,0:09:32.84,DefaultItalics,METHODE/ID,0,0,0,,Enquanto isso, minha oponente é o oposto.
+Dialogue: 0,0:09:32.84,0:09:36.11,DefaultItalics,METHODE/ID,0,0,0,,Seu estilo de combate é sólido.
+Dialogue: 0,0:09:36.11,0:09:39.86,DefaultItalics,METHODE/ID,0,0,0,,Estou presa na defesa.\NOs fundamentos dela são consistentes.
+Dialogue: 0,0:09:40.43,0:09:41.81,DefaultItalics,METHODE/ID,0,0,0,,Ela simplesmente não tem aberturas.
+Dialogue: 0,0:09:42.68,0:09:46.20,DefaultItalics,METHODE/ID,0,0,0,,Não devo enfrentá-la de frente.
+Dialogue: 0,0:09:51.41,0:09:56.17,DefaultItalics,METHODE/ID,0,0,0,,Idealmente, eu trabalharia com\Na Srta. Fern para derrubar os dois,
+Dialogue: 0,0:09:56.61,0:10:00.92,DefaultItalics,METHODE/ID,0,0,0,,mas essa névoa provavelmente tem\Nfortes capacidades de detecção de mana.
+Dialogue: 0,0:10:01.54,0:10:06.39,DefaultItalics,METHODE/ID,0,0,0,,No momento, a Srta. Fern não pode\Nusar furtividade, seu maior trunfo.
+Dialogue: 0,0:10:06.39,0:10:12.40,DefaultItalics,METHODE/ID,0,0,0,,Nesse caso, a situação mudaria muito\Nse essa névoa mágica fosse removida.
+Dialogue: 0,0:10:13.30,0:10:15.27,Default,METHODE,0,0,0,,Devo me soltar um pouco?
+Dialogue: 0,0:10:26.61,0:10:27.81,DefaultItalics,SOLIDE/ID,0,0,0,,Uma sequência de golpes?
+Dialogue: 0,0:10:27.81,0:10:29.67,DefaultItalics,SOLIDE/ID,0,0,0,,O padrão de ataque dela mudou!
+Dialogue: 0,0:10:49.62,0:10:53.64,Default,SOLIDE,0,0,0,,Reconheço esse estilo de luta.
+Dialogue: 0,0:10:53.99,0:10:58.71,Default,SOLIDE,0,0,0,,É parecido com um usado por um clã\Nque caçava demônios no Planalto Norte.
+Dialogue: 0,0:10:59.75,0:11:04.54,Default,SOLIDE,0,0,0,,Um clã assombroso que dedicou\Na vida a matar demônios.
+Dialogue: 0,0:11:04.89,0:11:06.92,Default,SOLIDE,0,0,0,,Interessante.
+Dialogue: 0,0:11:07.78,0:11:09.96,Default,SOLIDE,0,0,0,,Esta deve ser uma boa luta.
+Dialogue: 0,0:11:11.06,0:11:13.17,Default,SOLIDE,0,0,0,,Vamos ter uma luta justa.
+Dialogue: 0,0:11:21.45,0:11:24.59,DefaultItalics,GENAU/ID,0,0,0,,Ele é rápido. Não consigo acertar\Nnenhum dos meus feitiços.
+Dialogue: 0,0:11:26.81,0:11:32.75,DefaultItalics,GENAU/ID,0,0,0,,Seus movimentos magistralmente treinados\Nse tornaram os de um predador selvagem.
+Dialogue: 0,0:11:38.76,0:11:42.52,DefaultItalics,GENAU/ID,0,0,0,,Ele ainda está lutando apesar\Ndos ferimentos mortais que sofreu.
+Dialogue: 0,0:11:43.01,0:11:47.73,DefaultItalics,GENAU/ID,0,0,0,,Sua resistência é sobre-humana,\Ne seu vigor é inesgotável.
+Dialogue: 0,0:11:48.04,0:11:51.70,DefaultItalics,GENAU/ID,0,0,0,,Nesse ritmo, ele realmente\Nvai nos matar por desgaste.
+Dialogue: 0,0:12:47.12,0:12:49.97,Default,STARK,0,0,0,,Genau, as espadas dele enfraqueceram!
+Dialogue: 0,0:12:49.97,0:12:51.34,Default,STARK,0,0,0,,Vamos quebrá-las!
+Dialogue: 0,0:12:51.34,0:12:57.47,Default,GENAU/ID,0,0,0,,Nem mesmo ele tem mais concentração\Npara manter a mana nas espadas.
+Dialogue: 0,0:12:57.98,0:12:59.41,Default,STARK,0,0,0,,Faltam três!
+Dialogue: 0,0:13:04.95,0:13:06.14,DefaultItalics,SOLIDE,0,0,0,,Espere.
+Dialogue: 0,0:13:06.14,0:13:08.02,DefaultItalics,SOLIDE,0,0,0,,Por que algo parece estranho?
+Dialogue: 0,0:13:09.10,0:13:13.87,DefaultItalics,SOLIDE,0,0,0,,Os ataques dela são ferozes,\Nmas não sinto intenção de matar.
+Dialogue: 0,0:13:14.35,0:13:17.36,Default,METHODE,0,0,0,,Ora, ora. Você realmente é perspicaz.
+Dialogue: 0,0:13:18.29,0:13:21.88,Default,METHODE,0,0,0,,Mas demorou demais para perceber.
+Dialogue: 0,0:13:21.88,0:13:24.37,Default,METHODE,0,0,0,,Acabei de terminar de analisar a névoa.
+Dialogue: 0,0:13:27.30,0:13:32.64,Default,METHODE,0,0,0,,Aqueles que só sabem lutar\Nsó aprendem feitiços para o combate.
+Dialogue: 0,0:13:32.96,0:13:38.40,Default,METHODE,0,0,0,,Qualquer outro membro do meu clã\Nprovavelmente não teria saído daqui.
+Dialogue: 0,0:13:39.06,0:13:43.27,Default,METHODE,0,0,0,,Porque duvido que eles saibam\No quanto a magia pode ser divertida.
+Dialogue: 0,0:13:47.39,0:13:49.32,Default,METHODE,0,0,0,,Erilfrachte.
+Dialogue: 0,0:13:56.61,0:13:58.42,DefaultItalics,HEMMUNG/ID,0,0,0,,A névoa se dissipou.
+Dialogue: 0,0:13:59.00,0:14:00.41,DefaultItalics,HEMMUNG/ID,0,0,0,,Que inútil.
+Dialogue: 0,0:14:01.56,0:14:04.03,DefaultItalics,HEMMUNG/ID,0,0,0,,Posso simplesmente criá-la novamente.
+Dialogue: 0,0:14:09.03,0:14:11.21,Default,HEMMUNG,0,0,0,,Para onde aquela garota foi?
+Dialogue: 0,0:14:22.72,0:14:24.97,Default,SOLIDE,0,0,0,,A mana de Hemmung desapareceu.
+Dialogue: 0,0:14:39.12,0:14:41.83,DefaultItalics,SOLIDE,0,0,0,,Um ataque? De onde?
+Dialogue: 0,0:14:55.04,0:14:56.56,Default,FERN,0,0,0,,Zoltraak.
+Dialogue: 0,0:15:00.75,0:15:02.32,Default,SOLIDE,0,0,0,,Ela está tão longe—
+Dialogue: 0,0:15:12.07,0:15:15.55,Default,FRIEREN,0,0,0,,Um ataque de alcance extremamente longo,\Nvindo de fora do raio de detecção deles,
+Dialogue: 0,0:15:15.55,0:15:17.23,Default,FRIEREN,0,0,0,,cuja trajetória não pode ser prevista.
+Dialogue: 0,0:15:18.03,0:15:20.61,Default,FRIEREN,0,0,0,,Nada mal, Fern. Estou impressionada.
+Dialogue: 0,0:15:22.89,0:15:25.88,Default,FERN,0,0,0,,Prefiro não ter outra\Nbatalha tão difícil de novo.
+Dialogue: 0,0:15:36.56,0:15:37.61,Default,STARK,0,0,0,,Faltam duas!
+Dialogue: 0,0:15:40.13,0:15:41.59,Default,GENAU,0,0,0,,Uma!
+Dialogue: 0,0:15:51.18,0:15:53.18,Default,GENAU,0,0,0,,Acabou, Revolte.
+Dialogue: 0,0:16:01.09,0:16:05.69,Default,REVOLTE,0,0,0,,Só os humanos pensam que mãos vazias\Nnão podem ser armas por si só.
+Dialogue: 0,0:16:06.22,0:16:10.70,Default,REVOLTE,0,0,0,,Seu erro fatal foi achar que eu não\Npoderia lutar se me desarmassem.
+Dialogue: 0,0:16:11.29,0:16:13.07,Default,REVOLTE,0,0,0,,Eu venci.
+Dialogue: 0,0:16:14.25,0:16:19.46,Default,GENAU,0,0,0,,{\i1}Nosso{\i0} erro fatal? Acho que verá que tanto\Nhumanos quanto demônios cometem esses erros.
+Dialogue: 0,0:16:20.01,0:16:23.09,Default,GENAU,0,0,0,,Você não sabe o quão obstinados\Nos humanos podem ser.
+Dialogue: 0,0:16:36.14,0:16:37.66,Default,STARK,0,0,0,,Corte Reluzente!
+Dialogue: 0,0:16:43.65,0:16:45.15,Default,GENAU,0,0,0,,Digardnacht.
+Dialogue: 0,0:17:04.02,0:17:07.47,Flashback,STARK,0,0,0,,Você também me parece uma boa pessoa.
+Dialogue: 0,0:17:08.68,0:17:12.21,Flashback,STARK,0,0,0,,Ainda está tentando defender a vila,\Nmesmo após ela ter sido destruída.
+Dialogue: 0,0:17:13.41,0:17:15.51,Flashback,STARK,0,0,0,,Eu não conseguiria fazer isso.
+Dialogue: 0,0:17:29.83,0:17:32.74,Flashback,PARTNER,0,0,0,,Você ainda está tentando me salvar.
+Dialogue: 0,0:17:37.47,0:17:39.08,Flashback,PARTNER,0,0,0,,Eu sabia.
+Dialogue: 0,0:17:39.94,0:17:42.33,Flashback,PARTNER,0,0,0,,No fim das contas, você é um cara legal.
+Dialogue: 0,0:18:15.96,0:18:17.52,Default,GENAU,0,0,0,,Methode.
+Dialogue: 0,0:18:18.41,0:18:21.37,Default,GENAU,0,0,0,,Falhei em morrer de novo?
+Dialogue: 0,0:18:21.37,0:18:23.12,Default,METHODE,0,0,0,,É o que parece.
+Dialogue: 0,0:18:23.78,0:18:25.80,Default,GENAU,0,0,0,,Chega. Já consigo me mover.
+Dialogue: 0,0:18:30.42,0:18:31.63,Default,GENAU,0,0,0,,Como está o Stark?
+Dialogue: 0,0:18:31.63,0:18:35.26,Default,METHODE,0,0,0,,Foi por pouco, mas ele vai sobreviver.
+Dialogue: 0,0:18:37.55,0:18:40.77,Default,METHODE,0,0,0,,Eu priorizei curá-lo antes de você.
+Dialogue: 0,0:18:52.86,0:18:54.03,Default,GENAU,0,0,0,,Entendo.
+Dialogue: 0,0:18:54.30,0:18:56.03,Default,METHODE,0,0,0,,Isso te incomoda?
+Dialogue: 0,0:18:56.03,0:18:59.78,Default,GENAU,0,0,0,,Não. Ele se saiu bem.
+Dialogue: 0,0:19:00.95,0:19:05.47,Default,METHODE,0,0,0,,O grupo da Srta. Frieren vai\Nficar na vila por um tempo.
+Dialogue: 0,0:19:24.12,0:19:27.56,Default,STARK,0,0,0,,Parece que estou quase\Nrecuperado por completo.
+Dialogue: 0,0:19:27.94,0:19:29.57,Default,FRIEREN,0,0,0,,Ele está fazendo flexões.
+Dialogue: 0,0:19:29.57,0:19:33.07,Default,FERN,0,0,0,,Será que o Sr. Stark é algum tipo\Nde aberração da natureza?
+Dialogue: 0,0:19:33.63,0:19:34.68,Default,STARK,0,0,0,,Que maldade.
+Dialogue: 0,0:19:35.07,0:19:38.95,Default,METHODE,0,0,0,,Percebi que seu grupo\Nnão tem um sacerdote.
+Dialogue: 0,0:19:39.39,0:19:43.82,Default,METHODE,0,0,0,,Ficarei livre por um tempo\Nquando este trabalho terminar.
+Dialogue: 0,0:19:43.82,0:19:45.71,Default,METHODE,0,0,0,,Querem que eu acompanhe vocês?
+Dialogue: 0,0:19:47.11,0:19:50.84,Default,METHODE,0,0,0,,O Planalto Norte é perigoso\Nsem feitiços de sacerdote.
+Dialogue: 0,0:19:51.27,0:19:52.84,Default,FRIEREN,0,0,0,,Vamos ficar bem.
+Dialogue: 0,0:19:52.84,0:19:56.40,Default,FRIEREN,0,0,0,,Não consigo lançar nada de\Nalto nível como magia de cura,
+Dialogue: 0,0:19:56.40,0:19:59.45,Default,FRIEREN,0,0,0,,mas conheço alguns\Nfeitiços de sacerdote.
+Dialogue: 0,0:20:00.47,0:20:03.93,Default,FRIEREN,0,0,0,,Se nos metermos em problemas\Nsérios, sempre podemos fugir.
+Dialogue: 0,0:20:03.93,0:20:06.03,Default,FRIEREN,0,0,0,,Foi assim que sobrevivemos até agora.
+Dialogue: 0,0:20:06.96,0:20:11.11,Default,FRIEREN,0,0,0,,Além disso, queremos manter\Na vaga de sacerdote aberta.
+Dialogue: 0,0:20:12.75,0:20:15.33,Default,FRIEREN,0,0,0,,Pois talvez o encontremos\Nnovamente algum dia.
+Dialogue: 0,0:20:15.86,0:20:16.99,Default,FRIEREN,0,0,0,,E também...
+Dialogue: 0,0:20:18.10,0:20:21.56,Default,FRIEREN,0,0,0,,Por algum motivo, a Fern parece ficar\Ninfeliz quando você está por perto.
+Dialogue: 0,0:20:21.99,0:20:24.99,Default,METHODE,0,0,0,,Minha nossa. Fiz com que ela me odiasse.
+Dialogue: 0,0:20:25.45,0:20:28.84,Default,METHODE,0,0,0,,Mas eu também te amo, Srta. Fern.
+Dialogue: 0,0:20:28.84,0:20:31.19,Default,METHODE,0,0,0,,Você é tão fofa quando está com raiva.
+Dialogue: 0,0:20:32.16,0:20:33.00,Default,GENAU,0,0,0,,Methode.
+Dialogue: 0,0:20:33.55,0:20:35.63,Default,GENAU,0,0,0,,A Tropa de Cavaleiros de Norm chegou.
+Dialogue: 0,0:20:36.06,0:20:40.04,Default,GENAU,0,0,0,,Vamos acompanhá-los de volta ao sul.
+Dialogue: 0,0:20:40.76,0:20:42.41,Default,METHODE,0,0,0,,Entendido.
+Dialogue: 0,0:20:42.93,0:20:45.50,Default,GENAU,0,0,0,,É aqui que nos despedimos.
+Dialogue: 0,0:20:47.14,0:20:49.64,Default,GENAU,0,0,0,,Stark, como estão seus ferimentos?
+Dialogue: 0,0:20:51.14,0:20:53.27,Default,STARK,0,0,0,,Tudo certo. Eu tô cem por cento.
+Dialogue: 0,0:20:53.59,0:20:54.55,Default,GENAU,0,0,0,,Entendo.
+Dialogue: 0,0:20:55.42,0:20:57.90,Default,GENAU,0,0,0,,Fico devendo uma a todos vocês.
+Dialogue: 0,0:20:57.90,0:21:00.03,Default,GENAU,0,0,0,,Pretendo pagar essa dívida algum dia.
+Dialogue: 0,0:21:00.35,0:21:01.49,Default,METHODE,0,0,0,,Sr. Genau.
+Dialogue: 0,0:21:03.66,0:21:04.91,Default,METHODE,0,0,0,,Agradeça.
+Dialogue: 0,0:21:08.11,0:21:10.42,Default,GENAU,0,0,0,,Obrigado pela ajuda.
+Dialogue: 0,0:21:11.45,0:21:13.18,Default,STARK,0,0,0,,Não, eu que agradeço.
+Dialogue: 0,0:21:13.18,0:21:14.92,Default,STARK,0,0,0,,Espero que nós dois\Ntenhamos vidas longas.
+Dialogue: 0,0:21:17.45,0:21:18.59,Default,GENAU,0,0,0,,Vamos.
+Dialogue: 0,0:21:18.59,0:21:19.42,Default,METHODE,0,0,0,,Sim, senhor.
+Dialogue: 0,0:21:20.22,0:21:21.35,Default,FRIEREN,0,0,0,,Até a próxima.
+Dialogue: 0,0:21:21.96,0:21:22.75,Default,GENAU,0,0,0,,Sim.
+Dialogue: 0,0:21:23.23,0:21:24.75,Default,METHODE,0,0,0,,Que nos encontremos novamente.
+Dialogue: 0,0:21:53.84,0:21:56.71,Default,STARK,0,0,0,,Será que foi mesmo\Na decisão certa recusá-la?
+Dialogue: 0,0:21:58.46,0:22:00.47,Default,STARK,0,0,0,,É a Methode, entende?
+Dialogue: 0,0:22:01.05,0:22:03.72,Default,FRIEREN,0,0,0,,Este grupo já tem um sacerdote: o Sein.
+Dialogue: 0,0:22:03.72,0:22:07.46,Default,STARK,0,0,0,,Não, quero dizer que ela é\Numa mulher madura e bonita.
+Dialogue: 0,0:22:07.46,0:22:10.22,Default,STARK,0,0,0,,O Sein não vai reclamar quando\Nnos encontrarmos de novo?
+Dialogue: 0,0:22:10.90,0:22:15.92,Default,FRIEREN,0,0,0,,Quem se importa? Este grupo\Njá tem uma mulher madura.
+Dialogue: 0,0:22:17.22,0:22:18.93,Default,STARK,0,0,0,,Acho que é verdade.
+Dialogue: 0,0:22:29.54,0:22:34.12,Signs,sign,0,0,0,,{\fs14\i0\shad0\fnTimes New Roman\fad(500,500)\\c&H000000&\pos(123.395,85.923)}Legenda Brasileira\N\N{\b1}tradução{\b0}\NMarianna Brito\N\N{\b1}edição{\b0}\NMarcelo Gouvêa\N\N{\b1}revisão{\b0}\NJacques Junior\N\N{\b1}produção{\b0}\NGustavo Hoffmann
+Dialogue: 0,0:23:50.17,0:23:51.88,Default,FRIEREN,0,0,0,,Vai depender do pagamento.
+Dialogue: 0,0:23:50.75,0:23:54.31,DefaultOverlap,MAYOR,0,0,0,,Os dragões normalmente não viajam voando?
+Dialogue: 0,0:23:51.45,0:23:53.09,DefaultTop,EISEN,0,0,0,,Mas que azar terrível.
+Dialogue: 0,0:23:52.12,0:23:54.52,Default,HIMMEL,0,0,0,,Somos o grupo dos heróis.
+Dialogue: 0,0:23:53.65,0:23:55.92,DefaultTop,HEITER,0,0,0,,Eu poderia morrer de tédio assim.
+Dialogue: 0,0:23:54.54,0:23:56.40,Default,STARK,0,0,0,,Essa é uma tarefa muito difícil.
+Dialogue: 0,0:23:55.07,0:23:57.70,DefaultOverlapTop,SAILOR,0,0,0,,Eu o admiro desde criança.
+Dialogue: 0,0:23:56.56,0:23:58.27,Default,FERN,0,0,0,,O que diz aí?
+Dialogue: 0,0:23:57.64,0:24:10.93,Signs_NextEp,SIGN,0,0,0,,{\fad(229,1)\blur3\t(20,312,\blur0.2)\pos(320,113.5)\c&H000000&\t(312,646,\c&HF6F6F6&)\fsp1.6\t(\fsp1)}Episódio 37\N\N\N\N\N\N\N\NAs memórias de Himmel
+Dialogue: 0,0:23:58.27,0:23:59.88,Default,FRIEREN,0,0,0,,As memórias de Himmel...

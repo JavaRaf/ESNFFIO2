@@ -1,0 +1,269 @@
+﻿[Script Info]
+Title: [Erai-raws] Português (Brasil)
+ScriptType: v4.00+
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: DefaultItalics,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,0
+Style: DefaultTop,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0015,0
+Style: DefaultOverlap,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00666666,&H00666666,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: Flashback,Trebuchet MS,22,&H00FBFBFE,&H000000FF,&H005C0708,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+Style: FlashbackItalics,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,1
+Style: Signs,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0030,0030,0010,0
+Style: Signs_WText,Times New Roman,12,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,9,0030,0030,0010,0
+Style: Signs_EpTitle,Times New Roman,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0030,0030,0010,0
+Style: Signs_NextEp,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,0030,0030,0010,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:25.25,0:00:32.21,Signs,SIGN,0000,0000,0000,,{\fad(2000,473)\blur0.25\fs25\fnGeorgia\fsp3.9\c&HFDC89E&\t(2589,5326,\c&HFFFFFF&)\pos(323,252)}e a Jornada para o Além
+Dialogue: 0,0:01:29.98,0:01:32.98,Signs_EpTitle,EPTITLE,0000,0000,0000,,{\blur0.2\c&HFAFFF7&\pos(385,269.5)}Episódio 31: {\fscx80}Algum lugar de que ela gostaria
+Dialogue: 0,0:01:32.98,0:01:36.98,Signs_WText,SIGN,0000,0000,0000,,{\blur0.2\pos(588.5,16)}29 anos se passaram desde a morte do Herói Himmel.\NEstamos na Montanhas Etwas, nas Terras do Norte.
+Dialogue: 0,0:01:44.60,0:01:47.82,Default,STARK,0000,0000,0000,,Deu uma esquentadinha esses dias.
+Dialogue: 0,0:01:47.82,0:01:50.10,Default,FRIEREN,0000,0000,0000,,Esta é uma área vulcânica.
+Dialogue: 0,0:01:50.10,0:01:53.20,Default,FRIEREN,0000,0000,0000,,É uma região excepcionalmente\Nquente dentro das Terras do Norte.
+Dialogue: 0,0:01:53.20,0:01:56.22,Default,FERN,0000,0000,0000,,O que significa que finalmente podemos\Naproveitar umas fontes termais.
+Dialogue: 0,0:01:56.71,0:02:01.28,Default,FRIEREN,0000,0000,0000,,Isso mesmo. Provavelmente chegaremos\Nao próximo vilarejo em breve.
+Dialogue: 0,0:02:01.28,0:02:03.40,Default,FRIEREN,0000,0000,0000,,Podemos nos banhar lá.
+Dialogue: 0,0:02:18.33,0:02:22.37,Default,STARK,0000,0000,0000,,Ei, Frieren. Já estamos\Ncaminhando há um tempo.
+Dialogue: 0,0:02:22.67,0:02:24.33,Default,STARK,0000,0000,0000,,Falta muito?
+Dialogue: 0,0:02:26.62,0:02:29.87,Default,FRIEREN,0000,0000,0000,,O vilarejo deve ser por aqui.
+Dialogue: 0,0:02:33.72,0:02:35.75,Default,FERN,0000,0000,0000,,Estou vendo uma cabana.
+Dialogue: 0,0:02:37.22,0:02:39.01,Default,FRIEREN,0000,0000,0000,,É uma construção qualquer.
+Dialogue: 0,0:02:39.33,0:02:41.27,Default,FRIEREN,0000,0000,0000,,Estou com um mau pressentimento.
+Dialogue: 0,0:02:45.35,0:02:47.07,Default,BOY B,0000,0000,0000,,Espera, moço!
+Dialogue: 0,0:02:47.07,0:02:48.97,Default,BOY A,0000,0000,0000,,Depressa!
+Dialogue: 0,0:02:49.51,0:02:51.13,Default,STARK,0000,0000,0000,,Esperem por mim!
+Dialogue: 0,0:02:51.94,0:02:54.15,Default,OWNER,0000,0000,0000,,Isso traz tantas lembranças.
+Dialogue: 0,0:02:54.48,0:02:59.16,Default,OWNER,0000,0000,0000,,O vilarejo foi abandonado\Nhá mais de trinta anos.
+Dialogue: 0,0:03:00.40,0:03:05.07,Default,OWNER,0000,0000,0000,,A fonte termal secou, então\Nos aventureiros pararam de vir.
+Dialogue: 0,0:03:04.41,0:03:05.90,DefaultTop,STARK,0000,0000,0000,,Um de cada vez!
+Dialogue: 0,0:03:05.90,0:03:08.51,Default,FERN,0000,0000,0000,,Que pena, não é, Srta. Frieren?
+Dialogue: 0,0:03:12.16,0:03:16.22,Default,FRIEREN,0000,0000,0000,,Os vilarejos humanos sempre desaparecem\Nno momento em que você baixa a guarda.
+Dialogue: 0,0:03:16.86,0:03:20.51,Default,FRIEREN,0000,0000,0000,,Teremos que esperar até a próxima cidade\Npara aproveitar as fontes termais.
+Dialogue: 0,0:03:21.18,0:03:23.55,Default,SSTARK,0000,0000,0000,,Quão longe fica a próxima cidade?
+Dialogue: 0,0:03:24.07,0:03:25.98,Default,FRIEREN,0000,0000,0000,,Cerca de uma semana de viagem.
+Dialogue: 0,0:03:26.49,0:03:29.05,Default,FERN,0000,0000,0000,,Então temos que esperar\Numa semana inteira.
+Dialogue: 0,0:03:31.05,0:03:33.85,Default,STARK,0000,0000,0000,,Não há outras fontes termais por aqui?
+Dialogue: 0,0:03:36.58,0:03:38.07,Default,OWNER,0000,0000,0000,,Pensando bem,
+Dialogue: 0,0:03:38.49,0:03:41.21,Default,OWNER,0000,0000,0000,,ouvi do meu avô
+Dialogue: 0,0:03:41.21,0:03:45.08,Default,OWNER,0000,0000,0000,,que há uma fonte termal\Nescondida nas montanhas ali atrás.
+Dialogue: 0,0:03:46.58,0:03:51.16,Default,OWNER,0000,0000,0000,,Mas isso foi há mais de trinta anos.
+Dialogue: 0,0:03:52.32,0:03:54.43,Default,FRIEREN,0000,0000,0000,,É a fonte termal escondida\Ndas Montanhas Etwas.
+Dialogue: 0,0:03:55.71,0:03:57.35,Default,FERN,0000,0000,0000,,Você conhece?
+Dialogue: 0,0:03:57.80,0:04:00.59,Default,FRIEREN,0000,0000,0000,,Duvido que ainda esteja lá.
+Dialogue: 0,0:04:00.59,0:04:02.95,Default,FRIEREN,0000,0000,0000,,Fica bem no fundo das montanhas.
+Dialogue: 0,0:04:02.95,0:04:08.23,Default,FRIEREN,0000,0000,0000,,Provavelmente chegaríamos a uma fonte mais\Nrápido se fôssemos direto para a próxima cidade.
+Dialogue: 0,0:04:09.93,0:04:12.50,Default,FERN,0000,0000,0000,,O que foi, Sr. Stark?
+Dialogue: 0,0:04:13.00,0:04:15.43,Default,STARK,0000,0000,0000,,A fonte termal escondida\Ndas Montanhas Etwas...
+Dialogue: 0,0:04:15.43,0:04:17.83,Default,STARK,0000,0000,0000,,Sinto que já ouvi falar disso antes.
+Dialogue: 0,0:04:19.75,0:04:22.31,Default,STARK,0000,0000,0000,,Ah, lembrei agora.
+Dialogue: 0,0:04:22.31,0:04:27.08,Default,STARK,0000,0000,0000,,Frieren, acho que quero visitar\Na fonte termal escondida.
+Dialogue: 0,0:04:27.39,0:04:28.59,Default,FERN,0000,0000,0000,,Sr. Stark?
+Dialogue: 0,0:04:29.03,0:04:35.42,Default,FRIEREN,0000,0000,0000,,Stark, mesmo {\i1}que seja{\i0} uma\Nfonte termal, não vale o esforço.
+Dialogue: 0,0:04:35.42,0:04:36.29,Default,FRIEREN,0000,0000,0000,,Afinal, é—
+Dialogue: 0,0:04:36.29,0:04:39.52,Default,STARK,0000,0000,0000,,Já viemos até aqui.\NVamos dar uma olhada.
+Dialogue: 0,0:04:45.74,0:04:50.41,Default,FRIEREN,0000,0000,0000,,Tudo bem. Se você quer\Nmesmo ir, então vamos.
+Dialogue: 0,0:04:51.10,0:04:54.09,Default,BOY B,0000,0000,0000,,Tchau, moço!
+Dialogue: 0,0:04:54.09,0:04:56.61,Default,BOY A,0000,0000,0000,,Vamos brincar de novo!
+Dialogue: 0,0:04:56.61,0:04:58.60,Default,STARK,0000,0000,0000,,Até!
+Dialogue: 0,0:05:46.20,0:05:48.44,Default,FRIEREN,0000,0000,0000,,Estamos quase na fonte termal escondida.
+Dialogue: 0,0:05:53.96,0:05:58.51,Default,FERN,0000,0000,0000,,Srta. Frieren, você não\Nparece muito animada.
+Dialogue: 0,0:05:58.51,0:05:59.78,Default,FRIEREN,0000,0000,0000,,Acho que não.
+Dialogue: 0,0:05:59.78,0:06:02.35,Default,FRIEREN,0000,0000,0000,,Eu vaguei pelas montanhas
+Dialogue: 0,0:06:02.35,0:06:04.97,Default,FRIEREN,0000,0000,0000,,em busca da fonte termal escondida\Ncom Himmel e os outros.
+Dialogue: 0,0:06:07.67,0:06:09.36,Flashback,FRIEREN,0000,0000,0000,,Quero ir para casa.
+Dialogue: 0,0:06:09.36,0:06:10.43,Flashback,EISEN,0000,0000,0000,,Eu também.
+Dialogue: 0,0:06:11.56,0:06:15.47,Default,FERN,0000,0000,0000,,Você também viajou até lá\Ncom o grupo do Sr. Himmel?
+Dialogue: 0,0:06:15.94,0:06:22.94,Default,FRIEREN,0000,0000,0000,,Himmel não ficava satisfeito até vasculhar\Ncada canto de um lugar incomum.
+Dialogue: 0,0:06:23.48,0:06:26.98,Flashback,HEITER,0000,0000,0000,,Você disse que seria rápido!
+Dialogue: 0,0:06:26.98,0:06:29.48,Flashback,HIMMEL,0000,0000,0000,,Estou dizendo, tem algo aqui.
+Dialogue: 0,0:06:30.03,0:06:32.75,Flashback,HIMMEL,0000,0000,0000,,Eu sinto nas minhas entranhas.
+Dialogue: 0,0:06:33.58,0:06:35.35,Flashback,FRIEREN,0000,0000,0000,,Eu avisei.
+Dialogue: 0,0:06:35.35,0:06:37.40,Flashback,EISEN,0000,0000,0000,,Agora não dá mais para voltar.
+Dialogue: 0,0:06:38.81,0:06:42.50,Default,FRIEREN,0000,0000,0000,,O caminho até a fonte termal\Nescondida é particularmente brutal.
+Dialogue: 0,0:06:45.75,0:06:49.57,Default,FRIEREN,0000,0000,0000,,Precisa passar pelo território\Nde um monstro problemático.
+Dialogue: 0,0:07:03.26,0:07:05.42,Default,FRIEREN,0000,0000,0000,,Já está aqui.
+Dialogue: 0,0:07:05.42,0:07:06.40,Default,FRIEREN,0000,0000,0000,,Vamos lá.
+Dialogue: 0,0:07:18.65,0:07:19.92,Default,STARK,0000,0000,0000,,Um dragão, é?
+Dialogue: 0,0:07:19.92,0:07:21.77,Default,STARK,0000,0000,0000,,Faz tempo.
+Dialogue: 0,0:07:21.77,0:07:23.51,Default,FRIEREN,0000,0000,0000,,Aquilo não é um dragão.
+Dialogue: 0,0:07:23.51,0:07:27.48,Default,FRIEREN,0000,0000,0000,,Se for comparar, esse monstro\Nestá mais para um lagarto.
+Dialogue: 0,0:07:27.48,0:07:28.79,Default,STARK,0000,0000,0000,,Um lagarto?
+Dialogue: 0,0:07:30.11,0:07:32.92,Default,FERN,0000,0000,0000,,Está bem agitado.
+Dialogue: 0,0:07:32.92,0:07:36.56,Default,FRIEREN,0000,0000,0000,,Isso é típico de monstros\Nquando seu território é invadido.
+Dialogue: 0,0:07:37.04,0:07:41.07,Default,FRIEREN,0000,0000,0000,,Você tem que cortar as três cabeças\Nao mesmo tempo, ou elas se regeneram.
+Dialogue: 0,0:07:41.07,0:07:42.69,Default,STARK,0000,0000,0000,,Sério?!
+Dialogue: 0,0:07:54.89,0:07:56.46,Default,FRIEREN,0000,0000,0000,,Corra, Stark.
+Dialogue: 0,0:07:57.47,0:07:59.19,Default,FRIEREN,0000,0000,0000,,Eu tenho um plano.
+Dialogue: 0,0:07:59.57,0:08:00.99,Default,STARK,0000,0000,0000,,Que tipo de—
+Dialogue: 0,0:08:17.49,0:08:20.90,Default,FRIEREN,0000,0000,0000,,Vamos nos dividir para a esquerda e direita\Ne atacar as três ao mesmo tempo.
+Dialogue: 0,0:08:20.90,0:08:21.69,Default,FERN,0000,0000,0000,,Entendido.
+Dialogue: 0,0:08:22.05,0:08:24.77,Default,FRIEREN,0000,0000,0000,,Façamos isso no menor\Nnúmero de tentativas possível.
+Dialogue: 0,0:08:25.56,0:08:29.44,Default,FRIEREN,0000,0000,0000,,Se o tempo não bater, ele vai\Ncontinuar se regenerando.
+Dialogue: 0,0:08:29.44,0:08:30.50,Default,FERN,0000,0000,0000,,Com licença.
+Dialogue: 0,0:08:31.60,0:08:34.12,Default,FERN,0000,0000,0000,,O plano que você mencionou antes...
+Dialogue: 0,0:08:34.84,0:08:38.75,Default,FRIEREN,0000,0000,0000,,Vamos atacar enquanto o monstro\Nestiver focado no Stark.
+Dialogue: 0,0:08:42.09,0:08:43.33,Default,FERN,0000,0000,0000,,Então quer dizer que...
+Dialogue: 0,0:08:51.48,0:08:53.90,Default,STARK,0000,0000,0000,,...eu era só a isca.
+Dialogue: 0,0:08:57.32,0:08:59.95,Default,FRIEREN,0000,0000,0000,,Bom trabalho, vocês dois.
+Dialogue: 0,0:09:41.93,0:09:44.02,Default,STARK,0000,0000,0000,,Finalmente chegamos.
+Dialogue: 0,0:09:44.02,0:09:45.52,Default,FERN,0000,0000,0000,,Foi difícil.
+Dialogue: 0,0:09:46.11,0:09:50.35,Default,FRIEREN,0000,0000,0000,,Viu? Eu disse que devíamos ter ido\Ndireto para a próxima cidade.
+Dialogue: 0,0:09:51.41,0:09:53.97,Default,FRIEREN,0000,0000,0000,,Essa é a fonte termal escondida\Ndas Montanhas Etwas.
+Dialogue: 0,0:10:07.30,0:10:08.80,Default,STARK,0000,0000,0000,,É tão rasa.
+Dialogue: 0,0:10:10.18,0:10:12.31,Default,FERN,0000,0000,0000,,Isso é só um escalda-pés.
+Dialogue: 0,0:10:12.31,0:10:15.05,Default,FRIEREN,0000,0000,0000,,Eu disse que não valia o esforço.
+Dialogue: 0,0:10:16.09,0:10:17.92,Default,STARK,0000,0000,0000,,Está tudo bem.
+Dialogue: 0,0:10:21.49,0:10:23.78,Default,STARK,0000,0000,0000,,Assim, todos nós\Npodemos aproveitar juntos.
+Dialogue: 0,0:10:29.19,0:10:30.65,Default,FRIEREN,0000,0000,0000,,Tem razão.
+Dialogue: 0,0:10:41.45,0:10:43.25,Default,FERN,0000,0000,0000,,Que vista bonita.
+Dialogue: 0,0:10:43.85,0:10:44.86,Default,STARK,0000,0000,0000,,Sim.
+Dialogue: 0,0:10:46.19,0:10:50.51,Default,FERN,0000,0000,0000,,Aliás, Sr. Stark, por que quis vir aqui?
+Dialogue: 0,0:10:51.23,0:10:53.72,Default,STARK,0000,0000,0000,,Ouvi falar disso do meu mestre.
+Dialogue: 0,0:10:54.12,0:10:58.71,Flashback,EISEN,0000,0000,0000,,A fonte termal escondida das Montanhas\NEtwas era só um escalda-pés.
+Dialogue: 0,0:10:58.71,0:11:01.45,Flashback,EISEN,0000,0000,0000,,Não valeu nada o esforço.
+Dialogue: 0,0:11:01.45,0:11:04.02,Flashback,EISEN,0000,0000,0000,,Foi uma aventura realmente ridícula.
+Dialogue: 0,0:11:05.56,0:11:08.35,Flashback,EISEN,0000,0000,0000,,Mas é estranho...
+Dialogue: 0,0:11:09.08,0:11:12.67,Flashback,EISEN,0000,0000,0000,,Eu não trocaria minhas memórias
+Dialogue: 0,0:11:12.67,0:11:16.64,Flashback,EISEN,0000,0000,0000,,dessas aventuras ridículas\Ncom meus amigos por nada.
+Dialogue: 0,0:11:21.07,0:11:23.83,FlashbackItalics,EISEN,0000,0000,0000,,Nunca vou esquecer aquela vista.
+Dialogue: 0,0:11:30.70,0:11:32.99,Default,FERN,0000,0000,0000,,Então você já sabia, Sr. Stark.
+Dialogue: 0,0:11:34.39,0:11:37.88,Default,STARK,0000,0000,0000,,Acho que eu queria ver a mesma\Nvista que meu mestre viu.
+Dialogue: 0,0:11:44.98,0:11:47.47,Default,STARK,0000,0000,0000,,Realmente é uma vista bonita.
+Dialogue: 0,0:12:10.42,0:12:12.90,Default,FERN,0000,0000,0000,,O caminho de volta também é brutal.
+Dialogue: 0,0:12:18.36,0:12:22.14,Default,STARK,0000,0000,0000,,Talvez não tenha valido o esforço mesmo.
+Dialogue: 0,0:12:23.05,0:12:28.05,Signs_WText,SIGN,0000,0000,0000,,{\bord1\blur0.2\pos(588.5,135)}29 anos se passaram desde a morte do Herói Himmel.\NEstamos na Cidade-fortaleza de Heiß, nas Terras do Norte.
+Dialogue: 0,0:12:35.50,0:12:40.31,Default,OLD WOMAN,0000,0000,0000,,Você realmente gosta de fontes termais\Npara alguém tão jovem, mocinha.
+Dialogue: 0,0:12:52.20,0:12:53.83,DefaultTop,KIDS,0000,0000,0000,,É!
+Dialogue: 0,0:12:52.20,0:12:53.83,Default,KIDS,0000,0000,0000,,Droga!
+Dialogue: 0,0:12:53.83,0:12:55.21,Default,KIDS,0000,0000,0000,,Próxima rodada!
+Dialogue: 0,0:12:58.97,0:13:04.33,Default,FERN,0000,0000,0000,,A Srta. Frieren está mergulhada nas fontes\Ntermais desde que chegamos aqui.
+Dialogue: 0,0:13:04.33,0:13:07.72,Default,STARK,0000,0000,0000,,Quando ela sai, é só para\Nvisitar lojas de magia.
+Dialogue: 0,0:13:08.58,0:13:11.21,Default,FERN,0000,0000,0000,,Aparentemente,\Nvamos ficar mais dois dias.
+Dialogue: 0,0:13:11.55,0:13:14.63,Default,STARK,0000,0000,0000,,Acho que é uma estadia\Ncurta para a Frieren.
+Dialogue: 0,0:13:14.63,0:13:16.60,Default,FERN,0000,0000,0000,,Eu tratei de dar uma boa bronca nela.
+Dialogue: 0,0:13:17.56,0:13:20.47,Default,FERN,0000,0000,0000,,Mas não temos nada para\Nfazer o dia todo amanhã.
+Dialogue: 0,0:13:20.94,0:13:22.53,Default,STARK,0000,0000,0000,,Realmente.
+Dialogue: 0,0:13:22.53,0:13:24.89,Default,STARK,0000,0000,0000,,Talvez eu visite uma loja de armas.
+Dialogue: 0,0:13:24.89,0:13:26.46,Default,STARK,0000,0000,0000,,Preciso afiar meu machado.
+Dialogue: 0,0:13:26.46,0:13:29.42,Default,FERN,0000,0000,0000,,Tudo bem, mas eu vou ficar sem nada\Npara fazer o dia todo amanhã.
+Dialogue: 0,0:13:33.98,0:13:35.45,Default,FERN,0000,0000,0000,,Preste atenção em mim.
+Dialogue: 0,0:13:38.83,0:13:42.59,Default,FERN,0000,0000,0000,,Que falta de consideração, Sr. Stark.
+Dialogue: 0,0:13:42.59,0:13:47.13,Default,STARK,0000,0000,0000,,O que foi? Não precisava falar assim.
+Dialogue: 0,0:13:48.15,0:13:50.86,DefaultItalics,STARK/ID,0000,0000,0000,,Ela é sempre tão dura comigo.
+Dialogue: 0,0:13:51.66,0:13:54.88,DefaultItalics,STARK/ID,0000,0000,0000,,Tudo bem. Hora da vingança.
+Dialogue: 0,0:13:56.59,0:14:00.02,Default,STARK,0000,0000,0000,,Se está tão desesperada por atenção,\Nvamos sair juntos amanhã.
+Dialogue: 0,0:14:06.67,0:14:09.24,DefaultItalics,STARK/ID,0000,0000,0000,,Opa. Isso não parece bom.
+Dialogue: 0,0:14:13.89,0:14:15.29,DefaultItalics,STARK/ID,0000,0000,0000,,Estou morto.
+Dialogue: 0,0:14:18.80,0:14:21.81,Default,FERN,0000,0000,0000,,Muito bem. Até amanhã.
+Dialogue: 0,0:14:36.02,0:14:39.81,Default,STARK,0000,0000,0000,,Ei, o seu livro...
+Dialogue: 0,0:14:43.76,0:14:45.45,DefaultItalics,STARK/ID,0000,0000,0000,,Por que ela reagiu assim?
+Dialogue: 0,0:14:57.65,0:14:59.30,Default,STARK,0000,0000,0000,,Com licença...
+Dialogue: 0,0:15:13.47,0:15:15.40,Default,STARK,0000,0000,0000,,Frieren...
+Dialogue: 0,0:15:18.35,0:15:22.47,Default,STARK,0000,0000,0000,,O que você acha? Ela está brava?
+Dialogue: 0,0:15:23.06,0:15:25.32,Default,STARK,0000,0000,0000,,O que vai acontecer comigo?
+Dialogue: 0,0:15:25.68,0:15:30.05,Default,FRIEREN,0000,0000,0000,,Stark, você entende a quem\Nestá pedindo conselhos?
+Dialogue: 0,0:15:30.05,0:15:31.28,Default,FRIEREN,0000,0000,0000,,Perdeu a cabeça?
+Dialogue: 0,0:15:31.74,0:15:35.15,Default,STARK,0000,0000,0000,,Você tem razão. Desculpa\Npor pedir o impossível.
+Dialogue: 0,0:15:35.15,0:15:37.60,Default,FRIEREN,0000,0000,0000,,Eu nunca disse que era impossível.
+Dialogue: 0,0:15:37.60,0:15:39.81,Default,FRIEREN,0000,0000,0000,,Sou uma mulher adulta, sabia?
+Dialogue: 0,0:15:39.81,0:15:42.02,Default,FRIEREN,0000,0000,0000,,Eu sei exatamente como uma garota pensa.
+Dialogue: 0,0:15:42.72,0:15:45.66,Default,STARK,0000,0000,0000,,Tem certeza? Estou confiando em você.
+Dialogue: 0,0:15:46.62,0:15:48.50,Default,STARK,0000,0000,0000,,Certo, deixa eu perguntar de novo.
+Dialogue: 0,0:15:48.50,0:15:52.87,Default,STARK,0000,0000,0000,,Frieren, o que você pensaria se eu\Ndissesse para você: "Vamos sair juntos?"
+Dialogue: 0,0:15:53.56,0:15:56.10,Default,FRIEREN,0000,0000,0000,,Você se tornou um belo homem, Stark.
+Dialogue: 0,0:15:56.10,0:15:58.86,Default,FRIEREN,0000,0000,0000,,Fico tão feliz, que até\Npagaria o jantar para você.
+Dialogue: 0,0:15:58.86,0:16:01.85,Default,STARK,0000,0000,0000,,É, isso não está ajudando.
+Dialogue: 0,0:16:01.85,0:16:05.31,Default,STARK,0000,0000,0000,,Isso parece uma vovó\Npasseando com o neto.
+Dialogue: 0,0:16:06.10,0:16:07.89,Default,FRIEREN,0000,0000,0000,,Você acabou de me chamar de "vovó".
+Dialogue: 0,0:16:07.89,0:16:10.08,Default,FRIEREN,0000,0000,0000,,É a sua segunda infração\Nme chamando de velha.
+Dialogue: 0,0:16:10.08,0:16:11.38,Default,FRIEREN,0000,0000,0000,,E não haverá uma terceira.
+Dialogue: 0,0:16:11.38,0:16:13.36,Default,STARK,0000,0000,0000,,Por que está contando?! Tá me assustando!
+Dialogue: 0,0:16:13.67,0:16:16.49,Default,STARK,0000,0000,0000,,Aliás, o que acontece\Nna terceira infração?
+Dialogue: 0,0:16:16.49,0:16:18.28,Default,FRIEREN,0000,0000,0000,,Eu vou gritar e chorar.
+Dialogue: 0,0:16:18.28,0:16:21.19,Default,FRIEREN,0000,0000,0000,,Minhas birras são assustadoras, sabia?
+Dialogue: 0,0:16:21.19,0:16:24.30,Default,FRIEREN,0000,0000,0000,,Elas até fizeram o herói\NHimmel tremer de medo.
+Dialogue: 0,0:16:41.88,0:16:44.53,Flashback,EISEN,0000,0000,0000,,Ela está chorando há\Ntrês dias e três noites.
+Dialogue: 0,0:16:44.53,0:16:45.55,Flashback,HEITER,0000,0000,0000,,Eita.
+Dialogue: 0,0:16:45.55,0:16:46.60,Flashback,HIMMEL,0000,0000,0000,,É assustador.
+Dialogue: 0,0:16:46.86,0:16:48.49,Default,STARK,0000,0000,0000,,Parece assustador.
+Dialogue: 0,0:16:48.49,0:16:51.03,Default,STARK,0000,0000,0000,,É assim que uma mulher adulta se comporta?
+Dialogue: 0,0:16:54.73,0:16:59.29,Default,FRIEREN,0000,0000,0000,,Bem, agora entendo que você é\Ncompletamente sem tato e sensibilidade.
+Dialogue: 0,0:17:01.29,0:17:03.69,Default,FRIEREN,0000,0000,0000,,Então, você terá um encontro com a Fern?
+Dialogue: 0,0:17:05.62,0:17:09.39,Default,STARK,0000,0000,0000,,Não parece que dá para voltar atrás agora.
+Dialogue: 0,0:17:09.39,0:17:13.49,Default,STARK,0000,0000,0000,,Então pensei em pedir que você sugerisse\Nalguns lugares de que ela poderia gostar.
+Dialogue: 0,0:17:15.32,0:17:18.00,Default,STARK,0000,0000,0000,,Na verdade, esquece.\NEu não devia ter perguntado—
+Dialogue: 0,0:17:18.00,0:17:19.38,Default,FRIEREN,0000,0000,0000,,Então vamos dar uma olhada?
+Dialogue: 0,0:17:19.38,0:17:20.25,Default,STARK,0000,0000,0000,,O quê?
+Dialogue: 0,0:17:20.25,0:17:21.92,Default,FRIEREN,0000,0000,0000,,Talvez eu ache algum lugar.
+Dialogue: 0,0:17:23.44,0:17:24.85,Default,FRIEREN,0000,0000,0000,,Algum lugar de que ela gostaria.
+Dialogue: 0,0:17:25.78,0:17:27.07,Default,PASSERSBY,0000,0000,0000,,O que devemos fazer agora?
+Dialogue: 0,0:17:27.07,0:17:28.44,Default,PASSERSBY,0000,0000,0000,,Que tal comermos alguma coisa?
+Dialogue: 0,0:17:28.44,0:17:29.41,Default,PASSERSBY,0000,0000,0000,,Boa ideia.
+Dialogue: 0,0:17:29.62,0:17:32.68,Default,FRIEREN,0000,0000,0000,,Você deveria começar comprando\Nalgo para ela comer no mercado.
+Dialogue: 0,0:17:33.19,0:17:35.96,Default,FRIEREN,0000,0000,0000,,Ela fica mal-humorada\Nquando está com fome.
+Dialogue: 0,0:17:37.28,0:17:39.18,Default,FRIEREN,0000,0000,0000,,Não pule as barracas de comida.
+Dialogue: 0,0:17:39.68,0:17:42.98,Default,FRIEREN,0000,0000,0000,,A Fern adora beliscar, desde pequena.
+Dialogue: 0,0:17:46.43,0:17:50.83,Default,FRIEREN,0000,0000,0000,,Ela provavelmente gosta de lojas\Ncom coisas bonitas em exposição.
+Dialogue: 0,0:17:51.74,0:17:56.75,Default,FRIEREN,0000,0000,0000,,A Fern gosta de doces, mas o que\Nela quer depende do humor,
+Dialogue: 0,0:17:57.67,0:18:01.58,Default,FRIEREN,0000,0000,0000,,então você deve escolher\Nalgumas confeitarias.
+Dialogue: 0,0:18:07.49,0:18:09.05,Default,FRIEREN,0000,0000,0000,,E o que mais...?
+Dialogue: 0,0:18:15.87,0:18:20.78,Default,FRIEREN,0000,0000,0000,,Praças tranquilas como esta\Ntambém são uma opção.
+Dialogue: 0,0:18:22.49,0:18:26.08,Default,STARK,0000,0000,0000,,Sério? Você conhece muito bem a Fern.
+Dialogue: 0,0:18:26.08,0:18:28.26,Default,STARK,0000,0000,0000,,Estou impressionado, Frieren.
+Dialogue: 0,0:18:28.26,0:18:31.03,Default,FRIEREN,0000,0000,0000,,Não, eu não sei de nada.
+Dialogue: 0,0:18:32.30,0:18:34.06,Default,FRIEREN,0000,0000,0000,,Não sou nada impressionante.
+Dialogue: 0,0:18:34.52,0:18:36.61,Default,FRIEREN,0000,0000,0000,,Impressionante era o Heiter.
+Dialogue: 0,0:18:38.28,0:18:43.02,Default,FRIEREN,0000,0000,0000,,Ele falava das preferências\Nda Fern o tempo todo.
+Dialogue: 0,0:18:44.28,0:18:46.94,Default,FRIEREN,0000,0000,0000,,"Ela fica mal-humorada\Nquando está com fome",
+Dialogue: 0,0:18:46.94,0:18:50.89,Default,FRIEREN,0000,0000,0000,,"ela gosta de beliscar",\N"ela gosta de coisas bonitas"
+Dialogue: 0,0:18:51.75,0:18:57.67,Default,FRIEREN,0000,0000,0000,,e "as preferências dela mudam dependendo do\Nhumor" foram coisas que o Heiter me ensinou.
+Dialogue: 0,0:18:59.73,0:19:05.71,Default,FRIEREN,0000,0000,0000,,O Heiter parecia querer que eu fosse\Numa figura materna para a Fern,
+Dialogue: 0,0:19:06.46,0:19:11.67,Default,FRIEREN,0000,0000,0000,,mas, no fim, eu falhei em descobrir\Nqualquer coisa de que ela gostasse.
+Dialogue: 0,0:19:19.36,0:19:23.13,Default,STARK,0000,0000,0000,,Mas você se lembra de tudo isso.
+Dialogue: 0,0:19:24.00,0:19:27.71,Default,STARK,0000,0000,0000,,Acho que você é uma\Nboa responsável para ela.
+Dialogue: 0,0:19:30.52,0:19:32.87,Default,FRIEREN,0000,0000,0000,,Pensando bem,
+Dialogue: 0,0:19:32.87,0:19:37.75,Default,FRIEREN,0000,0000,0000,,a primeira vez que comemoramos o aniversário\Nda Fern foi na estrada, num lugar como este.
+Dialogue: 0,0:19:42.24,0:19:45.04,Default,FRIEREN,0000,0000,0000,,Às vezes, você diz coisas bonitas, Stark.
+Dialogue: 0,0:19:45.81,0:19:46.95,Default,STARK,0000,0000,0000,,Eu sei.
+Dialogue: 0,0:19:48.71,0:19:51.61,Default,FRIEREN,0000,0000,0000,,Vou apagar uma infração da contagem.
+Dialogue: 0,0:19:52.29,0:19:53.63,Default,STARK,0000,0000,0000,,Obrigado...
+Dialogue: 0,0:20:19.41,0:20:23.78,Default,FERN,0000,0000,0000,,Srta. Frieren, eu fui chamada para sair.
+Dialogue: 0,0:20:24.37,0:20:25.77,Default,FERN,0000,0000,0000,,O que eu devo fazer?
+Dialogue: 0,0:20:27.22,0:20:28.74,Default,FRIEREN,0000,0000,0000,,Você também?
+Dialogue: 0,0:20:30.26,0:20:32.25,Default,FRIEREN,0000,0000,0000,,Não é nada.
+Dialogue: 0,0:20:33.87,0:20:37.37,Default,FERN,0000,0000,0000,,Srta. Frieren, você já saiu com alguém?
+Dialogue: 0,0:20:37.37,0:20:38.64,Default,FRIEREN,0000,0000,0000,,Já, sim.
+Dialogue: 0,0:20:38.64,0:20:40.00,Default,FERN,0000,0000,0000,,É, claro que não saiu...
+Dialogue: 0,0:20:42.11,0:20:43.87,Default,FERN,0000,0000,0000,,Espera, saiu?!
+Dialogue: 0,0:20:44.08,0:20:44.88,Default,FRIEREN,0000,0000,0000,,Sim.
+Dialogue: 0,0:20:48.12,0:20:51.67,Default,FERN,0000,0000,0000,,Com quem você foi e o que fizeram?
+Dialogue: 0,0:20:52.24,0:20:55.60,Default,FRIEREN,0000,0000,0000,,Himmel e eu fomos\Nprocurar um gato perdido.
+Dialogue: 0,0:20:56.01,0:20:58.57,Default,FRIEREN,0000,0000,0000,,Um dono de uma loja\Nde itens mágicos quem pediu.
+Dialogue: 0,0:21:00.16,0:21:02.97,Default,FERN,0000,0000,0000,,Então vocês só estavam\Nfazendo um serviço.
+Dialogue: 0,0:21:03.41,0:21:07.05,Default,FERN,0000,0000,0000,,Não sei se dá para chamar isso de encontro.
+Dialogue: 0,0:21:10.81,0:21:12.56,Default,FRIEREN,0000,0000,0000,,Escuta, Fern,
+Dialogue: 0,0:21:12.56,0:21:16.02,Default,FRIEREN,0000,0000,0000,,quando duas pessoas próximas\Nde sexos opostos saem juntas, sozinhas,
+Dialogue: 0,0:21:16.02,0:21:18.43,Default,FRIEREN,0000,0000,0000,,isso é um encontro.
+Dialogue: 0,0:21:21.35,0:21:23.41,Default,FRIEREN,0000,0000,0000,,Foi a que a minha mestra disse.
+Dialogue: 0,0:21:26.50,0:21:29.70,Default,FRIEREN,0000,0000,0000,,Pensando bem, eu também saí com o Sein.
+Dialogue: 0,0:21:29.70,0:21:31.05,Default,FERN,0000,0000,0000,,Deixa pra lá.
+Dialogue: 0,0:21:36.06,0:21:37.48,Default,FERN,0000,0000,0000,,Boa noite.
+Dialogue: 0,0:22:29.57,0:22:34.14,Signs,sign,0000,0000,0000,,{\fs14\i0\shad0\fnTimes New Roman\fad(500,500)\\c&H000000&\pos(123.395,85.923)}Legenda Brasileira\N\N{\b1}tradução{\b0}\NMarianna Brito\N\N{\b1}edição{\b0}\NMarcelo Gouvêa\N\N{\b1}revisão{\b0}\NJacques Junior\N\N{\b1}produção{\b0}\NGustavo Hoffmann
+Dialogue: 0,0:23:50.20,0:23:52.58,Default,GUARD,0000,0000,0000,,Então você é a maga de nível um, Fern.
+Dialogue: 0,0:23:51.02,0:23:54.44,DefaultTop,EISEN,0000,0000,0000,,Eu não esperava encontrar\Num monstro tão poderoso aqui.
+Dialogue: 0,0:23:51.49,0:23:53.58,DefaultOverlap,STARK,0000,0000,0000,,Você não está usando suas roupas de sempre.
+Dialogue: 0,0:23:52.58,0:23:55.10,Default,FERN,0000,0000,0000,,Então, para onde vamos?
+Dialogue: 0,0:23:53.82,0:23:55.09,DefaultOverlap,HEITER,0000,0000,0000,,Achei que fosse morrer.
+Dialogue: 0,0:23:54.88,0:23:57.34,DefaultTop,VILLAGER,0000,0000,0000,,Nascemos e crescemos aqui.
+Dialogue: 0,0:23:55.09,0:23:56.79,Default,FRIEREN,0000,0000,0000,,Não baixe a guarda.
+Dialogue: 0,0:23:57.34,0:24:00.11,Default,HIMMEL,0000,0000,0000,,Eu quero proteger os lares\Ndos outros também.
+Dialogue: 0,0:23:57.62,0:24:00.07,Signs_NextEp,SIGN,0000,0000,0000,,{\fad(229,1)\blur3\t(20,312,\blur0.2)\pos(320,113.5)\c&H000000&\t(312,646,\c&HF6F6F6&)\fsp1.6\t(\fsp1)}Episódio 32\N\N\N\N\N\N\N\NOs lares dos outros
