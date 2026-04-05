@@ -498,3 +498,13 @@ frame 497, episode 1 - https://facebook.com/122308000520068249
 frame 498, episode 1 - https://facebook.com/122308000796068249
 frame 499, episode 1 - https://facebook.com/122308001210068249
 frame 500, episode 1 - https://facebook.com/122308001504068249
+frame 501, episode 1 - https://facebook.com/122308014050068249
+frame 502, episode 1 - https://facebook.com/122308014764068249
+frame 503, episode 1 - https://facebook.com/122308015400068249
+frame 504, episode 1 - https://facebook.com/122308016156068249
+frame 505, episode 1 - https://facebook.com/122308016480068249
+frame 506, episode 1 - https://facebook.com/122308016888068249
+frame 507, episode 1 - https://facebook.com/122308017530068249
+frame 508, episode 1 - https://facebook.com/122308017980068249
+frame 509, episode 1 - https://facebook.com/122308018460068249
+frame 510, episode 1 - https://facebook.com/122308018874068249
