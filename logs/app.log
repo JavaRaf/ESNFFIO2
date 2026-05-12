@@ -28,3 +28,6 @@ main | main | line 138 | ERROR | 2026-05-12 03:30:12,715 | Failed to update bio
 poster | post_frame | line 37 | ERROR | 2026-05-12 08:43:18,233 | Failed to post frame
 main | main | line 105 | ERROR | 2026-05-12 08:43:18,233 | After several attempts, it was not possible to post frame 3211 of episode 01.
 main | main | line 138 | ERROR | 2026-05-12 08:43:18,357 | Failed to update bio
+poster | post_frame | line 37 | ERROR | 2026-05-12 11:23:20,341 | Failed to post frame
+main | main | line 105 | ERROR | 2026-05-12 11:23:20,341 | After several attempts, it was not possible to post frame 3211 of episode 01.
+main | main | line 138 | ERROR | 2026-05-12 11:23:20,668 | Failed to update bio
