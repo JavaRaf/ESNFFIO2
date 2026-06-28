@@ -12,7 +12,6 @@ from time import sleep
 # Third party imports
 from src.facebook import FacebookAPI
 from src.frame_utils import random_crop
-from src.load_configs import save_configs
 from src.logger import get_logger
 
 # Initialize logger services and Facebook API client

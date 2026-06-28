@@ -155,25 +155,19 @@ class FacebookAPI:
 
         reposting_to_album = configs.get("posting", {}).get("reposting_in_album", False)
 
-        if not reposting_to_album:
-            return None
-
-        if not album_id:
+        if not reposting_to_album or not album_id:
             return None
         
         if not str(album_id).isdigit():
             logger.error("reposting to album is enabled but album ID is not a valid integer", exc_info=True)
             return None
 
-        endpoint = f"{self.base_url}/{album_id}/photos"
-        params = {"access_token": self.access_token}
-        files = {"source": frame_path}
         try:
             print(
             f"├── Reposting frame to album {album_id}...",
             flush=True,
             )
-            return self.post_frame(message, frame_path, album_id)
+            return self.post_frame(message, frame_path, parent_id=album_id)
         except RetryError:
             logger.error("Failed to repost frame to album after multiple attempts", exc_info=True)
             return None
