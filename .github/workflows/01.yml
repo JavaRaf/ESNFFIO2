@@ -84,6 +84,8 @@ jobs:
           else
             echo "Workflow is already running. Skipping execution."
           fi
+        continue-on-error: true # garentees that the workflow continues to the commit step even if main.py fails
+        
 
       # -------------------------------------------------------------
       # AUTO COMMIT (GitHub Actions)
