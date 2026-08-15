@@ -106,8 +106,8 @@ posting:
 #   {posting_interval} The interval between posts in minutes (default: 2) (alterable in the configs.yml file)
 #   {execution_interval} The interval between execution (default: 2 hours) (alterable in the workflow file)
 post_msg: |
-  Season {season_number}, Episode {episode_number} - {episode_title}, Frame {frame_number} out of {max_frames}
-  timestamp: {timestamp}
+  Season {season_number}, Episode {episode_number}, Frame {frame_number} out of {max_frames}
+  {episode_title} - Timestamp: {timestamp}
 
 bio_msg: |
   Looking for any frame? All frames available at https://javaraf.github.io/frame-viewer
