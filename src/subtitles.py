@@ -207,6 +207,11 @@ def __ass_format(frame_number: int, img_fps: float, subtitles_data: dict) -> str
         r"\blyric(s)?\b|\bsong(s)?\b|\bopening\b|\bending\b|\bop\b|\bed\b",
         re.IGNORECASE,
     )
+    # regex pattern for credits
+    CREDITS_EXPRESSION = re.compile(
+        r"credits",
+        re.IGNORECASE,
+    )
 
     frame_time = frame_number / img_fps
 
@@ -216,6 +221,9 @@ def __ass_format(frame_number: int, img_fps: float, subtitles_data: dict) -> str
             actor = sub.get("Actor", "")
             text  = sub.get("Text", "")
             lang  = subtitles_data.get("language", "")
+
+            if CREDITS_EXPRESSION.search(style) or CREDITS_EXPRESSION.search(actor):
+                continue
 
             if SIGN_EXPRESSION.search(style) or SIGN_EXPRESSION.search(actor):
                 text = f"【 {text} 】"
