@@ -10078,3 +10078,13 @@ frame 5037, episode 2 - https://facebook.com/122331372116068249
 frame 5038, episode 2 - https://facebook.com/122331372530068249
 frame 5039, episode 2 - https://facebook.com/122331373124068249
 frame 5040, episode 2 - https://facebook.com/122331373526068249
+frame 1, episode 3 - https://facebook.com/122331426188068249
+frame 2, episode 3 - https://facebook.com/122331426668068249
+frame 3, episode 3 - https://facebook.com/122331427256068249
+frame 4, episode 3 - https://facebook.com/122331427754068249
+frame 5, episode 3 - https://facebook.com/122331428318068249
+frame 6, episode 3 - https://facebook.com/122331428846068249
+frame 7, episode 3 - https://facebook.com/122331429272068249
+frame 8, episode 3 - https://facebook.com/122331429818068249
+frame 9, episode 3 - https://facebook.com/122331430250068249
+frame 10, episode 3 - https://facebook.com/122331430880068249
