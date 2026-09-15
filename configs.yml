@@ -1,9 +1,9 @@
 github:
-  username: JavaRaf                      # Your GitHub username (format: string)
+  username: py-rafasx                    # Your GitHub username (format: string)
   repo: season2                          # The name of the repo where the episodes which the frames are stored
   branch: master                         # The branch of the repo where the episodes which the frames are stored
   # Example: 
-  # javaRafa/                            # username
+  # py-rafasx/                           # username
   # └── season2/                         # repo name
   #     └── 01/                          # episode folder name (name of the episode folder) (ex: 01, 02, 03, etc.)
   #         ├── frame_0001.jpg
@@ -110,6 +110,6 @@ post_msg: |
   {episode_title} - Timestamp: {timestamp}
 
 bio_msg: |
-  Looking for any frame? All frames available at https://javaraf.github.io/frame-viewer
+  Looking for any frame? All frames available at https://py-rafasx.github.io/frame-viewer
   Posting {fph} frames every {execution_interval} hours
 
